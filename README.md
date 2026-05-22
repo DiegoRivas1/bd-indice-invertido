@@ -281,7 +281,7 @@ hadoop jar /usr/lib/hadoop-mapreduce/hadoop-streaming.jar \
 ```
 
 Tiempo de ejecucion: ~2 horas 15 minutos con 3 workers.
-El job corre en YARN — si se cierra SSH el job sigue corriendo.
+El job corre en YARN si se cierra SSH el job sigue corriendo.
 
 Verificar:
 ```bash
@@ -331,9 +331,9 @@ abdel   1918.txt, 1950s.txt, 1960s.txt, 1970.txt, 1981.txt, 20th_century.txt, Ap
 Buscar:
 ```bash
 aws s3 cp s3://lab03-indice-invertido/scripts/titles.txt .
+python3 search_wiki.py united states president
 python3 search_wiki.py science technology
 python3 search_wiki.py world war
-python3 search_wiki.py united states president
 ```
 
 Guardamos (opcionalmente se pueden subir a S3):
@@ -351,18 +351,44 @@ aws s3 cp s3://lab03-indice-invertido/resultados/resultado_wiki_final.txt .
 
 Resultados:
 ```
-Busqueda: science technology
+Búsqueda: united states president
 --------------------------------------------------
-  Alan_Turing.txt                 "Alan Turing"                   (2 termino(s))
-  Black_hole.txt                  "Black hole"                    (2 termino(s))
-  Berlin.txt                      "Berlin"                        (2 termino(s))
-  Central_Intelligence_Agency.txt "Central Intelligence Agency"   (2 termino(s))
+  1735.txt  "1735"  (3 término(s))
+  1756.txt  "1756"  (3 término(s))
+  1767.txt  "1767"  (3 término(s))
+  1773.txt  "1773"  (3 término(s))
+  1789.txt  "1789"  (3 término(s))
+  1790.txt  "1790"  (3 término(s))
+  1792.txt  "1792"  (3 término(s))
+  1797.txt  "1797"  (3 término(s))
+  1804.txt  "1804"  (3 término(s))
+  1808.txt  "1808"  (3 término(s))
 
-Busqueda: united states president
+Búsqueda: science technology
 --------------------------------------------------
-  1789.txt  "1789"  (3 termino(s))
-  1797.txt  "1797"  (3 termino(s))
-  1804.txt  "1804"  (3 termino(s))
+  Alan_Turing.txt  "Alan Turing"  (2 término(s))
+  Association_football.txt  "Association football"  (2 término(s))
+  Bangalore.txt  "Bangalore"  (2 término(s))
+  Berlin.txt  "Berlin"  (2 término(s))
+  Black_hole.txt  "Black hole"  (2 término(s))
+  CategoryComputing.txt  "Category:Computing"  (2 término(s))
+  Central_Intelligence_Agency.txt  "Central Intelligence Agency"  (2 término(s))
+  Chicago.txt  "Chicago"  (2 término(s))
+  Compound.txt  "Compound"  (2 término(s))
+  Creating.txt  "Creating"  (2 término(s))
+
+Búsqueda: world war
+--------------------------------------------------
+  1373.txt  "1373"  (2 término(s))
+  1835.txt  "1835"  (2 término(s))
+  1851.txt  "1851"  (2 término(s))
+  1860s.txt  "1860s"  (2 término(s))
+  1870.txt  "1870"  (2 término(s))
+  1872.txt  "1872"  (2 término(s))
+  1891.txt  "1891"  (2 término(s))
+  1906.txt  "1906"  (2 término(s))
+  1907.txt  "1907"  (2 término(s))
+  1910s.txt  "1910s"  (2 término(s))
 ```
 
 ---
