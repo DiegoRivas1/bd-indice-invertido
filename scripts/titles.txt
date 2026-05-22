@@ -1,0 +1,4999 @@
+April.txt	April
+August.txt	August
+Art.txt	Art
+A.txt	A
+Air.txt	Air
+WikipediaAdministrators.txt	Wikipedia:Administrators
+Autonomous_communities_of_Spain.txt	Autonomous communities of Spain
+Alan_Turing.txt	Alan Turing
+Alanis_Morissette.txt	Alanis Morissette
+Adobe_Illustrator.txt	Adobe Illustrator
+Andouille.txt	Andouille
+Farming.txt	Farming
+Arithmetic.txt	Arithmetic
+Addition.txt	Addition
+Australia.txt	Australia
+American_English.txt	American English
+Aquaculture.txt	Aquaculture
+Abbreviation.txt	Abbreviation
+Angel.txt	Angel
+Ad_hominem.txt	Ad hominem
+Native_American.txt	Native American
+Apple.txt	Apple
+Abrahamic_religions.txt	Abrahamic religions
+Algebra.txt	Algebra
+Atom.txt	Atom
+Astronomy.txt	Astronomy
+Architecture.txt	Architecture
+Anatomy.txt	Anatomy
+Asteroid.txt	Asteroid
+Afghanistan.txt	Afghanistan
+Angola.txt	Angola
+Argentina.txt	Argentina
+Austria.txt	Austria
+Armenia.txt	Armenia
+Archaeology.txt	Archaeology
+Application.txt	Application
+Animal.txt	Animal
+Acceleration.txt	Acceleration
+WikipediaBASIC_English_alphabetical_wordlist.txt	Wikipedia:BASIC English alphabetical wordlist
+WikipediaBasic_English_international_wordlist.txt	Wikipedia:Basic English international wordlist
+Black_pudding.txt	Black pudding
+Boot_device.txt	Boot device
+Boot.txt	Boot
+Bankruptcy.txt	Bankruptcy
+Breakfast_sausage.txt	Breakfast sausage
+Browser.txt	Browser
+Beekeeping.txt	Beekeeping
+British_English.txt	British English
+Being.txt	Being
+Beijing.txt	Beijing
+Bottle.txt	Bottle
+Berry.txt	Berry
+Beard.txt	Beard
+Black.txt	Black
+Bubonic_plague.txt	Bubonic plague
+Biology.txt	Biology
+Botany.txt	Botany
+Belgium.txt	Belgium
+Brazil.txt	Brazil
+Britain.txt	Britain
+Chemistry.txt	Chemistry
+Compound.txt	Compound
+Computer_science.txt	Computer science
+Computer.txt	Computer
+Continent.txt	Continent
+Classical_element.txt	Classical element
+China.txt	China
+Country.txt	Country
+Colchester.txt	Colchester
+WikipediaCopyrights.txt	Wikipedia:Copyrights
+Cartography.txt	Cartography
+Creator.txt	Creator
+Chorizo.txt	Chorizo
+Creativity.txt	Creativity
+Catharism.txt	Catharism
+Cosmology.txt	Cosmology
+Church_building.txt	Church (building)
+City.txt	City
+Cooking.txt	Cooking
+Chat.txt	Chat
+Cup.txt	Cup
+Crime.txt	Crime
+Time_Cube.txt	Time Cube
+Census_of_Marine_Life.txt	Census of Marine Life
+Maize.txt	Maize
+Civics.txt	Civics
+Calculus.txt	Calculus
+Coin.txt	Coin
+Conceptual_metaphor.txt	Conceptual metaphor
+Crust.txt	Crust
+Comedy.txt	Comedy
+Comet.txt	Comet
+Cytology.txt	Cytology
+Christian.txt	Christian
+Cheese.txt	Cheese
+Constitution.txt	Constitution
+Circle.txt	Circle
+Capitalization.txt	Capitalization
+Cuba.txt	Cuba
+Cube.txt	Cube
+Cost_of_living.txt	Cost of living
+December.txt	December
+Dublin.txt	Dublin
+Dance.txt	Dance
+Dissolution_of_the_monasteries.txt	Dissolution of the monasteries
+Deadline.txt	Deadline
+Duttons_Speedwords.txt	Dutton's Speedwords
+Devil.txt	Devil
+Diarrhea.txt	Diarrhea
+Dimension.txt	Dimension
+Distance.txt	Distance
+Depth.txt	Depth
+Dictionary.txt	Dictionary
+Definition.txt	Definition
+Denmark.txt	Denmark
+Death.txt	Death
+Diesel-electric.txt	Diesel-electric
+Embassy.txt	Embassy
+Europe.txt	Europe
+Encyclopedia.txt	Encyclopedia
+Earth_science.txt	Earth science
+Earth.txt	Earth
+Et_cetera.txt	Et cetera
+Experiment.txt	Experiment
+Ethics.txt	Ethics
+E_Prime.txt	E Prime
+Einstein_on_the_Beach.txt	Einstein on the Beach
+English.txt	English
+Ethnic_group.txt	Ethnic group
+Ebola_virus.txt	Ebola virus
+Ecology.txt	Ecology
+Economics.txt	Economics
+Chemical_element.txt	Chemical element
+Egypt.txt	Egypt
+Everything2.txt	Everything2
+Editor.txt	Editor
+Ecological_yield.txt	Ecological yield
+Experience_economy.txt	Experience economy
+Execution.txt	Execution
+Flesch_Reading_Ease.txt	Flesch Reading Ease
+February.txt	February
+FAQ.txt	FAQ
+Flame_disambiguation.txt	Flame (disambiguation)
+Financial_capital.txt	Financial capital
+Fecund_universes.txt	Fecund universes
+Food.txt	Food
+Fine.txt	Fine
+Frying.txt	Frying
+Fish.txt	Fish
+Foot_human.txt	Foot (human)
+France.txt	France
+Finland.txt	Finland
+Fruit.txt	Fruit
+Farm.txt	Farm
+Geography.txt	Geography
+Grammar.txt	Grammar
+Great_Lakes.txt	Great Lakes
+GNU_Free_Documentation_License.txt	GNU Free Documentation License
+Glass.txt	Glass
+God.txt	God
+Ghost.txt	Ghost
+Green.txt	Green
+Gods_eye_view.txt	God's eye view
+Google.txt	Google
+Gallon.txt	Gallon
+Government.txt	Government
+Galaxy.txt	Galaxy
+Geometry.txt	Geometry
+Graph_theory.txt	Graph theory
+Herm.txt	Herm
+History.txt	History
+Health.txt	Health
+Harbor.txt	Harbor
+HelpHow_to_change_pages.txt	Help:How to change pages
+Hawaii.txt	Hawaii
+Honolulu.txt	Honolulu
+Hawaiʻi_island.txt	Hawaiʻi (island)
+Hawaii_Ponoi.txt	Hawaii Ponoi
+Healing.txt	Healing
+History_of_Australia.txt	History of Australia
+History_of_Spain.txt	History of Spain
+Height.txt	Height
+Historian.txt	Historian
+Human_body.txt	Human body
+Hydrogen.txt	Hydrogen
+Helium.txt	Helium
+Home_page.txt	Home page
+Hair.txt	Hair
+Ireland.txt	Ireland
+Internet.txt	Internet
+Italy.txt	Italy
+If.txt	If
+Island.txt	Island
+Interim.txt	Interim
+Idiom.txt	Idiom
+IELTS.txt	IELTS
+Ink.txt	Ink
+Inch.txt	Inch
+Pint.txt	Pint
+Italians.txt	Italians
+ISO_19011.txt	ISO 19011
+India.txt	India
+Insult.txt	Insult
+Immunology.txt	Immunology
+Infinity.txt	Infinity
+January.txt	January
+June.txt	June
+July.txt	July
+Japan.txt	Japan
+Jargon.txt	Jargon
+Jupiter.txt	Jupiter
+King.txt	King
+Knowledge.txt	Knowledge
+Kauaʻi.txt	Kauaʻi
+Kahoʻolawe.txt	Kahoʻolawe
+Killing.txt	Killing
+Kilometre.txt	Kilometre
+Language.txt	Language
+Leisure.txt	Leisure
+Live.txt	Live
+Life.txt	Life
+Law.txt	Law
+L_L_Zamenhof.txt	L. L. Zamenhof
+List_of_countries.txt	List of countries
+Provinces_and_territories_of_Canada.txt	Provinces and territories of Canada
+Las_Vegas.txt	Las Vegas
+Lānaʻi.txt	Lānaʻi
+Leap_year.txt	Leap year
+Leather.txt	Leather
+License.txt	License
+Link.txt	Link
+Library.txt	Library
+List_of_mathematics_topics.txt	List of mathematics topics
+Like.txt	Like
+Political_divisions_of_China.txt	Political divisions of China
+List_of_fruits.txt	List of fruits
+WikipediaList_of_1000_basic_words.txt	Wikipedia:List of 1000 basic words
+Legislature.txt	Legislature
+Linear_algebra.txt	Linear algebra
+London.txt	London
+Litre.txt	Litre
+Lime.txt	Lime
+Mathematics.txt	Mathematics
+March.txt	March
+May.txt	May
+Music.txt	Music
+Madrid.txt	Madrid
+Montreal.txt	Montreal
+Macadamia_nut.txt	Macadamia nut
+Maui.txt	Maui
+Molokaʻi.txt	Molokaʻi
+Money.txt	Money
+Multiplication.txt	Multiplication
+Microsoft.txt	Microsoft
+Islamic_world.txt	Islamic world
+Multiverse.txt	Multiverse
+MediaWiki.txt	MediaWiki
+First_language.txt	First language
+Mustache.txt	Mustache
+Mile.txt	Mile
+Margarine.txt	Margarine
+Milky_Way.txt	Milky Way
+Movement.txt	Movement
+HelpMinor_change.txt	Help:Minor change
+Metaphor.txt	Metaphor
+Metabolism.txt	Metabolism
+Microscope.txt	Microscope
+Mass.txt	Mass
+Mercury_planet.txt	Mercury (planet)
+Mars.txt	Mars
+Classic_Mac_OS.txt	Classic Mac OS
+Apple_Macintosh.txt	Apple Macintosh
+Metre.txt	Metre
+Magnifying_glass.txt	Magnifying glass
+Molecule.txt	Molecule
+Moral_reasoning.txt	Moral reasoning
+Mosque.txt	Mosque
+Mammal.txt	Mammal
+Number.txt	Number
+November.txt	November
+National_anthem.txt	National anthem
+Name.txt	Name
+Niʻihau.txt	Niʻihau
+Nēnē.txt	Nēnē
+Network.txt	Network
+Fishing_net.txt	Fishing net
+Internet_slang.txt	Internet slang
+Nauru.txt	Nauru
+Noun.txt	Noun
+WikipediaNeutral_point_of_view.txt	Wikipedia:Neutral point of view
+Nature.txt	Nature
+Natural_resource.txt	Natural resource
+Negentropy.txt	Negentropy
+North_America.txt	North America
+Neptune.txt	Neptune
+Negative.txt	Negative
+Now.txt	Now
+New_York_City.txt	New York City
+October.txt	October
+Of.txt	Of
+1_number.txt	1 (number)
+O_Canada.txt	O Canada
+Oʻahu.txt	Oʻahu
+Open_content.txt	Open content
+Orthography.txt	Orthography
+Oil.txt	Oil
+OK.txt	OK
+Oxymoron.txt	Oxymoron
+Operating_system.txt	Operating system
+Philosophy.txt	Philosophy
+Physics.txt	Physics
+Politics.txt	Politics
+Value_personal_and_cultural.txt	Value (personal and cultural)
+Profanity.txt	Profanity
+Proof.txt	Proof
+Peoples_Republic_of_China.txt	People's Republic of China
+HelpUser_settings.txt	Help:User settings
+Psychoneuroimmunology.txt	Psychoneuroimmunology
+Political_party.txt	Political party
+Page.txt	Page
+Pet.txt	Pet
+Product.txt	Product
+Program.txt	Program
+Platonic_realism.txt	Platonic realism
+Paradox.txt	Paradox
+Potato.txt	Potato
+Plant.txt	Plant
+Prediction.txt	Prediction
+Probability.txt	Probability
+Probability_experiment.txt	Probability experiment
+Protein.txt	Protein
+Periodic_table.txt	Periodic table
+Physiology.txt	Physiology
+Planet.txt	Planet
+Political_problems_of_China.txt	Political problems of China
+Police.txt	Police
+Pi.txt	Pi
+Proper_noun.txt	Proper noun
+Plastic.txt	Plastic
+Product_stewardship.txt	Product stewardship
+Peace.txt	Peace
+Quebec.txt	Quebec
+Reading.txt	Reading
+Religion.txt	Religion
+Roman.txt	Roman
+Rudyard_Kipling.txt	Rudyard Kipling
+Recreation.txt	Recreation
+Red.txt	Red
+Raw_food.txt	Raw food
+Ram.txt	Ram
+Roman_Empire.txt	Roman Empire
+Regime.txt	Regime
+River.txt	River
+Right_angle.txt	Right angle
+Reward.txt	Reward
+Ranch.txt	Ranch
+SUV.txt	SUV
+Substance.txt	Substance
+Symbol.txt	Symbol
+September.txt	September
+Sound.txt	Sound
+Society.txt	Society
+Suggestion.txt	Suggestion
+Spache_Readability_Formula.txt	Spache Readability Formula
+WikipediaStandard_messages.txt	Wikipedia:Standard messages
+WikipediaSimple_English_GFDL.txt	Wikipedia:Simple English GFDL
+Sport.txt	Sport
+Science.txt	Science
+Saint_Lawrence_River.txt	Saint Lawrence River
+Seville.txt	Seville
+Salami.txt	Salami
+Special_English.txt	Special English
+Sausage.txt	Sausage
+Slang.txt	Slang
+Social_contract.txt	Social contract
+Social_capital.txt	Social capital
+WikipediaSpelling.txt	Wikipedia:Spelling
+Site.txt	Site
+Subtraction.txt	Subtraction
+String_theory.txt	String theory
+Scientist.txt	Scientist
+Soapbox.txt	Soapbox
+Supernatural.txt	Supernatural
+Spirit.txt	Spirit
+Seed.txt	Seed
+Sail.txt	Sail
+Skin.txt	Skin
+Search_engine.txt	Search engine
+Sabbath_in_Christianity.txt	Sabbath in Christianity
+Statistics.txt	Statistics
+Speed.txt	Speed
+Server.txt	Server
+Simile.txt	Simile
+State.txt	State
+Stream.txt	Stream
+Solar_System.txt	Solar System
+Saturn.txt	Saturn
+Slavery.txt	Slavery
+Soul.txt	Soul
+Soap.txt	Soap
+Summary.txt	Summary
+Service_economy.txt	Service economy
+Sense.txt	Sense
+Synagogue.txt	Synagogue
+Scarcity.txt	Scarcity
+Readability.txt	Readability
+Theatre.txt	Theatre
+Test.txt	Test
+WikipediaText_of_the_GNU_Free_Documentation_License.txt	Wikipedia:Text of the GNU Free Documentation License
+Time_horizon.txt	Time horizon
+Time_limit.txt	Time limit
+Taiwan.txt	Taiwan
+Trademark.txt	Trademark
+Ten_Commandments.txt	Ten Commandments
+Tree.txt	Tree
+Tragedy_Greek_theatre.txt	Tragedy (Greek theatre)
+Taxonomy.txt	Taxonomy
+The_Sun.txt	The Sun
+Temple.txt	Temple
+Theft.txt	Theft
+United_Kingdom.txt	United Kingdom
+WikipediaUseful_pages.txt	Wikipedia:Useful pages
+Universe.txt	Universe
+WikipediaUsername.txt	Wikipedia:Username
+Unit_of_measurement.txt	Unit of measurement
+United_States_customary_units.txt	United States customary units
+Uranus.txt	Uranus
+University.txt	University
+Value.txt	Value
+Volapük.txt	Volapük
+Vocabulary.txt	Vocabulary
+Vegetable_oil.txt	Vegetable oil
+Verb.txt	Verb
+Volume.txt	Volume
+Venus.txt	Venus
+Vatican_City.txt	Vatican City
+Velocity.txt	Velocity
+Virtual_community.txt	Virtual community
+WikipediaWikipedians.txt	Wikipedia:Wikipedians
+World_Wide_Web.txt	World Wide Web
+Wiki.txt	Wiki
+Website.txt	Website
+Word.txt	Word
+Web_browser.txt	Web browser
+Web.txt	Web
+WikipediaWhat_Wikipedia_is_not.txt	Wikipedia:What Wikipedia is not
+WikipediaMailing_lists.txt	Wikipedia:Mailing lists
+Webpage.txt	Webpage
+Wiktionary.txt	Wiktionary
+Microsoft_Windows.txt	Microsoft Windows
+Window.txt	Window
+Wine.txt	Wine
+Width.txt	Width
+Water.txt	Water
+Want.txt	Want
+War.txt	War
+Yiddish.txt	Yiddish
+Year.txt	Year
+You.txt	You
+Yard_disambiguation.txt	Yard (disambiguation)
+Chinese_language.txt	Chinese language
+0.txt	0
+Zoology.txt	Zoology
+Zinc.txt	Zinc
+Zebra.txt	Zebra
+Zoo.txt	Zoo
+MediaWikiLogouttext.txt	MediaWiki:Logouttext
+MediaWikiEmailforlost.txt	MediaWiki:Emailforlost
+MediaWikiPasswordremindertext.txt	MediaWiki:Passwordremindertext
+MediaWikiBlockedtext.txt	MediaWiki:Blockedtext
+MediaWikiNewarticletext.txt	MediaWiki:Newarticletext
+MediaWikiExplainconflict.txt	MediaWiki:Explainconflict
+MediaWikiNogomatch.txt	MediaWiki:Nogomatch
+MediaWikiSearchdisabled.txt	MediaWiki:Searchdisabled
+MediaWikiUploadtext.txt	MediaWiki:Uploadtext
+MediaWikiDisambiguationspage.txt	MediaWiki:Disambiguationspage
+MediaWikiBooksourcetext.txt	MediaWiki:Booksourcetext
+MediaWikiBlockiptext.txt	MediaWiki:Blockiptext
+MediaWikiBlockipsuccesstext.txt	MediaWiki:Blockipsuccesstext
+MediaWikiBlocklogtext.txt	MediaWiki:Blocklogtext
+HelpMediaWiki_namespace.txt	Help:MediaWiki namespace
+WikipediaSpecial_pages.txt	Wikipedia:Special pages
+WikipediaDeletion_log.txt	Wikipedia:Deletion log
+Copyright.txt	Copyright
+WikipediaBasic_English_ordered_wordlist.txt	Wikipedia:Basic English ordered wordlist
+Simple_English.txt	Simple English
+WikipediaProtection_log.txt	Wikipedia:Protection log
+WikipediaStatistics.txt	Wikipedia:Statistics
+WikipediaList_of_common_misspellings.txt	Wikipedia:List of common misspellings
+WikipediaTemplate_messages.txt	Wikipedia:Template messages
+TemplateNPOV.txt	Template:NPOV
+TemplateDisputed.txt	Template:Disputed
+TemplateDisambiguation.txt	Template:Disambiguation
+TemplateUw-test1.txt	Template:Uw-test1
+Template1911.txt	Template:1911
+WikipediaRecentChanges.txt	Wikipedia:RecentChanges
+WikipediaAnnouncements.txt	Wikipedia:Announcements
+WikipediaRules.txt	Wikipedia:Rules
+HelpContents.txt	Help:Contents
+WikipediaAbout.txt	Wikipedia:About
+WikipediaBug_reports.txt	Wikipedia:Bug reports
+WikipediaContact_us.txt	Wikipedia:Contact us
+WikipediaDeletion_review.txt	Wikipedia:Deletion review
+Jail.txt	Jail
+Prison.txt	Prison
+Mexico.txt	Mexico
+Atlantic_Ocean.txt	Atlantic Ocean
+Mercury.txt	Mercury
+Mercury_element.txt	Mercury (element)
+WikipediaDisambiguation.txt	Wikipedia:Disambiguation
+Africa.txt	Africa
+Butter.txt	Butter
+Cold_War.txt	Cold War
+Mainland_China.txt	Mainland China
+Capital_city.txt	Capital city
+Climate.txt	Climate
+Fold_geology.txt	Fold (geology)
+Volcanism.txt	Volcanism
+Pacific_Ocean.txt	Pacific Ocean
+Antarctica.txt	Antarctica
+South_Pole.txt	South Pole
+Indian_Ocean.txt	Indian Ocean
+Arctic_Ocean.txt	Arctic Ocean
+Inuit.txt	Inuit
+Basket.txt	Basket
+Software.txt	Software
+Container.txt	Container
+South_America.txt	South America
+Bed.txt	Bed
+Asia.txt	Asia
+Wall.txt	Wall
+Coordinated_Universal_Time.txt	Coordinated Universal Time
+Television.txt	Television
+Sociology.txt	Sociology
+Sky.txt	Sky
+Tone_language.txt	Tone language
+Dollar.txt	Dollar
+Beer.txt	Beer
+WikipediaBlocks_and_bans.txt	Wikipedia:Blocks and bans
+IP_address.txt	IP address
+Eurasia.txt	Eurasia
+North_Pole.txt	North Pole
+Plural.txt	Plural
+Comics.txt	Comics
+Alexander_Gode.txt	Alexander Gode
+Oceania.txt	Oceania
+Southern_Ocean.txt	Southern Ocean
+Catalan_language.txt	Catalan language
+Corset.txt	Corset
+Pop_music.txt	Pop music
+General_semantics.txt	General semantics
+Semiotics.txt	Semiotics
+WikipediaGeneral_disclaimer.txt	Wikipedia:General disclaimer
+WikipediaBlock_log.txt	Wikipedia:Block log
+Nitrogen.txt	Nitrogen
+Association_football.txt	Association football
+Spamming.txt	Spamming
+WikipediaUpload_log.txt	Wikipedia:Upload log
+WikipediaGlossary.txt	Wikipedia:Glossary
+Earthquake.txt	Earthquake
+Color.txt	Color
+Scurvy.txt	Scurvy
+Ion.txt	Ion
+Cognitive_science.txt	Cognitive science
+Anthropology.txt	Anthropology
+Education.txt	Education
+Army.txt	Army
+Theology.txt	Theology
+Work.txt	Work
+Romania.txt	Romania
+Argon.txt	Argon
+Trade.txt	Trade
+European_Union.txt	European Union
+Greece.txt	Greece
+Sweden.txt	Sweden
+Capital.txt	Capital
+Albert_Einstein.txt	Albert Einstein
+Euro.txt	Euro
+Currency.txt	Currency
+Mercure.txt	Mercure
+Radio_telescope.txt	Radio telescope
+Light_year.txt	Light year
+Korea.txt	Korea
+English_as_a_second_language.txt	English as a second language
+Switzerland.txt	Switzerland
+LOL.txt	LOL
+Toronto.txt	Toronto
+MediaWikiLoginend.txt	MediaWiki:Loginend
+WikipediaDeletion_policy.txt	Wikipedia:Deletion policy
+WikipediaProtection_policy.txt	Wikipedia:Protection policy
+English_numerals.txt	English numerals
+United_States_dollar.txt	United States dollar
+Fluid_ounce.txt	Fluid ounce
+Shape_of_the_universe.txt	Shape of the universe
+Meteor_shower.txt	Meteor shower
+Cat.txt	Cat
+Engineering.txt	Engineering
+Communication.txt	Communication
+Miracle.txt	Miracle
+Kami.txt	Kami
+WikipediaAccuracy_dispute.txt	Wikipedia:Accuracy dispute
+Cardboard.txt	Cardboard
+English_language.txt	English language
+Trier.txt	Trier
+Turkey.txt	Turkey
+Thomm.txt	Thomm
+Moselle.txt	Moselle
+Bible.txt	Bible
+Bavaria.txt	Bavaria
+Rome.txt	Rome
+Carnivore.txt	Carnivore
+Cologne.txt	Cologne
+TemplatePlease_do_not_change_this_line.txt	Template:Please do not change this line
+Senegal.txt	Senegal
+Developmental_biology.txt	Developmental biology
+Solidarity.txt	Solidarity
+1924.txt	1924
+1929.txt	1929
+1920s.txt	1920s
+Outer_space.txt	Outer space
+Natural_satellite.txt	Natural satellite
+Gravity.txt	Gravity
+Centripetal_force.txt	Centripetal force
+Treaty.txt	Treaty
+Luxembourg.txt	Luxembourg
+Baden-Württemberg.txt	Baden-Württemberg
+Vienna.txt	Vienna
+1925.txt	1925
+Telescope.txt	Telescope
+Homonym.txt	Homonym
+Principal.txt	Principal
+Peru.txt	Peru
+States_of_Germany.txt	States of Germany
+Munich.txt	Munich
+Berlin.txt	Berlin
+1930s.txt	1930s
+1940s.txt	1940s
+1950s.txt	1950s
+Hamburg.txt	Hamburg
+Emphysema.txt	Emphysema
+Oxygen.txt	Oxygen
+Blood.txt	Blood
+1960s.txt	1960s
+1970s.txt	1970s
+1980s.txt	1980s
+1990s.txt	1990s
+North_Rhine-Westphalia.txt	North Rhine-Westphalia
+Computer_program.txt	Computer program
+Data.txt	Data
+2000s_decade.txt	2000s (decade)
+Stuttgart.txt	Stuttgart
+Schwerin.txt	Schwerin
+Canton_of_Schwyz.txt	Canton of Schwyz
+Russia.txt	Russia
+Moscow.txt	Moscow
+Canton_of_St_Gallen.txt	Canton of St. Gallen
+Canton.txt	Canton
+Saarland.txt	Saarland
+1974.txt	1974
+Mars_disambiguation.txt	Mars (disambiguation)
+Jupiter_disambiguation.txt	Jupiter (disambiguation)
+Venus_disambiguation.txt	Venus (disambiguation)
+Saturn_disambiguation.txt	Saturn (disambiguation)
+Neptune_disambiguation.txt	Neptune (disambiguation)
+Iceland.txt	Iceland
+1965.txt	1965
+1969.txt	1969
+Saarbrücken.txt	Saarbrücken
+Saarlouis.txt	Saarlouis
+Brandenburg.txt	Brandenburg
+Russian_language.txt	Russian language
+1978.txt	1978
+1982.txt	1982
+Professor.txt	Professor
+Slope.txt	Slope
+California.txt	California
+Propaganda.txt	Propaganda
+Topology.txt	Topology
+1933.txt	1933
+Los_Angeles.txt	Los Angeles
+Census.txt	Census
+Star.txt	Star
+List_of_US_states.txt	List of U.S. states
+DUI_disambiguation.txt	DUI (disambiguation)
+Drunk_driving.txt	Drunk driving
+Creative_Commons.txt	Creative Commons
+WikipediaImage_use_policy.txt	Wikipedia:Image use policy
+HTML.txt	HTML
+Leg.txt	Leg
+Economic_sector.txt	Economic sector
+Yellow.txt	Yellow
+Plymouth_Argyle_FC.txt	Plymouth Argyle F.C.
+Football.txt	Football
+Poland.txt	Poland
+England.txt	England
+Wales.txt	Wales
+Scotland.txt	Scotland
+Northern_Ireland.txt	Northern Ireland
+Great_Britain.txt	Great Britain
+List_of_English_football_teams.txt	List of English football teams
+Scottish_Football_League.txt	Scottish Football League
+List_of_football_clubs_in_France.txt	List of football clubs in France
+1967.txt	1967
+List_of_football_clubs_in_Germany.txt	List of football clubs in Germany
+List_of_football_clubs_in_Italy.txt	List of football clubs in Italy
+List_of_football_clubs_in_Spain.txt	List of football clubs in Spain
+Cymru_Premier.txt	Cymru Premier
+Arsenal_FC.txt	Arsenal F.C.
+Aston_Villa_FC.txt	Aston Villa F.C.
+Birmingham_City_FC.txt	Birmingham City F.C.
+Blackburn_Rovers_FC.txt	Blackburn Rovers F.C.
+Bolton_Wanderers_FC.txt	Bolton Wanderers F.C.
+Charlton_Athletic_FC.txt	Charlton Athletic F.C.
+Chelsea_FC.txt	Chelsea F.C.
+Everton_FC.txt	Everton F.C.
+Fulham_FC.txt	Fulham F.C.
+Liverpool_FC.txt	Liverpool F.C.
+Manchester_City_FC.txt	Manchester City F.C.
+Manchester_United_FC.txt	Manchester United F.C.
+Middlesbrough_FC.txt	Middlesbrough F.C.
+Newcastle_United_FC.txt	Newcastle United F.C.
+Portsmouth_FC.txt	Portsmouth F.C.
+Tottenham_Hotspur_FC.txt	Tottenham Hotspur F.C.
+Derby_County_FC.txt	Derby County F.C.
+Ipswich_Town_FC.txt	Ipswich Town F.C.
+Sunderland_AFC.txt	Sunderland A.F.C.
+West_Bromwich_Albion_FC.txt	West Bromwich Albion F.C.
+West_Ham_United_FC.txt	West Ham United F.C.
+Wigan_Athletic_FC.txt	Wigan Athletic F.C.
+Wimbledon_FC.txt	Wimbledon F.C.
+Accrington_Stanley_FC.txt	Accrington Stanley F.C.
+Telford_United_FC.txt	Telford United F.C.
+AFC_Wimbledon.txt	A.F.C. Wimbledon
+Sheffield_FC.txt	Sheffield F.C.
+Asteroid_belt.txt	Asteroid belt
+Essen.txt	Essen
+Gardening.txt	Gardening
+Democracy.txt	Democracy
+Game.txt	Game
+Nebraska.txt	Nebraska
+Time.txt	Time
+Force.txt	Force
+Laboratory_techniques.txt	Laboratory techniques
+International_System_of_Units.txt	International System of Units
+Lake_Michigan.txt	Lake Michigan
+Gas_syringe.txt	Gas syringe
+Mixture.txt	Mixture
+Language_family.txt	Language family
+Chess.txt	Chess
+Gold.txt	Gold
+Century.txt	Century
+Kilogram.txt	Kilogram
+Second.txt	Second
+TemplateSolar_System.txt	Template:Solar System
+Orange_color.txt	Orange (color)
+Basque_Country_greater_region.txt	Basque Country (greater region)
+M-theory.txt	M-theory
+Jaguar_Cars.txt	Jaguar Cars
+Scientific_method.txt	Scientific method
+Gas.txt	Gas
+Family.txt	Family
+Wave_physics.txt	Wave (physics)
+Weapon.txt	Weapon
+Christmas_cake.txt	Christmas cake
+Christmas_cracker.txt	Christmas cracker
+Fingerplate.txt	Fingerplate
+Floodlight.txt	Floodlight
+Headrest.txt	Headrest
+Inkpad.txt	Inkpad
+Jack-in-the-box.txt	Jack-in-the-box
+London_boroughs.txt	London boroughs
+City_of_London.txt	City of London
+City_of_Westminster.txt	City of Westminster
+London_Borough_of_Southwark.txt	London Borough of Southwark
+London_Borough_of_Camden.txt	London Borough of Camden
+London_Borough_of_Merton.txt	London Borough of Merton
+Bankside.txt	Bankside
+River_Thames.txt	River Thames
+Queen.txt	Queen
+Male.txt	Male
+Female.txt	Female
+Camden.txt	Camden
+Bambuco.txt	Bambuco
+Christmas.txt	Christmas
+Adjective.txt	Adjective
+Paper.txt	Paper
+Power.txt	Power
+States_of_matter.txt	States of matter
+Perimeter.txt	Perimeter
+Nation.txt	Nation
+WikipediaThe_perfect_stub_articleTest.txt	Wikipedia:The perfect stub article/Test
+Matrix.txt	Matrix
+Metal.txt	Metal
+German.txt	German
+Indonesia.txt	Indonesia
+Property.txt	Property
+Cefn_Druids_AFC.txt	Cefn Druids A.F.C.
+Aberystwyth_Town_FC.txt	Aberystwyth Town F.C.
+WikipediaBureaucrat_log.txt	Wikipedia:Bureaucrat log
+German_language.txt	German language
+Mississippi_River.txt	Mississippi River
+Tributary.txt	Tributary
+Missouri_River.txt	Missouri River
+Meaning_of_life.txt	Meaning of life
+Drainage_basin.txt	Drainage basin
+Great_Plains.txt	Great Plains
+Mythology.txt	Mythology
+Minnesota_River.txt	Minnesota River
+List_of_mythologies.txt	List of mythologies
+Wisconsin_River.txt	Wisconsin River
+Alaska.txt	Alaska
+BBC.txt	BBC
+Illinois_River.txt	Illinois River
+Milk.txt	Milk
+Weather.txt	Weather
+British_Columbia.txt	British Columbia
+20th_century.txt	20th century
+Brussels.txt	Brussels
+Thuringia.txt	Thuringia
+Saxony.txt	Saxony
+Internet_Explorer.txt	Internet Explorer
+Ulster.txt	Ulster
+List_of_mathematicians.txt	List of mathematicians
+Mancala.txt	Mancala
+Coden_Alabama.txt	Coden, Alabama
+Platypus.txt	Platypus
+Kenya.txt	Kenya
+Swahili_language.txt	Swahili language
+Long_jump.txt	Long jump
+Elizabeth_II.txt	Elizabeth II
+Question.txt	Question
+Boss.txt	Boss
+Gun.txt	Gun
+New_York.txt	New York
+Hobby.txt	Hobby
+World_Trade_Center_19732001.txt	World Trade Center (1973–2001)
+Hour.txt	Hour
+Minute.txt	Minute
+Coat.txt	Coat
+Study_skills.txt	Study skills
+Head.txt	Head
+Norway.txt	Norway
+Albania.txt	Albania
+Hungary.txt	Hungary
+Netherlands.txt	Netherlands
+Ukraine.txt	Ukraine
+Liechtenstein.txt	Liechtenstein
+Portugal.txt	Portugal
+Slovakia.txt	Slovakia
+Slovenia.txt	Slovenia
+Denarius.txt	Denarius
+Jackknife.txt	Jackknife
+Luffa.txt	Luffa
+Kimono.txt	Kimono
+Sconce.txt	Sconce
+Culture.txt	Culture
+Houseplant.txt	Houseplant
+Waxed_paper.txt	Waxed paper
+Japanese_tea_ceremony.txt	Japanese tea ceremony
+Movie.txt	Movie
+Holland.txt	Holland
+Isotope.txt	Isotope
+Crushing_by_elephant.txt	Crushing by elephant
+Power_network.txt	Power network
+Citizenship.txt	Citizenship
+Elephant.txt	Elephant
+Buddhism.txt	Buddhism
+Story.txt	Story
+Governor-general.txt	Governor-general
+Black_hole.txt	Black hole
+Sheffield.txt	Sheffield
+Fertilizer.txt	Fertilizer
+Military.txt	Military
+Photosynthesis.txt	Photosynthesis
+Casserole.txt	Casserole
+Plate.txt	Plate
+Flea.txt	Flea
+Terrorism.txt	Terrorism
+South_Africa.txt	South Africa
+Andorra.txt	Andorra
+Hiroshima.txt	Hiroshima
+Richter_scale.txt	Richter scale
+Day.txt	Day
+Phases_of_the_Moon.txt	Phases of the Moon
+Sphere.txt	Sphere
+Quantity.txt	Quantity
+Advertising.txt	Advertising
+Buddha.txt	Buddha
+Flag_of_the_United_States.txt	Flag of the United States
+America_disambiguation.txt	America (disambiguation)
+Mahatma_Gandhi.txt	Mahatma Gandhi
+Schizophrenia.txt	Schizophrenia
+Drink.txt	Drink
+Need.txt	Need
+Freeware.txt	Freeware
+Yahoo.txt	Yahoo!
+Mecca.txt	Mecca
+Arabian_Peninsula.txt	Arabian Peninsula
+South.txt	South
+Central_America.txt	Central America
+French_language.txt	French language
+Prime_Minister.txt	Prime Minister
+Greenland.txt	Greenland
+Soviet_Union.txt	Soviet Union
+Monarch.txt	Monarch
+Unit.txt	Unit
+Uncle.txt	Uncle
+Information.txt	Information
+Airport.txt	Airport
+Ice.txt	Ice
+Travel.txt	Travel
+CNN.txt	CNN
+Leader.txt	Leader
+Blackboard.txt	Blackboard
+Linux.txt	Linux
+Open_source.txt	Open source
+Desktop_environment.txt	Desktop environment
+OpenOfficeorg.txt	OpenOffice.org
+Download.txt	Download
+GNOME.txt	GNOME
+Dog.txt	Dog
+Blindness.txt	Blindness
+Arctic.txt	Arctic
+Sin.txt	Sin
+Summer.txt	Summer
+Month.txt	Month
+TemplateMonths.txt	Template:Months
+Alberta.txt	Alberta
+Electronics.txt	Electronics
+Scalar.txt	Scalar
+Photon.txt	Photon
+Vector.txt	Vector
+Soap_bubble.txt	Soap bubble
+Fire_Brigades_Union.txt	Fire Brigades Union
+Bicycle.txt	Bicycle
+Wheel.txt	Wheel
+Physical_exercise.txt	Physical exercise
+Percentage.txt	Percentage
+Writing.txt	Writing
+Rock.txt	Rock
+Plato.txt	Plato
+Book.txt	Book
+Sundial.txt	Sundial
+Peninsula.txt	Peninsula
+Craft.txt	Craft
+Derivation.txt	Derivation
+Combinatorial_game_theory.txt	Combinatorial game theory
+Nim.txt	Nim
+Blue.txt	Blue
+Memory.txt	Memory
+Murder.txt	Murder
+Bird.txt	Bird
+Freedom_of_speech.txt	Freedom of speech
+Banana.txt	Banana
+BielBienne.txt	Biel/Bienne
+Swatch_Internet_Time.txt	Swatch Internet Time
+Test_tube.txt	Test tube
+Beaker.txt	Beaker
+Crucible.txt	Crucible
+Lithium.txt	Lithium
+Beryllium.txt	Beryllium
+Data_compression.txt	Data compression
+Compiler.txt	Compiler
+Eye.txt	Eye
+Tongue-twister.txt	Tongue-twister
+WikipediaChange_summary.txt	Wikipedia:Change summary
+AbiWord.txt	AbiWord
+Insect.txt	Insect
+List_of_operating_systems.txt	List of operating systems
+Computer_jargon.txt	Computer jargon
+1000_number.txt	1000 (number)
+Gross_domestic_product.txt	Gross domestic product
+Cricket.txt	Cricket
+Track_and_field_athletics.txt	Track and field athletics
+Badminton.txt	Badminton
+Chemical_warfare.txt	Chemical warfare
+Iran.txt	Iran
+Gautama_Buddha.txt	Gautama Buddha
+North.txt	North
+List_of_football_clubs_in_Portugal.txt	List of football clubs in Portugal
+HelpRevert_a_page.txt	Help:Revert a page
+GNOME_Web.txt	GNOME Web
+Video_game_console.txt	Video game console
+PlayStation_console.txt	PlayStation (console)
+Election.txt	Election
+Medicine.txt	Medicine
+Transport.txt	Transport
+Road.txt	Road
+2004.txt	2004
+Hawaiian_Islands.txt	Hawaiian Islands
+Mauna_Kea.txt	Mauna Kea
+Mauna_Loa.txt	Mauna Loa
+Kilauea.txt	Kilauea
+Van.txt	Van
+Luggage.txt	Luggage
+Pantograph.txt	Pantograph
+Paperback.txt	Paperback
+Palette.txt	Palette
+Glow-worm.txt	Glow-worm
+Palette_knife.txt	Palette knife
+Foolscap.txt	Foolscap
+Polymer.txt	Polymer
+Medium.txt	Medium
+Phrase.txt	Phrase
+Preposition.txt	Preposition
+Pronoun.txt	Pronoun
+Adverb.txt	Adverb
+Sunday.txt	Sunday
+Ottawa.txt	Ottawa
+News_agency.txt	News agency
+Mudguard.txt	Mudguard
+Para_rubber_tree.txt	Para rubber tree
+Safety_curtain.txt	Safety curtain
+Safety_lamp.txt	Safety lamp
+Christmas_stocking.txt	Christmas stocking
+WikipediaElections_for_the_Board_of_Trustees_of_the_Wikimedi.txt	Wikipedia:Elections for the Board of Trustees of the Wikimedia Foundation
+List_of_football_clubs_in_Austria.txt	List of football clubs in Austria
+2001.txt	2001
+Sex.txt	Sex
+Hacksaw.txt	Hacksaw
+Spade.txt	Spade
+Hoe_tool.txt	Hoe (tool)
+Shovel.txt	Shovel
+Plunger.txt	Plunger
+Ladder.txt	Ladder
+Oral_history.txt	Oral history
+Generation.txt	Generation
+Gene.txt	Gene
+Alliteration.txt	Alliteration
+Homophone.txt	Homophone
+Condensation.txt	Condensation
+Precipitation.txt	Precipitation
+Relative_humidity.txt	Relative humidity
+Vitamin_C.txt	Vitamin C
+Dichlorphenolindophenol.txt	Dichlorphenolindophenol
+Healthy_diet.txt	Healthy diet
+Dye.txt	Dye
+Poetry.txt	Poetry
+Literature.txt	Literature
+Imagination.txt	Imagination
+Calorimeter.txt	Calorimeter
+Bolus.txt	Bolus
+Oesophagus.txt	Oesophagus
+Protease.txt	Protease
+Dental_floss.txt	Dental floss
+Rickets.txt	Rickets
+Bile.txt	Bile
+Dental_pulp.txt	Dental pulp
+Protoplasm.txt	Protoplasm
+Amylase.txt	Amylase
+Variegated_leaf.txt	Variegated leaf
+Seam_ripper.txt	Seam ripper
+Plaque.txt	Plaque
+Chemical_cell.txt	Chemical cell
+Deutschlandlied.txt	Deutschlandlied
+Evidence.txt	Evidence
+Dyadic.txt	Dyadic
+Hill.txt	Hill
+Enzyme.txt	Enzyme
+Mountain.txt	Mountain
+Machine_code.txt	Machine code
+Area.txt	Area
+Air_space.txt	Air space
+Swamp_cooler.txt	Swamp cooler
+Saskatoon.txt	Saskatoon
+Glass_rod.txt	Glass rod
+Thermometer.txt	Thermometer
+Week.txt	Week
+Suffix.txt	Suffix
+Japanese_language.txt	Japanese language
+Spice.txt	Spice
+Flavor.txt	Flavor
+Bank.txt	Bank
+Halleys_Comet.txt	Halley's Comet
+Hubble_Space_Telescope.txt	Hubble Space Telescope
+Motion_sensor.txt	Motion sensor
+Arm.txt	Arm
+Arrow.txt	Arrow
+Golf.txt	Golf
+Spirituality.txt	Spirituality
+2002.txt	2002
+2003.txt	2003
+1999.txt	1999
+1998.txt	1998
+1997.txt	1997
+1996.txt	1996
+1995.txt	1995
+1994.txt	1994
+1993.txt	1993
+1992.txt	1992
+1991.txt	1991
+2005.txt	2005
+2006.txt	2006
+2007.txt	2007
+1989.txt	1989
+Common_year.txt	Common year
+Decade.txt	Decade
+19th_century.txt	19th century
+21st_century.txt	21st century
+Ijtihad.txt	Ijtihad
+Standard_temperature_and_pressure.txt	Standard temperature and pressure
+STP.txt	STP
+Jungle.txt	Jungle
+Light.txt	Light
+Stockholm.txt	Stockholm
+Rain.txt	Rain
+2009.txt	2009
+Gambling.txt	Gambling
+Monty_Python.txt	Monty Python
+Time_zone.txt	Time zone
+Market.txt	Market
+Electron.txt	Electron
+Chile.txt	Chile
+Ambassador.txt	Ambassador
+Monday.txt	Monday
+Nuclear_war.txt	Nuclear war
+Tax.txt	Tax
+Florida.txt	Florida
+Mario.txt	Mario
+Video_game.txt	Video game
+Oboe.txt	Oboe
+GURPS.txt	GURPS
+Eric_Idle.txt	Eric Idle
+Enemy.txt	Enemy
+2000.txt	2000
+Adelaide.txt	Adelaide
+Yoshi.txt	Yoshi
+Lake.txt	Lake
+East.txt	East
+Tire.txt	Tire
+Population.txt	Population
+World_war.txt	World war
+Snow.txt	Snow
+West.txt	West
+List_of_physics_topics.txt	List of physics topics
+President.txt	President
+List_of_colors.txt	List of colors
+List_of_lakes.txt	List of lakes
+Galileo_Galilei.txt	Galileo Galilei
+Agreement.txt	Agreement
+Promise.txt	Promise
+Cloud.txt	Cloud
+Water_cycle.txt	Water cycle
+Water_vapor.txt	Water vapor
+Solid.txt	Solid
+Evaporation.txt	Evaporation
+Contract.txt	Contract
+Face.txt	Face
+Kolkata.txt	Kolkata
+Pencil.txt	Pencil
+Logic.txt	Logic
+Communism.txt	Communism
+Resurrection.txt	Resurrection
+Monarchy.txt	Monarchy
+North_Korea.txt	North Korea
+Parliament.txt	Parliament
+Turing_test.txt	Turing test
+Fuel.txt	Fuel
+List_of_volcanoes.txt	List of volcanoes
+Estonia.txt	Estonia
+Cyprus.txt	Cyprus
+Latvia.txt	Latvia
+Lithuania.txt	Lithuania
+Malta.txt	Malta
+Index_of_Soviet_Unionrelated_articles.txt	Index of Soviet Union–related articles
+Comoving_distance.txt	Comoving distance
+Shaanxi.txt	Shaanxi
+Lisbon.txt	Lisbon
+Surfing.txt	Surfing
+Lyon.txt	Lyon
+George_W_Bush.txt	George W. Bush
+Organic_compound.txt	Organic compound
+Coal.txt	Coal
+Petroleum.txt	Petroleum
+Natural_gas.txt	Natural gas
+Energy.txt	Energy
+Jewel.txt	Jewel
+Xenon.txt	Xenon
+Kuala_Lumpur.txt	Kuala Lumpur
+WikipediaSimple_start.txt	Wikipedia:Simple start
+Speed_of_light.txt	Speed of light
+WikipediaList_of_articles_all_languages_should_have.txt	Wikipedia:List of articles all languages should have
+Denial.txt	Denial
+Tokyo.txt	Tokyo
+Laozi.txt	Laozi
+List_of_physicists.txt	List of physicists
+Brass.txt	Brass
+Body.txt	Body
+Alloy.txt	Alloy
+Material.txt	Material
+Brain.txt	Brain
+Neuron.txt	Neuron
+Middle_East.txt	Middle East
+Warsaw.txt	Warsaw
+HinduArabic_numeral_system.txt	Hindu–Arabic numeral system
+Point_geometry.txt	Point (geometry)
+Line.txt	Line
+Plane_mathematics.txt	Plane (mathematics)
+Angle.txt	Angle
+List_of_astronomers.txt	List of astronomers
+List_of_astrophysicists.txt	List of astrophysicists
+List_of_walls.txt	List of walls
+List_of_vegetables.txt	List of vegetables
+List_of_telescope_types.txt	List of telescope types
+List_of_shipwrecks.txt	List of shipwrecks
+List_of_religions.txt	List of religions
+List_of_national_parks_in_Africa.txt	List of national parks in Africa
+List_of_languages.txt	List of languages
+List_of_endangered_languages.txt	List of endangered languages
+List_of_emotions.txt	List of emotions
+List_of_earthquakes.txt	List of earthquakes
+List_of_disasters.txt	List of disasters
+List_of_diseases.txt	List of diseases
+List_of_mental_disorders.txt	List of mental disorders
+List_of_communist_parties.txt	List of communist parties
+List_of_buildings.txt	List of buildings
+List_of_bridges.txt	List of bridges
+List_of_bones_of_the_human_skeleton.txt	List of bones of the human skeleton
+Lists_of_astronomical_objects.txt	Lists of astronomical objects
+List_of_stars.txt	List of stars
+List_of_nearest_stars.txt	List of nearest stars
+List_of_planets.txt	List of planets
+List_of_galaxies.txt	List of galaxies
+List_of_nearest_galaxies.txt	List of nearest galaxies
+List_of_satellites_of_the_Milky_Way.txt	List of satellites of the Milky Way
+List_of_comets.txt	List of comets
+List_of_stars_with_confirmed_extrasolar_planets.txt	List of stars with confirmed extrasolar planets
+List_of_water_sports.txt	List of water sports
+List_of_waterways.txt	List of waterways
+List_of_wave_topics.txt	List of wave topics
+List_of_waterfalls.txt	List of waterfalls
+List_of_tunnels.txt	List of tunnels
+List_of_tallest_structures_in_the_world.txt	List of tallest structures in the world
+List_of_symbols.txt	List of symbols
+List_of_supermarkets.txt	List of supermarkets
+Acid.txt	Acid
+White_dwarf.txt	White dwarf
+Beach.txt	Beach
+Mental_illness.txt	Mental illness
+Depression_mental_illness.txt	Depression (mental illness)
+Quran.txt	Qur'an
+Tony_Blair.txt	Tony Blair
+Accident.txt	Accident
+Acne.txt	Acne
+Dinosaur.txt	Dinosaur
+Stone_Age.txt	Stone Age
+Adolf_Hitler.txt	Adolf Hitler
+Virgil.txt	Virgil
+Alcohol_chemistry.txt	Alcohol (chemistry)
+Wolfgang_Amadeus_Mozart.txt	Wolfgang Amadeus Mozart
+Johann_Sebastian_Bach.txt	Johann Sebastian Bach
+Atmosphere_of_Earth.txt	Atmosphere of Earth
+Human_penis.txt	Human penis
+Sahara.txt	Sahara
+Paris.txt	Paris
+The_Holocaust.txt	The Holocaust
+Kyoto.txt	Kyoto
+Anarchy.txt	Anarchy
+DNA.txt	DNA
+Karl_Marx.txt	Karl Marx
+Bread.txt	Bread
+Shinto.txt	Shinto
+Volcano.txt	Volcano
+Big_Bang.txt	Big Bang
+Gmail.txt	Gmail
+Astronomer.txt	Astronomer
+Analysis.txt	Analysis
+Foolishness.txt	Foolishness
+Aristotle.txt	Aristotle
+Carl_Sagan.txt	Carl Sagan
+Matsuo_Basho.txt	Matsuo Basho
+Colonization.txt	Colonization
+Choreography.txt	Choreography
+Electrical_cell.txt	Electrical cell
+Dry_cell.txt	Dry cell
+Vietnam_War.txt	Vietnam War
+Sahel.txt	Sahel
+WikipediaList_of_simple_adjectives.txt	Wikipedia:List of simple adjectives
+Chemical_change.txt	Chemical change
+Physical_change.txt	Physical change
+Ronald_Reagan.txt	Ronald Reagan
+United_Nations.txt	United Nations
+List_of_historians.txt	List of historians
+Marco_Polo.txt	Marco Polo
+Herpes_zoster.txt	Herpes zoster
+A_Brief_History_of_Time.txt	A Brief History of Time
+Alexander_Graham_Bell.txt	Alexander Graham Bell
+Heinrich_Rudolf_Hertz.txt	Heinrich Rudolf Hertz
+1850.txt	1850
+1869.txt	1869
+1621.txt	1621
+1687.txt	1687
+1822.txt	1822
+1824.txt	1824
+1826.txt	1826
+1827.txt	1827
+1815.txt	1815
+Deep_house.txt	Deep house
+Cytokine.txt	Cytokine
+Bristol.txt	Bristol
+1858.txt	1858
+1899.txt	1899
+Bright_Eyes_band.txt	Bright Eyes (band)
+Honeycomb.txt	Honeycomb
+Greek_language.txt	Greek language
+Kamishibai.txt	Kamishibai
+Murasaki_Shikibu.txt	Murasaki Shikibu
+Pepsin.txt	Pepsin
+PH.txt	PH
+Tapeworm.txt	Tapeworm
+Omnivore.txt	Omnivore
+Herbivore.txt	Herbivore
+Hindi.txt	Hindi
+1870.txt	1870
+1871.txt	1871
+1882.txt	1882
+1941.txt	1941
+1945.txt	1945
+Ludwig_van_Beethoven.txt	Ludwig van Beethoven
+Roald_Amundsen.txt	Roald Amundsen
+Christopher_Columbus.txt	Christopher Columbus
+GNU_General_Public_License.txt	GNU General Public License
+Triangle_disambiguation.txt	Triangle (disambiguation)
+Square.txt	Square
+Computer_hardware.txt	Computer hardware
+Meat.txt	Meat
+Anders_Celsius.txt	Anders Celsius
+Tuvalu.txt	Tuvalu
+Java.txt	Java
+James_Watt.txt	James Watt
+1267.txt	1267
+Michelangelo.txt	Michelangelo
+Leonardo_da_Vinci.txt	Leonardo da Vinci
+1844.txt	1844
+1902.txt	1902
+1895.txt	1895
+1796.txt	1796
+1879.txt	1879
+1769.txt	1769
+1885.txt	1885
+Platinum.txt	Platinum
+List_of_rock_types.txt	List of rock types
+List_of_minerals.txt	List of minerals
+Mineral.txt	Mineral
+Kim_Jong-il.txt	Kim Jong-il
+Silver.txt	Silver
+Pope.txt	Pope
+San_Andreas_Fault.txt	San Andreas Fault
+Void_astronomy.txt	Void (astronomy)
+Computer_mouse.txt	Computer mouse
+Metallurgy.txt	Metallurgy
+Fixed-wing_aircraft.txt	Fixed-wing aircraft
+Aircraft.txt	Aircraft
+Victoria_British_Columbia.txt	Victoria, British Columbia
+Suez_Canal.txt	Suez Canal
+Canal.txt	Canal
+Mars_mythology.txt	Mars (mythology)
+Cessna.txt	Cessna
+Clothing.txt	Clothing
+Shoe.txt	Shoe
+Footwear.txt	Footwear
+Café.txt	Café
+Jazz.txt	Jazz
+Coffee.txt	Coffee
+Beef.txt	Beef
+Hyaena.txt	Hyaena
+Table_salt.txt	Table salt
+Silk.txt	Silk
+The_Beatles.txt	The Beatles
+MediaWikiMonobookcss.txt	MediaWiki:Monobook.css
+Reincarnation.txt	Reincarnation
+EBay.txt	EBay
+Gerhard_Schröder.txt	Gerhard Schröder
+Melbourne.txt	Melbourne
+Victoria.txt	Victoria
+Canberra.txt	Canberra
+Sydney.txt	Sydney
+Greenhouse_effect.txt	Greenhouse effect
+European.txt	European
+Ionizing_radiation.txt	Ionizing radiation
+Buzz_Aldrin.txt	Buzz Aldrin
+Tuberculosis.txt	Tuberculosis
+American_word.txt	American (word)
+Grain.txt	Grain
+Clause.txt	Clause
+Marxism.txt	Marxism
+Sacred.txt	Sacred
+Zürich.txt	Zürich
+Translation.txt	Translation
+Astronaut.txt	Astronaut
+Hacker.txt	Hacker
+Broadcasting.txt	Broadcasting
+Socialism.txt	Socialism
+Leninism.txt	Leninism
+Bolshevik.txt	Bolshevik
+Saddam_Hussein.txt	Saddam Hussein
+List_of_traditional_star_names.txt	List of traditional star names
+List_of_tectonic_plates.txt	List of tectonic plates
+List_of_oil_fields.txt	List of oil fields
+Anarchism.txt	Anarchism
+List_of_countries_by_area.txt	List of countries by area
+List_of_countries_by_continents.txt	List of countries by continents
+List_of_countries_and_dependencies_by_population.txt	List of countries and dependencies by population
+List_of_oil-producing_nations.txt	List of oil-producing nations
+Forests_in_the_United_Kingdom.txt	Forests in the United Kingdom
+List_of_prime_numbers.txt	List of prime numbers
+List_of_publishers.txt	List of publishers
+ΜCLinux.txt	ΜCLinux
+UNIX.txt	UNIX
+Signature.txt	Signature
+Cocoa.txt	Cocoa
+Ivory_Coast.txt	Ivory Coast
+Luke_McCormick.txt	Luke McCormick
+TemplateQD.txt	Template:QD
+God_paradox.txt	God paradox
+Libertarianism.txt	Libertarianism
+Auction.txt	Auction
+Hong_Kong.txt	Hong Kong
+Blitzkrieg.txt	Blitzkrieg
+Tank.txt	Tank
+Edinburgh.txt	Edinburgh
+Head_of_state.txt	Head of state
+Vladimir_Lenin.txt	Vladimir Lenin
+Disease.txt	Disease
+TemplateContinents_of_the_world.txt	Template:Continents of the world
+Carbon.txt	Carbon
+Zaza_language.txt	Zaza language
+Chemical_reaction.txt	Chemical reaction
+Rectangle.txt	Rectangle
+Trafalgar_Square.txt	Trafalgar Square
+Official_language.txt	Official language
+Cake.txt	Cake
+House.txt	House
+Gigabyte.txt	Gigabyte
+Sailor.txt	Sailor
+Farmer.txt	Farmer
+Constellation.txt	Constellation
+Flood.txt	Flood
+Hell.txt	Hell
+October_21.txt	October 21
+112_emergency_telephone_number.txt	112 (emergency telephone number)
+Government-in-exile.txt	Government-in-exile
+Stonehenge.txt	Stonehenge
+Granite.txt	Granite
+1970.txt	1970
+Syracuse_New_York.txt	Syracuse, New York
+Syracuse.txt	Syracuse
+Soap_opera.txt	Soap opera
+The_Young_and_the_Restless.txt	The Young and the Restless
+Georgia_US_state.txt	Georgia (U.S. state)
+Prem_Rawat.txt	Prem Rawat
+Immanuel_Kant.txt	Immanuel Kant
+Aunt.txt	Aunt
+Homer.txt	Homer
+Marquis_de_Sade.txt	Marquis de Sade
+Eurozone.txt	Eurozone
+Ordinal_number.txt	Ordinal number
+TemplateGFDL.txt	Template:GFDL
+Gnome.txt	Gnome
+Republic.txt	Republic
+Martin_Luther.txt	Martin Luther
+Noh.txt	Noh
+Manga.txt	Manga
+Spree.txt	Spree
+Liberalism.txt	Liberalism
+Zenos_paradoxes.txt	Zeno's paradoxes
+Mandrake.txt	Mandrake
+Debian.txt	Debian
+GNU.txt	GNU
+Serbia.txt	Serbia
+Cancer.txt	Cancer
+Photography.txt	Photography
+Acronym.txt	Acronym
+Radio_wave.txt	Radio wave
+Bridge.txt	Bridge
+Mysticism.txt	Mysticism
+Ontario.txt	Ontario
+Manitoba.txt	Manitoba
+Head_of_government.txt	Head of government
+Saskatchewan.txt	Saskatchewan
+Classical_music.txt	Classical music
+SNAFU.txt	SNAFU
+Atlanta.txt	Atlanta
+Niccolò_Machiavelli.txt	Niccolò Machiavelli
+Supply_line.txt	Supply line
+Michigan.txt	Michigan
+Caenorhabditis_elegans.txt	Caenorhabditis elegans
+Saxe-Weimar.txt	Saxe-Weimar
+Oldham.txt	Oldham
+Pakistan.txt	Pakistan
+New_Zealand.txt	New Zealand
+South_Korea.txt	South Korea
+Republic_of_Ireland.txt	Republic of Ireland
+Vietnam.txt	Vietnam
+Lance_Armstrong.txt	Lance Armstrong
+Ton.txt	Ton
+Phoebe_moon.txt	Phoebe (moon)
+Three_Peaks_Challenge.txt	Three Peaks Challenge
+Pennsylvania.txt	Pennsylvania
+Box.txt	Box
+Philippines.txt	Philippines
+Fawlty_Towers.txt	Fawlty Towers
+Custom.txt	Custom
+Fort_Ouiatenon.txt	Fort Ouiatenon
+Chennai.txt	Chennai
+Mumbai.txt	Mumbai
+Bangalore.txt	Bangalore
+New_Delhi.txt	New Delhi
+Edmund_Hillary.txt	Edmund Hillary
+Wright_brothers.txt	Wright brothers
+Charles_Darwin.txt	Charles Darwin
+Adam_Smith.txt	Adam Smith
+Isaac_Newton.txt	Isaac Newton
+Johann_Wolfgang_von_Goethe.txt	Johann Wolfgang von Goethe
+Pythagoras.txt	Pythagoras
+Socrates.txt	Socrates
+Dante_Alighieri.txt	Dante Alighieri
+Virginia_Woolf.txt	Virginia Woolf
+March_28.txt	March 28
+January_25.txt	January 25
+Jane_Austen.txt	Jane Austen
+Charlotte_Brontë.txt	Charlotte Brontë
+Emily_Brontë.txt	Emily Brontë
+Anne_Brontë.txt	Anne Brontë
+Charles_Dickens.txt	Charles Dickens
+Portsmouth.txt	Portsmouth
+HMS_Victory.txt	HMS Victory
+HMS_Warrior_1860.txt	HMS Warrior (1860)
+Mary_Rose.txt	Mary Rose
+April_28.txt	April 28
+Mutiny_on_the_Bounty.txt	Mutiny on the Bounty
+1787.txt	1787
+August_16.txt	August 16
+December_23.txt	December 23
+1788.txt	1788
+October_25.txt	October 25
+1789.txt	1789
+April_4.txt	April 4
+May_28.txt	May 28
+Political_virtues.txt	Political virtues
+Lady_Jane_Grey.txt	Lady Jane Grey
+Tower_of_London.txt	Tower of London
+Anne_Boleyn.txt	Anne Boleyn
+Mona_Lisa.txt	Mona Lisa
+December_14.txt	December 14
+1542.txt	1542
+February_13.txt	February 13
+January_31.txt	January 31
+1981.txt	1981
+Britney_Spears.txt	Britney Spears
+The_Matrix.txt	The Matrix
+September_11_Attacks.txt	September 11 Attacks
+Cardiff.txt	Cardiff
+Valladolid.txt	Valladolid
+Elizabeth_Gaskell.txt	Elizabeth Gaskell
+Venice.txt	Venice
+Naples.txt	Naples
+Florence.txt	Florence
+Milan.txt	Milan
+Glamorgan.txt	Glamorgan
+Cornwall.txt	Cornwall
+Tintagel_Castle.txt	Tintagel Castle
+Gwyneth_Paltrow.txt	Gwyneth Paltrow
+Sarah_Michelle_Gellar.txt	Sarah Michelle Gellar
+Jennifer_Garner.txt	Jennifer Garner
+Heather_Graham.txt	Heather Graham
+Christina_Ricci.txt	Christina Ricci
+Julia_Roberts.txt	Julia Roberts
+Angelina_Jolie.txt	Angelina Jolie
+Lisa_Kudrow.txt	Lisa Kudrow
+Grace_Kelly.txt	Grace Kelly
+Elizabeth_Taylor.txt	Elizabeth Taylor
+Hilary_Swank.txt	Hilary Swank
+Nana_Visitor.txt	Nana Visitor
+Alexander_Siddig.txt	Alexander Siddig
+Eiffel_Tower.txt	Eiffel Tower
+Louvre.txt	Louvre
+Venus_de_Milo.txt	Venus de Milo
+Aphrodite.txt	Aphrodite
+Venus_mythology.txt	Venus (mythology)
+Jupiter_mythology.txt	Jupiter (mythology)
+Minerva.txt	Minerva
+Athena.txt	Athena
+Salt_Lake_City.txt	Salt Lake City
+Nagano_city.txt	Nagano (city)
+Barcelona.txt	Barcelona
+Denise_Lewis.txt	Denise Lewis
+Michael_Johnson.txt	Michael Johnson
+Bronze_Age.txt	Bronze Age
+WikipediaWelcome.txt	Wikipedia:Welcome
+Louis_XIV.txt	Louis XIV
+Olympic_Games.txt	Olympic Games
+Iron_Age.txt	Iron Age
+TemplateDays_of_the_week.txt	Template:Days of the week
+Entertainment.txt	Entertainment
+Open_Site.txt	Open Site
+Coca-Cola.txt	Coca-Cola
+Sulfur.txt	Sulfur
+Aluminium.txt	Aluminium
+Drawing.txt	Drawing
+Texas.txt	Texas
+Prussia.txt	Prussia
+Apocrypha.txt	Apocrypha
+Sodium.txt	Sodium
+Dice.txt	Dice
+Matrix_mathematics.txt	Matrix (mathematics)
+Chojnów.txt	Chojnów
+British_Isles.txt	British Isles
+Mandarin_Chinese.txt	Mandarin Chinese
+Algeria.txt	Algeria
+Plymouth.txt	Plymouth
+Plymouth_disambiguation.txt	Plymouth (disambiguation)
+George_Washington.txt	George Washington
+February_22.txt	February 22
+Abraham_Lincoln.txt	Abraham Lincoln
+February_12.txt	February 12
+April_15.txt	April 15
+Calvin_Coolidge.txt	Calvin Coolidge
+Harry_S_Truman.txt	Harry S. Truman
+John_Adams.txt	John Adams
+Bill_Clinton.txt	Bill Clinton
+Yield.txt	Yield
+Moral_purchasing.txt	Moral purchasing
+Social_network.txt	Social network
+Cabal.txt	Cabal
+Creating.txt	Creating
+Human_science.txt	Human science
+Flaying.txt	Flaying
+Rice.txt	Rice
+Yoga.txt	Yoga
+Cattle.txt	Cattle
+Thunder.txt	Thunder
+1.txt	1
+2.txt	2
+3.txt	3
+4.txt	4
+5.txt	5
+6.txt	6
+7.txt	7
+8.txt	8
+9.txt	9
+10.txt	10
+11.txt	11
+12.txt	12
+13.txt	13
+30.txt	30
+50.txt	50
+3_number.txt	3 (number)
+10_number.txt	10 (number)
+Man.txt	Man
+Woman.txt	Woman
+Position.txt	Position
+Right.txt	Right
+Arundel_Castle.txt	Arundel Castle
+Quakers.txt	Quakers
+Size.txt	Size
+Opposite.txt	Opposite
+Direction.txt	Direction
+Starvation.txt	Starvation
+Microsoft_Word.txt	Microsoft Word
+Ant.txt	Ant
+Scissors.txt	Scissors
+Indigo.txt	Indigo
+Violet_color.txt	Violet (color)
+Malcolm_IV_of_Scotland.txt	Malcolm IV of Scotland
+David_I_of_Scotland.txt	David I of Scotland
+Saint_Margaret_of_Scotland.txt	Saint Margaret of Scotland
+Alexander_I_of_Scotland.txt	Alexander I of Scotland
+Henry_I_of_England.txt	Henry I of England
+William_the_Conqueror.txt	William the Conqueror
+Matilda_of_Flanders.txt	Matilda of Flanders
+Robert_II_of_France.txt	Robert II of France
+Adelaide_of_Aquitaine.txt	Adelaide of Aquitaine
+William_III_of_Aquitaine.txt	William III of Aquitaine
+Basilica_of_Saint-Denis.txt	Basilica of Saint-Denis
+Gothic_cathedrals.txt	Gothic cathedrals
+Cathedral.txt	Cathedral
+Patron_saint.txt	Patron saint
+Saint_David.txt	Saint David
+Saint_George.txt	Saint George
+Saint_Andrew.txt	Saint Andrew
+Saint_Patrick.txt	Saint Patrick
+March_17.txt	March 17
+Somerset.txt	Somerset
+Glastonbury.txt	Glastonbury
+Glastonbury_Abbey.txt	Glastonbury Abbey
+Somerton.txt	Somerton
+Yeovil_Somerset.txt	Yeovil, Somerset
+Street.txt	Street
+Taunton.txt	Taunton
+Shepton_Mallet.txt	Shepton Mallet
+Bath_Somerset.txt	Bath, Somerset
+Wells_Somerset.txt	Wells, Somerset
+East_Coker_Somerset.txt	East Coker, Somerset
+Tatworth.txt	Tatworth
+Chard_Somerset.txt	Chard (Somerset)
+Crewkerne.txt	Crewkerne
+River_Tone.txt	River Tone
+River_Yeo.txt	River Yeo
+River_Adur.txt	River Adur
+River_Aire.txt	River Aire
+River_Aln.txt	River Aln
+River_Alt.txt	River Alt
+River_Yare.txt	River Yare
+River_Exe.txt	River Exe
+Ilminster_Somerset.txt	Ilminster, Somerset
+South_Cadbury.txt	South Cadbury
+Watchet.txt	Watchet
+Burnham-on-Sea.txt	Burnham-on-Sea
+Cheddar_cheese.txt	Cheddar cheese
+Yatton.txt	Yatton
+Backwell.txt	Backwell
+Clevedon.txt	Clevedon
+Weston-super-Mare.txt	Weston-super-Mare
+South_Somerset.txt	South Somerset
+Scone.txt	Scone
+TemplateWelcome.txt	Template:Welcome
+Ankara.txt	Ankara
+TemplateInfobox_country.txt	Template:Infobox country
+Johannes_Gutenberg.txt	Johannes Gutenberg
+WikipediaBasic_English_combined_wordlist.txt	Wikipedia:Basic English combined wordlist
+WikipediaBasic_English_compound_wordlist.txt	Wikipedia:Basic English compound wordlist
+Elizabeth_I.txt	Elizabeth I
+Cate_Blanchett.txt	Cate Blanchett
+Kylie_Minogue.txt	Kylie Minogue
+Natalie_Imbruglia.txt	Natalie Imbruglia
+Nicole_Kidman.txt	Nicole Kidman
+Hugh_Jackman.txt	Hugh Jackman
+Mel_Gibson.txt	Mel Gibson
+Natalie_Portman.txt	Natalie Portman
+Alyson_Hannigan.txt	Alyson Hannigan
+Jessica_Alba.txt	Jessica Alba
+Brad_Pitt.txt	Brad Pitt
+Jennifer_Aniston.txt	Jennifer Aniston
+Jennifer_Love_Hewitt.txt	Jennifer Love Hewitt
+Katie_Holmes.txt	Katie Holmes
+Sigourney_Weaver.txt	Sigourney Weaver
+Audrey_Hepburn.txt	Audrey Hepburn
+Katharine_Hepburn.txt	Katharine Hepburn
+WikipediaBasic_English_picture_wordlist.txt	Wikipedia:Basic English picture wordlist
+Charles_Kay_Ogden.txt	Charles Kay Ogden
+God_Save_the_King.txt	God Save the King
+Lion.txt	Lion
+Galatasaray_SK.txt	Galatasaray S.K.
+TemplateA-Z.txt	Template:A-Z
+B.txt	B
+C.txt	C++
+D.txt	D
+E.txt	E
+F.txt	F
+G.txt	G
+H.txt	H
+I.txt	I
+J.txt	J
+K.txt	K
+L.txt	L
+M.txt	M
+N.txt	N
+O.txt	O
+P.txt	P
+Q.txt	Q
+R.txt	R
+S.txt	S
+T.txt	T
+U.txt	U
+V.txt	V
+W.txt	W
+X.txt	X
+Y.txt	Y
+Z.txt	Z
+Fuck.txt	Fuck
+CategoryWikipedia.txt	Category:Wikipedia
+Virus.txt	Virus
+Microprocessor.txt	Microprocessor
+Heat.txt	Heat
+Shōgun.txt	Shōgun
+Bratislava.txt	Bratislava
+Wellington.txt	Wellington
+Biochemistry.txt	Biochemistry
+Sadness.txt	Sadness
+Microeconomics.txt	Microeconomics
+Port_disambiguation.txt	Port (disambiguation)
+Cryptography.txt	Cryptography
+Tuesday.txt	Tuesday
+Wednesday.txt	Wednesday
+Thursday.txt	Thursday
+Friday.txt	Friday
+Saturday.txt	Saturday
+Laos.txt	Laos
+TemplateFive_Oceans.txt	Template:Five Oceans
+Yes.txt	Yes
+Amaterasu_Ōmikami.txt	Amaterasu Ōmikami
+Organism.txt	Organism
+Kinetic_energy.txt	Kinetic energy
+Potential_energy.txt	Potential energy
+Ship.txt	Ship
+Boat.txt	Boat
+Navy.txt	Navy
+Air_force.txt	Air force
+List_of_words_about_computers.txt	List of words about computers
+Adware.txt	Adware
+Gender.txt	Gender
+CategoryComputing.txt	Category:Computing
+CategoryCities_in_Japan.txt	Category:Cities in Japan
+Dutch_language.txt	Dutch language
+Creative_Commons_licenses.txt	Creative Commons licenses
+CategoryBASIC_English.txt	Category:BASIC English
+TemplateCleanup.txt	Template:Cleanup
+Marshall_Islands.txt	Marshall Islands
+Alphabet.txt	Alphabet
+County.txt	County
+New_York_University.txt	New York University
+Bee.txt	Bee
+Dragonfly.txt	Dragonfly
+Wind.txt	Wind
+Vertebrate.txt	Vertebrate
+Alpha_male.txt	Alpha male
+Singapore.txt	Singapore
+Johannesburg.txt	Johannesburg
+Breakfast.txt	Breakfast
+Town.txt	Town
+Condensed_matter_physics.txt	Condensed matter physics
+Bag.txt	Bag
+Julius_Caesar.txt	Julius Caesar
+Sapporo.txt	Sapporo
+Hokkaidō_Prefecture.txt	Hokkaidō Prefecture
+WikipediaAdministratorsArchive1.txt	Wikipedia:Administrators/Archive1
+Hinduism.txt	Hinduism
+List_of_elements_by_symbol.txt	List of elements by symbol
+Periodic_table_big.txt	Periodic table (big)
+Periodic_table_metals_and_non-metals.txt	Periodic table (metals and non-metals)
+Hernán_Cortés.txt	Hernán Cortés
+Bible_study.txt	Bible study
+Medlar.txt	Medlar
+Atheism.txt	Atheism
+Hippocrates.txt	Hippocrates
+Commensurability.txt	Commensurability
+Harvest.txt	Harvest
+ELISPOT.txt	ELISPOT
+List_of_biochemistry_topics.txt	List of biochemistry topics
+Aztecs.txt	Aztecs
+Billion.txt	Billion
+CategoryNumbers.txt	Category:Numbers
+Richard_Nixon.txt	Richard Nixon
+Gerald_Ford.txt	Gerald Ford
+John_Kerry.txt	John Kerry
+White_blood_cell.txt	White blood cell
+Lymphocyte.txt	Lymphocyte
+Author.txt	Author
+Pedipalp.txt	Pedipalp
+Ionic_compound.txt	Ionic compound
+ELISA.txt	ELISA
+David_Hume.txt	David Hume
+Bath.txt	Bath
+Brush.txt	Brush
+Starch.txt	Starch
+Thomas_Hobbes.txt	Thomas Hobbes
+Trevi.txt	Trevi
+Nicomachus.txt	Nicomachus
+Logo.txt	Logo
+Picture.txt	Picture
+Building.txt	Building
+Candle.txt	Candle
+Salamander.txt	Salamander
+Newt.txt	Newt
+Poison.txt	Poison
+Powder.txt	Powder
+Larva.txt	Larva
+Amphibian.txt	Amphibian
+Father.txt	Father
+Gill.txt	Gill
+Frog.txt	Frog
+Chemical_compound.txt	Chemical compound
+Wood.txt	Wood
+Chalk.txt	Chalk
+Utilitarianism.txt	Utilitarianism
+Village.txt	Village
+Chelmsford.txt	Chelmsford
+Gangnihessou.txt	Gangnihessou
+Contract_bridge.txt	Contract bridge
+No.txt	No
+Leon_Trotsky.txt	Leon Trotsky
+Second_International.txt	Second International
+Devon.txt	Devon
+Latin_script.txt	Latin script
+Insectivore.txt	Insectivore
+Copy.txt	Copy
+Vapor.txt	Vapor
+Vehicle.txt	Vehicle
+Line_dance.txt	Line dance
+Three_Kingdoms_of_Korea.txt	Three Kingdoms of Korea
+Eckernförde.txt	Eckernförde
+Archduke_Franz_Ferdinand_of_Austria.txt	Archduke Franz Ferdinand of Austria
+Black_Hand.txt	Black Hand
+Edmonton.txt	Edmonton
+Autarky.txt	Autarky
+Bonsai.txt	Bonsai
+Chastity_belt.txt	Chastity belt
+Mount_Arafat.txt	Mount Arafat
+Ariel_Sharon.txt	Ariel Sharon
+Syria.txt	Syria
+Psychology.txt	Psychology
+Louisiana.txt	Louisiana
+Synonym.txt	Synonym
+Yosa_Buson.txt	Yosa Buson
+Sandbox.txt	Sandbox
+Chopsticks.txt	Chopsticks
+Telephone.txt	Telephone
+Checkers.txt	Checkers
+Kobe_Hyōgo.txt	Kobe, Hyōgo
+Oradea.txt	Oradea
+Henry_Ford.txt	Henry Ford
+George_Orwell.txt	George Orwell
+Genghis_Khan.txt	Genghis Khan
+Joseph_Stalin.txt	Joseph Stalin
+Antigua_and_Barbuda.txt	Antigua and Barbuda
+San_Marino.txt	San Marino
+Philippes.txt	Philippe's
+Orbit.txt	Orbit
+Funeral.txt	Funeral
+Georgian_uprising_on_Texel.txt	Georgian uprising on Texel
+Neutrino.txt	Neutrino
+Play_theatre.txt	Play (theatre)
+Phrasal_verb.txt	Phrasal verb
+WikipediaExamples_of_simpler_English.txt	Wikipedia:Examples of simpler English
+Season.txt	Season
+Carisbrooke_Castle.txt	Carisbrooke Castle
+Atlantis.txt	Atlantis
+Comparative.txt	Comparative
+Asbestos.txt	Asbestos
+Syllable.txt	Syllable
+Umbrella.txt	Umbrella
+Usenet.txt	Usenet
+Diagonal.txt	Diagonal
+Kwashiorkor.txt	Kwashiorkor
+Popocatépetl.txt	Popocatépetl
+North_Sea.txt	North Sea
+Letter.txt	Letter
+Anne_Frank.txt	Anne Frank
+Jan_Peter_Balkenende.txt	Jan Peter Balkenende
+Toleration.txt	Toleration
+William_the_Silent.txt	William the Silent
+Simón_Bolívar.txt	Simón Bolívar
+Pythagorean_theorem.txt	Pythagorean theorem
+Temperature.txt	Temperature
+Tux.txt	Tux
+Mein_Kampf.txt	Mein Kampf
+Computer_graphics.txt	Computer graphics
+FC_Bayern_Munich.txt	FC Bayern Munich
+Cape_of_Good_Hope.txt	Cape of Good Hope
+Hand_washing.txt	Hand washing
+Franklin_D_Roosevelt.txt	Franklin D. Roosevelt
+Venezuela.txt	Venezuela
+Saudi_Arabia.txt	Saudi Arabia
+Colombia.txt	Colombia
+Abel_Tasman.txt	Abel Tasman
+MediaWikiSharedupload.txt	MediaWiki:Sharedupload
+Hard_science.txt	Hard science
+Artificial_intelligence.txt	Artificial intelligence
+Programmer.txt	Programmer
+Programming_language.txt	Programming language
+Visual_Basic.txt	Visual Basic
+Booting.txt	Booting
+DBS.txt	DBS
+TemplateWrongtitle.txt	Template:Wrongtitle
+Tea.txt	Tea
+Interlingua.txt	Interlingua
+World.txt	World
+Azerbaijan.txt	Azerbaijan
+Actor.txt	Actor
+Al-Khwarizmi.txt	Al-Khwarizmi
+Ptolemy.txt	Ptolemy
+Moctezuma_II.txt	Moctezuma II
+Antonio_López_de_Santa_Anna.txt	Antonio López de Santa Anna
+Granzyme.txt	Granzyme
+CategoryGeology.txt	Category:Geology
+Apartheid.txt	Apartheid
+Dreyfus_Affair.txt	Dreyfus Affair
+Baseball.txt	Baseball
+Antonym.txt	Antonym
+Names_of_God_in_Judaism.txt	Names of God in Judaism
+EFL_Championship.txt	EFL Championship
+Birmingham.txt	Birmingham
+Richmond_Virginia.txt	Richmond, Virginia
+American_Civil_War.txt	American Civil War
+Tutankhamun.txt	Tutankhamun
+Independence.txt	Independence
+Anubis.txt	Anubis
+Atum.txt	Atum
+Antisemitism.txt	Antisemitism
+Esteban_Huertas.txt	Esteban Huertas
+Panama.txt	Panama
+Spanish_language.txt	Spanish language
+Nahuatl.txt	Nahuatl
+Stephen_Hawking.txt	Stephen Hawking
+Czech_Republic.txt	Czech Republic
+Flag.txt	Flag
+Karaite_Judaism.txt	Karaite Judaism
+Warship.txt	Warship
+Coast_guard.txt	Coast guard
+Equilibrium_market_price.txt	Equilibrium market price
+WikipediaVOA_Special_English_Word_Book.txt	Wikipedia:VOA Special English Word Book
+Samba.txt	Samba
+Nuclear_weapon.txt	Nuclear weapon
+Diamond.txt	Diamond
+Thanksgiving.txt	Thanksgiving
+Nobel_Prize.txt	Nobel Prize
+Graph.txt	Graph
+Collision_detection.txt	Collision detection
+Berkeley_Software_Distribution.txt	Berkeley Software Distribution
+Jacques_Cartier.txt	Jacques Cartier
+Vasco_da_Gama.txt	Vasco da Gama
+Kayseri.txt	Kayseri
+Iodised_salt.txt	Iodised salt
+College.txt	College
+Battery.txt	Battery
+Knife.txt	Knife
+Nyngan_New_South_Wales.txt	Nyngan, New South Wales
+Film_disambiguation.txt	Film (disambiguation)
+Photographic_film.txt	Photographic film
+CategoryMedicine.txt	Category:Medicine
+Compass.txt	Compass
+Ferdinand_Magellan.txt	Ferdinand Magellan
+Henry_the_Navigator.txt	Henry the Navigator
+Concrete.txt	Concrete
+Marathon.txt	Marathon
+CategoryNature.txt	Category:Nature
+Holy_Roman_Empire.txt	Holy Roman Empire
+Friesland.txt	Friesland
+Groningen_province.txt	Groningen (province)
+Groningen_disambiguation.txt	Groningen (disambiguation)
+Burgundy.txt	Burgundy
+Duke.txt	Duke
+Latin.txt	Latin
+Middle_Ages.txt	Middle Ages
+Louis_Bonaparte.txt	Louis Bonaparte
+Michiel_de_Ruyter.txt	Michiel de Ruyter
+Johan_Rudolf_Thorbecke.txt	Johan Rudolf Thorbecke
+Karel_Doorman.txt	Karel Doorman
+The_Star-Spangled_Banner.txt	The Star-Spangled Banner
+Abdou_Diouf.txt	Abdou Diouf
+Needle.txt	Needle
+February_3.txt	February 3
+Province.txt	Province
+Jade.txt	Jade
+Viktor_Yushchenko.txt	Viktor Yushchenko
+Viktor_Yanukovych.txt	Viktor Yanukovych
+Salt.txt	Salt
+Business.txt	Business
+Winter.txt	Winter
+June_1.txt	June 1
+Junta.txt	Junta
+WikipediaCalendars.txt	Wikipedia:Calendars
+TemplateCalendar.txt	Template:Calendar
+Nezahualcoyotl.txt	Nezahualcoyotl
+Miguel_Hidalgo.txt	Miguel Hidalgo
+Death_penalty.txt	Death penalty
+Kofi_Annan.txt	Kofi Annan
+United_Nations_General_Assembly.txt	United Nations General Assembly
+Mining.txt	Mining
+Bomber.txt	Bomber
+Bull.txt	Bull
+Huntingdon_Life_Sciences.txt	Huntingdon Life Sciences
+Huntingdon.txt	Huntingdon
+Condom.txt	Condom
+Osaka.txt	Osaka
+Piano.txt	Piano
+Channel_Islands.txt	Channel Islands
+Hedonism.txt	Hedonism
+Shinkansen.txt	Shinkansen
+TemplateParticles.txt	Template:Particles
+TemplateLeptons.txt	Template:Leptons
+Copper.txt	Copper
+Prince.txt	Prince
+Princess.txt	Princess
+Ore.txt	Ore
+Gainesville_Florida.txt	Gainesville, Florida
+University_of_Florida.txt	University of Florida
+X-Men.txt	X-Men
+Iron_Man.txt	Iron Man
+TemplateBarroso_Commission.txt	Template:Barroso Commission
+Andris_Piebalgs.txt	Andris Piebalgs
+Augusto_Pinochet.txt	Augusto Pinochet
+Plasma_physics.txt	Plasma (physics)
+Puebla_state.txt	Puebla (state)
+Dan_Aykroyd.txt	Dan Aykroyd
+John_Belushi.txt	John Belushi
+The_Blues_Brothers.txt	The Blues Brothers
+Arnhem.txt	Arnhem
+Royal_Netherlands_East_Indies_Army.txt	Royal Netherlands East Indies Army
+Bronbeek.txt	Bronbeek
+David_Bowie.txt	David Bowie
+1952.txt	1952
+Benito_Mussolini.txt	Benito Mussolini
+Puppet_state.txt	Puppet state
+Banana_republic.txt	Banana republic
+Banana_Republic.txt	Banana Republic
+Kingdom_of_Holland.txt	Kingdom of Holland
+Victor_Emmanuel_III_of_Italy.txt	Victor Emmanuel III of Italy
+Alter_ego.txt	Alter ego
+Ziggy_Stardust.txt	Ziggy Stardust
+The_Spiders_from_Mars.txt	The Spiders from Mars
+Michael_Schumacher.txt	Michael Schumacher
+Yokohama.txt	Yokohama
+Axis_powers.txt	Axis powers
+Axis.txt	Axis
+Icelandic_language.txt	Icelandic language
+Passu.txt	Passu
+Equator.txt	Equator
+Rocket.txt	Rocket
+Advisor.txt	Advisor
+MacOS.txt	MacOS
+Rendsburg.txt	Rendsburg
+Jacques_Chirac.txt	Jacques Chirac
+Mario_Jeckle.txt	Mario Jeckle
+Eighty_Years_War.txt	Eighty Years' War
+Moresnet.txt	Moresnet
+MacGyver.txt	MacGyver
+December_22.txt	December 22
+December_24.txt	December 24
+Quark.txt	Quark
+Northern_Hemisphere.txt	Northern Hemisphere
+Yesterday.txt	Yesterday
+Messiah.txt	Messiah
+César_Chávez.txt	César Chávez
+Hamilton_Ontario.txt	Hamilton, Ontario
+Shape.txt	Shape
+Quechuan_languages.txt	Quechuan languages
+Drinking_water.txt	Drinking water
+Pen.txt	Pen
+Leet.txt	Leet
+Waterfall.txt	Waterfall
+Garden.txt	Garden
+Great_Zimbabwe.txt	Great Zimbabwe
+Machu_Picchu.txt	Machu Picchu
+Journal.txt	Journal
+Apple_Inc.txt	Apple Inc.
+TemplateIndia.txt	Template:India
+Soil.txt	Soil
+Organic.txt	Organic
+3D.txt	3D
+Humidity.txt	Humidity
+Calabi-Yau_manifold.txt	Calabi-Yau manifold
+Quantum_mechanics.txt	Quantum mechanics
+Duisburg.txt	Duisburg
+Kuopio.txt	Kuopio
+Hammer.txt	Hammer
+Feces.txt	Feces
+Catholicism.txt	Catholicism
+Nail.txt	Nail
+Dictatorship.txt	Dictatorship
+Electricity.txt	Electricity
+Sailor_Moon.txt	Sailor Moon
+Anesthetic.txt	Anesthetic
+Fidel_Castro.txt	Fidel Castro
+Latin_America.txt	Latin America
+Washington_DC.txt	Washington, D.C.
+President_of_the_United_States.txt	President of the United States
+1948.txt	1948
+1949.txt	1949
+1950.txt	1950
+J_R_R_Tolkien.txt	J. R. R. Tolkien
+Adolescence.txt	Adolescence
+KDE.txt	KDE
+UK_Independence_Party.txt	UK Independence Party
+David_Bowie_1969_album.txt	David Bowie (1969 album)
+Saxophone.txt	Saxophone
+Bryophyte.txt	Bryophyte
+Kent.txt	Kent
+Gavrilo_Princip.txt	Gavrilo Princip
+Formula.txt	Formula
+Independence_and_Democracy.txt	Independence and Democracy
+Musician.txt	Musician
+Carrot.txt	Carrot
+Conservatism.txt	Conservatism
+Machine.txt	Machine
+Wario_Land_4.txt	Wario Land 4
+Mrs_Doubtfire.txt	Mrs. Doubtfire
+Super_Mario_64_DS.txt	Super Mario 64 DS
+Epistemology.txt	Epistemology
+Ford_Focus.txt	Ford Focus
+Friends.txt	Friends
+Seinfeld.txt	Seinfeld
+Joey_TV_series.txt	Joey (TV series)
+Eastern_Orthodox_Church.txt	Eastern Orthodox Church
+Lisgar_Collegiate_Institute.txt	Lisgar Collegiate Institute
+Aberdeen.txt	Aberdeen
+Psoriasis.txt	Psoriasis
+Jurassic_Park_novel.txt	Jurassic Park (novel)
+H_G_Wells.txt	H. G. Wells
+Landseer_dog.txt	Landseer dog
+Glasgow.txt	Glasgow
+Grampian.txt	Grampian
+Scottish_Borders.txt	Scottish Borders
+Central_Region_Scotland.txt	Central Region, Scotland
+Dumfries_and_Galloway.txt	Dumfries and Galloway
+Fife.txt	Fife
+Lothian.txt	Lothian
+Strathclyde.txt	Strathclyde
+Tayside.txt	Tayside
+Dundee.txt	Dundee
+Oxford.txt	Oxford
+George_VI.txt	George VI
+Anatolia.txt	Anatolia
+Zoroastrianism.txt	Zoroastrianism
+Science_Olympiad.txt	Science Olympiad
+TemplateWelcome-anon.txt	Template:Welcome-anon
+Bookstore.txt	Bookstore
+Lemonade.txt	Lemonade
+Melting.txt	Melting
+September_11.txt	September 11
+Essex.txt	Essex
+County_town.txt	County town
+Southend-on-Sea.txt	Southend-on-Sea
+Cumbria.txt	Cumbria
+Bob_Dylan.txt	Bob Dylan
+Diana_Ross.txt	Diana Ross
+Enid_Blyton.txt	Enid Blyton
+Saint_Denis.txt	Saint Denis
+Dragon.txt	Dragon
+Inertia.txt	Inertia
+Sherlock_Holmes.txt	Sherlock Holmes
+York.txt	York
+North_Yorkshire.txt	North Yorkshire
+Pig_Latin.txt	Pig Latin
+Binary_number.txt	Binary number
+Paper_Mario_The_Thousand-Year_Door.txt	Paper Mario: The Thousand-Year Door
+Nickname.txt	Nickname
+Martin_Luther_King_Jr.txt	Martin Luther King Jr.
+Jumanji.txt	Jumanji
+Neopets.txt	Neopets
+Queen_Victoria.txt	Queen Victoria
+Freak_the_Mighty.txt	Freak the Mighty
+Daniel_Handler.txt	Daniel Handler
+Global_warming.txt	Global warming
+House_music.txt	House music
+Ammonia.txt	Ammonia
+Alkali.txt	Alkali
+The_White_Stripes.txt	The White Stripes
+Millennium_Dome.txt	Millennium Dome
+Outlook.txt	Outlook
+J_K_Rowling.txt	J. K. Rowling
+Charmed.txt	Charmed
+Train_disambiguation.txt	Train (disambiguation)
+Media.txt	Media
+Falkland_Islands.txt	Falkland Islands
+Neil_Armstrong.txt	Neil Armstrong
+Caretaker.txt	Caretaker
+Samuel_Beckett.txt	Samuel Beckett
+Vegetarianism.txt	Vegetarianism
+British.txt	British
+Jurassic_Park_Operation_Genesis.txt	Jurassic Park: Operation Genesis
+Think_Quest.txt	Think Quest
+Terry_Gilliam.txt	Terry Gilliam
+John_Cleese.txt	John Cleese
+Arthur_Conan_Doyle.txt	Arthur Conan Doyle
+Muslims.txt	Muslims
+Ray_Charles.txt	Ray Charles
+Jalisco.txt	Jalisco
+Ferrari.txt	Ferrari
+Fiat.txt	Fiat
+Daihatsu.txt	Daihatsu
+Hydrocarbon.txt	Hydrocarbon
+Shanghai.txt	Shanghai
+Hunter_S_Thompson.txt	Hunter S. Thompson
+Johnny_Depp.txt	Johnny Depp
+Uncle_Johns_Bathroom_Reader.txt	Uncle John's Bathroom Reader
+Catalonia.txt	Catalonia
+Civil_engineering.txt	Civil engineering
+Golden_Gate_Bridge.txt	Golden Gate Bridge
+Kitchen.txt	Kitchen
+Software_engineering.txt	Software engineering
+Student.txt	Student
+Suburb.txt	Suburb
+Skyscraper.txt	Skyscraper
+Integer.txt	Integer
+Natural_number.txt	Natural number
+Golden_Rule.txt	Golden Rule
+Leicester.txt	Leicester
+Hollywood.txt	Hollywood
+Saturday_Night_Live.txt	Saturday Night Live
+Elvis_Presley.txt	Elvis Presley
+Sherwood_Forest.txt	Sherwood Forest
+Mount_Everest.txt	Mount Everest
+Luanda.txt	Luanda
+Pepsi.txt	Pepsi
+Penguin.txt	Penguin
+March_6.txt	March 6
+1953.txt	1953
+1820.txt	1820
+Cannibalism.txt	Cannibalism
+May_29.txt	May 29
+Halloween.txt	Halloween
+Frida_Kahlo.txt	Frida Kahlo
+1932.txt	1932
+Fear_and_Loathing_in_Las_Vegas.txt	Fear and Loathing in Las Vegas
+Graham_Chapman.txt	Graham Chapman
+Michael_Palin.txt	Michael Palin
+Terry_Jones.txt	Terry Jones
+New_York_state.txt	New York (state)
+Rolling_Stone.txt	Rolling Stone
+Ralph_Steadman.txt	Ralph Steadman
+Tunisia.txt	Tunisia
+1972.txt	1972
+1979.txt	1979
+Malaysia.txt	Malaysia
+Mickey_Mouse.txt	Mickey Mouse
+HIV.txt	HIV
+Frank_Zappa.txt	Frank Zappa
+Tasmania.txt	Tasmania
+MASH.txt	M*A*S*H
+Donald_Sutherland.txt	Donald Sutherland
+Canadian_disambiguation.txt	Canadian (disambiguation)
+Paul_Martin.txt	Paul Martin
+Machine_gun.txt	Machine gun
+Robin_Hood.txt	Robin Hood
+Basketball.txt	Basketball
+Folk_hero.txt	Folk hero
+January_1.txt	January 1
+Seth_Green.txt	Seth Green
+Ashton_Kutcher.txt	Ashton Kutcher
+Linus_Torvalds.txt	Linus Torvalds
+Thomas_Jefferson.txt	Thomas Jefferson
+Tahiti.txt	Tahiti
+Geneva_canton.txt	Geneva (canton)
+John_Heinz.txt	John Heinz
+The_Tempest.txt	The Tempest
+Calendar.txt	Calendar
+Randall_Cobb.txt	Randall Cobb
+Aquilino_Pimentel_Jr.txt	Aquilino Pimentel Jr.
+Pat_Robertson.txt	Pat Robertson
+Full_House.txt	Full House
+1888.txt	1888
+Hot_Press.txt	Hot Press
+Alabama_Song.txt	Alabama Song
+The_Doors.txt	The Doors
+Mickey_Gilley.txt	Mickey Gilley
+Jerry_Lee_Lewis.txt	Jerry Lee Lewis
+Jimmy_Swaggart.txt	Jimmy Swaggart
+Johnny_Cash.txt	Johnny Cash
+Pluto_mythology.txt	Pluto (mythology)
+Maoism.txt	Maoism
+Korean_War.txt	Korean War
+John_Landis.txt	John Landis
+March_21.txt	March 21
+Edith_Massey.txt	Edith Massey
+Statue_of_Liberty.txt	Statue of Liberty
+1875.txt	1875
+Ankst.txt	Ankst
+1988.txt	1988
+April_1.txt	April 1
+January_8.txt	January 8
+October_4.txt	October 4
+February_11.txt	February 11
+T_S_Eliot.txt	T. S. Eliot
+Andrew_Lloyd_Webber.txt	Andrew Lloyd Webber
+October_24.txt	October 24
+Bob_Kane.txt	Bob Kane
+Batman.txt	Batman
+Val_Kilmer.txt	Val Kilmer
+Eva_Gabor.txt	Eva Gabor
+Athlete.txt	Athlete
+Snoopy.txt	Snoopy
+John_Wilkes_Booth.txt	John Wilkes Booth
+Annapolis_Maryland.txt	Annapolis, Maryland
+Keanu_Reeves.txt	Keanu Reeves
+Kurt_Cobain.txt	Kurt Cobain
+Mikhail_Gorbachev.txt	Mikhail Gorbachev
+Tron.txt	Tron
+Garfield.txt	Garfield
+Michael_Moore.txt	Michael Moore
+Hawaiian_Punch.txt	Hawaiian Punch
+Whale.txt	Whale
+Marker.txt	Marker
+Anchor.txt	Anchor
+Light_pollution.txt	Light pollution
+Nintendo.txt	Nintendo
+São_Paulo.txt	São Paulo
+Tim_Burton.txt	Tim Burton
+DVD.txt	DVD
+Submarine.txt	Submarine
+Lebanon.txt	Lebanon
+Alan_Alda.txt	Alan Alda
+Sally_Kellerman.txt	Sally Kellerman
+Hagar_the_Horrible.txt	Hagar the Horrible
+Baghdad.txt	Baghdad
+Mediterranean_Sea.txt	Mediterranean Sea
+Shirley_Bassey.txt	Shirley Bassey
+Captain_Beefheart.txt	Captain Beefheart
+December_30.txt	December 30
+C_programming_language.txt	C (programming language)
+Drake__Josh.txt	Drake & Josh
+The_Amanda_Show.txt	The Amanda Show
+1983.txt	1983
+Sally_Ride.txt	Sally Ride
+Court.txt	Court
+Birth.txt	Birth
+Pollution.txt	Pollution
+Immunity_medical.txt	Immunity (medical)
+Roman_numerals.txt	Roman numerals
+Map.txt	Map
+Globe.txt	Globe
+Noah.txt	Noah
+1452.txt	1452
+Neds_Declassified_School_Survival_Guide.txt	Ned's Declassified School Survival Guide
+VH1.txt	VH1
+Cabinet.txt	Cabinet
+Newspaper.txt	Newspaper
+1833.txt	1833
+July_4.txt	July 4
+Public_domain.txt	Public domain
+Child.txt	Child
+Nickelodeon.txt	Nickelodeon
+Jimmy_Carter.txt	Jimmy Carter
+Cannes.txt	Cannes
+Theodore_Roosevelt.txt	Theodore Roosevelt
+Composer.txt	Composer
+Cannes_Film_Festival.txt	Cannes Film Festival
+Henry_VIII.txt	Henry VIII
+Orchestra.txt	Orchestra
+Homosexuality.txt	Homosexuality
+Dwight_D_Eisenhower.txt	Dwight D. Eisenhower
+Factor.txt	Factor
+Ball.txt	Ball
+Ferrocement.txt	Ferrocement
+Camera_lens.txt	Camera lens
+Boy.txt	Boy
+Company_clerk.txt	Company clerk
+Paul_McCartney.txt	Paul McCartney
+Afrikaner_people.txt	Afrikaner people
+John_Lennon.txt	John Lennon
+Invention.txt	Invention
+Genocide.txt	Genocide
+Yoko_Ono.txt	Yoko Ono
+Coast.txt	Coast
+George_Harrison.txt	George Harrison
+Note_disambiguation.txt	Note (disambiguation)
+Ravi_Shankar.txt	Ravi Shankar
+Sentence.txt	Sentence
+James_Joyce.txt	James Joyce
+May_1.txt	May 1
+Andes.txt	Andes
+February_21.txt	February 21
+Meal.txt	Meal
+Leipzig.txt	Leipzig
+January_30.txt	January 30
+Evil.txt	Evil
+1872.txt	1872
+Poznań.txt	Poznań
+Cartoonist.txt	Cartoonist
+Jim_Henson.txt	Jim Henson
+Game_Boy_Advance_Video.txt	Game Boy Advance Video
+Butterfly.txt	Butterfly
+Nazism.txt	Nazism
+Pork.txt	Pork
+Mike_Farrell.txt	Mike Farrell
+David_Ogden_Stiers.txt	David Ogden Stiers
+Beauty_and_the_Beast.txt	Beauty and the Beast
+Wayne_Rogers.txt	Wayne Rogers
+McLean_Stevenson.txt	McLean Stevenson
+Friedrich_Georg_Wilhelm_von_Struve.txt	Friedrich Georg Wilhelm von Struve
+WikipediaBots.txt	Wikipedia:Bots
+Mario_Party.txt	Mario Party
+Helsinki.txt	Helsinki
+Jehovahs_Witnesses.txt	Jehovah's Witnesses
+Wife.txt	Wife
+Catherine_Parr.txt	Catherine Parr
+Queen_band.txt	Queen (band)
+Simon__Garfunkel.txt	Simon & Garfunkel
+Madagascar.txt	Madagascar
+Board_game.txt	Board game
+Aerosmith.txt	Aerosmith
+Brighton.txt	Brighton
+April_20.txt	April 20
+Vincent_van_Gogh.txt	Vincent van Gogh
+April_2.txt	April 2
+October_14.txt	October 14
+February_2.txt	February 2
+Rainbow.txt	Rainbow
+Central_Intelligence_Agency.txt	Central Intelligence Agency
+1975.txt	1975
+July_16.txt	July 16
+Thomas_Dolby.txt	Thomas Dolby
+Seismic_retrofit.txt	Seismic retrofit
+Company_disambiguation.txt	Company (disambiguation)
+1890.txt	1890
+Rio_de_Janeiro.txt	Rio de Janeiro
+Andrew_Jackson.txt	Andrew Jackson
+Pillow.txt	Pillow
+Whaler.txt	Whaler
+Crayon.txt	Crayon
+Self-defence.txt	Self-defence
+March_22.txt	March 22
+May_24.txt	May 24
+1153.txt	1153
+January_9.txt	January 9
+1913.txt	1913
+May_3.txt	May 3
+1469.txt	1469
+Dodgeball.txt	Dodgeball
+Local_area_network.txt	Local area network
+February_18.txt	February 18
+Pharaoh.txt	Pharaoh
+Gilligans_Island.txt	Gilligan's Island
+Diaper.txt	Diaper
+Mork__Mindy.txt	Mork & Mindy
+April_23.txt	April 23
+1954.txt	1954
+American_Samoa.txt	American Samoa
+Disgust.txt	Disgust
+February_7.txt	February 7
+1723.txt	1723
+Oven.txt	Oven
+Pot.txt	Pot
+Liquid.txt	Liquid
+January_24.txt	January 24
+October_12.txt	October 12
+1806.txt	1806
+July_13.txt	July 13
+1836.txt	1836
+White.txt	White
+French_Guiana.txt	French Guiana
+Nigger.txt	Nigger
+Biography.txt	Biography
+January_3.txt	January 3
+Ralph_Nader.txt	Ralph Nader
+Jamie_Farr.txt	Jamie Farr
+Free_software.txt	Free software
+1804.txt	1804
+1812.txt	1812
+Zookeeper.txt	Zookeeper
+Cage.txt	Cage
+Toddler.txt	Toddler
+Ronald_McDonald.txt	Ronald McDonald
+Bob_Marley.txt	Bob Marley
+Leonardo_DiCaprio.txt	Leonardo DiCaprio
+John_Candy.txt	John Candy
+Erwin_Rommel.txt	Erwin Rommel
+Fermentation.txt	Fermentation
+Flower.txt	Flower
+1939.txt	1939
+Square_kilometre.txt	Square kilometre
+Judge.txt	Judge
+Guilt_law.txt	Guilt (law)
+Length.txt	Length
+Weight.txt	Weight
+Truth.txt	Truth
+Zimbabwe.txt	Zimbabwe
+Monaco.txt	Monaco
+Jettingen.txt	Jettingen
+Ken_Jennings.txt	Ken Jennings
+Sublimation_phase_transition.txt	Sublimation (phase transition)
+Malcolm_McDowell.txt	Malcolm McDowell
+MAD_Magazine.txt	MAD Magazine
+Traverse_City_Michigan.txt	Traverse City, Michigan
+Will_Smith.txt	Will Smith
+Vladimir_Putin.txt	Vladimir Putin
+Henry_VII_of_England.txt	Henry VII of England
+Dover.txt	Dover
+Tonbridge.txt	Tonbridge
+Inverness.txt	Inverness
+Boycott.txt	Boycott
+Artificial.txt	Artificial
+King_Arthur.txt	King Arthur
+Johnny_Appleseed.txt	Johnny Appleseed
+Compact_disc.txt	Compact disc
+Maidstone.txt	Maidstone
+Redhill.txt	Redhill
+C_S_Lewis.txt	C. S. Lewis
+The_Corrs.txt	The Corrs
+Aaron.txt	Aaron
+Paula_Abdul.txt	Paula Abdul
+Douglas_Adams.txt	Douglas Adams
+Tom_Arnold.txt	Tom Arnold
+Bea_Arthur.txt	Bea Arthur
+Dave_Attell.txt	Dave Attell
+Karel_Appel.txt	Karel Appel
+Randy_Bachman.txt	Randy Bachman
+J_M_Barrie.txt	J. M. Barrie
+Charon.txt	Charon
+Riga.txt	Riga
+Pope_John_Paul_II.txt	Pope John Paul II
+Marvel_Comics.txt	Marvel Comics
+Lincoln_Nebraska.txt	Lincoln, Nebraska
+Nuclear_fission.txt	Nuclear fission
+February_14.txt	February 14
+1903.txt	1903
+Fantastic_Four.txt	Fantastic Four
+Bob_Barker.txt	Bob Barker
+Connect_Four.txt	Connect Four
+Nintendo_DS.txt	Nintendo DS
+Sam_Neill.txt	Sam Neill
+March_18.txt	March 18
+CategoryNintendo.txt	Category:Nintendo
+1928.txt	1928
+Meteor.txt	Meteor
+Similarity.txt	Similarity
+Notepad.txt	Notepad
+Max_Planck.txt	Max Planck
+Jay_Leno.txt	Jay Leno
+Vancouver.txt	Vancouver
+Halifax.txt	Halifax
+Nunavut.txt	Nunavut
+Steve_Martin.txt	Steve Martin
+Richard_Attenborough.txt	Richard Attenborough
+Robin_Williams.txt	Robin Williams
+Bamboo.txt	Bamboo
+Trojan_War.txt	Trojan War
+Cruise_ship.txt	Cruise ship
+Windows_Media_Player.txt	Windows Media Player
+Listen_Up.txt	Listen Up
+Jurassic_Park_III.txt	Jurassic Park III
+Laura_Dern.txt	Laura Dern
+Trailer_movie.txt	Trailer (movie)
+Michael_Crichton.txt	Michael Crichton
+Andreas_Baader.txt	Andreas Baader
+Meher_Baba.txt	Meher Baba
+Uno_card_game.txt	Uno (card game)
+UNO.txt	UNO
+Electrical_engineering.txt	Electrical engineering
+Design.txt	Design
+Star_Trek.txt	Star Trek
+Tunnel.txt	Tunnel
+The_Salvation_Army.txt	The Salvation Army
+Orphanage.txt	Orphanage
+London_Underground.txt	London Underground
+Democracy_Now.txt	Democracy Now!
+Socialist_Party_England_and_Wales.txt	Socialist Party (England and Wales)
+National_Union_of_Teachers.txt	National Union of Teachers
+Socialist_Party.txt	Socialist Party
+June_5.txt	June 5
+February_20.txt	February 20
+Dave_Grohl.txt	Dave Grohl
+1740.txt	1740
+Embryo.txt	Embryo
+WordPad.txt	WordPad
+Microsoft_Paint.txt	Microsoft Paint
+This_PC.txt	This PC
+Trilogy.txt	Trilogy
+Series.txt	Series
+Synesthesia.txt	Synesthesia
+Moose.txt	Moose
+Stanley_Kubrick.txt	Stanley Kubrick
+Kyoto_Protocol.txt	Kyoto Protocol
+Movie_director.txt	Movie director
+Jack_Nicholson.txt	Jack Nicholson
+1860s.txt	1860s
+June_20.txt	June 20
+January_4.txt	January 4
+Autism.txt	Autism
+Italian_language.txt	Italian language
+Namibia.txt	Namibia
+Jubal_Early.txt	Jubal Early
+Lewis_Carroll.txt	Lewis Carroll
+1935.txt	1935
+Belize.txt	Belize
+Michael_Landon.txt	Michael Landon
+Titanic.txt	Titanic
+Steel.txt	Steel
+Luftwaffe.txt	Luftwaffe
+The_Velvet_Underground.txt	The Velvet Underground
+John_F_Kennedy.txt	John F. Kennedy
+Jyväskylä.txt	Jyväskylä
+Alfred_Hitchcock.txt	Alfred Hitchcock
+1659.txt	1659
+July_1.txt	July 1
+Black_comedy.txt	Black comedy
+Elliott_Gould.txt	Elliott Gould
+Equation.txt	Equation
+1961.txt	1961
+1783.txt	1783
+1809.txt	1809
+1968.txt	1968
+October_31.txt	October 31
+Beadle.txt	Beadle
+1947.txt	1947
+July_17.txt	July 17
+Vegetable.txt	Vegetable
+Olivine.txt	Olivine
+May_18.txt	May 18
+30_BC.txt	30 BC
+January_29.txt	January 29
+Economy.txt	Economy
+March_7.txt	March 7
+September_19.txt	September 19
+September_9.txt	September 9
+Engine.txt	Engine
+Belarus.txt	Belarus
+Steam.txt	Steam
+August_29.txt	August 29
+July_20.txt	July 20
+Steering_wheel.txt	Steering wheel
+East_Germany.txt	East Germany
+Netball.txt	Netball
+Atomic_number.txt	Atomic number
+June_21.txt	June 21
+1920.txt	1920
+Cardinal_number.txt	Cardinal number
+1960.txt	1960
+1956.txt	1956
+March_4.txt	March 4
+Merchant_marine.txt	Merchant marine
+FreeBSD.txt	FreeBSD
+Garry_Marshall.txt	Garry Marshall
+1934.txt	1934
+November_1.txt	November 1
+Johnny_Weissmuller.txt	Johnny Weissmuller
+1756.txt	1756
+1715.txt	1715
+Priscilla_Presley.txt	Priscilla Presley
+1973.txt	1973
+Drunkenness.txt	Drunkenness
+Canada_Dry.txt	Canada Dry
+Ginger_ale.txt	Ginger ale
+Shaving.txt	Shaving
+Hygiene.txt	Hygiene
+Spork.txt	Spork
+Vauxhall_Astra.txt	Vauxhall Astra
+Ford_Ka.txt	Ford Ka
+Tower_Bridge.txt	Tower Bridge
+Waiter.txt	Waiter
+Steven_Spielberg.txt	Steven Spielberg
+Variable.txt	Variable
+Salvador_Allende.txt	Salvador Allende
+Authority.txt	Authority
+Musical_instrument.txt	Musical instrument
+Pupil.txt	Pupil
+Winston_Churchill.txt	Winston Churchill
+Golan_Heights.txt	Golan Heights
+Pupil_eye.txt	Pupil (eye)
+Translator.txt	Translator
+Cambodia.txt	Cambodia
+1466.txt	1466
+1502.txt	1502
+Teenager.txt	Teenager
+1546.txt	1546
+1600.txt	1600
+Adult.txt	Adult
+Colony.txt	Colony
+Sonic_boom.txt	Sonic boom
+Sikkim.txt	Sikkim
+Spelling_bee.txt	Spelling bee
+Birth_control.txt	Birth control
+Role-playing_game.txt	Role-playing game
+Arabic_language.txt	Arabic language
+Dresden.txt	Dresden
+Free_will.txt	Free will
+March_3.txt	March 3
+September_3.txt	September 3
+TemplateCategory_ToC.txt	Template:Category ToC
+Irrigation.txt	Irrigation
+Glastonbury_Festival.txt	Glastonbury Festival
+Detroit.txt	Detroit
+War_communism.txt	War communism
+New_Economic_Policy.txt	New Economic Policy
+Foreign_aid.txt	Foreign aid
+Hydroelectricity.txt	Hydroelectricity
+Mallaig.txt	Mallaig
+Cramlington.txt	Cramlington
+Belfast.txt	Belfast
+Dungeness.txt	Dungeness
+Power_station.txt	Power station
+Mind.txt	Mind
+Reality.txt	Reality
+Mary_Shelley.txt	Mary Shelley
+Sum.txt	Sum
+Nelson_Mandela.txt	Nelson Mandela
+The_Lost_World_Jurassic_Park.txt	The Lost World: Jurassic Park
+Mario_Party_6.txt	Mario Party 6
+Don_Quixote.txt	Don Quixote
+Swim.txt	Swim
+Archimedes.txt	Archimedes
+Radio.txt	Radio
+Vandalism.txt	Vandalism
+Monopoly_game.txt	Monopoly (game)
+Still_Standing.txt	Still Standing
+IGN.txt	IGN
+Sock.txt	Sock
+Everybody_Loves_Raymond.txt	Everybody Loves Raymond
+Lighthouse.txt	Lighthouse
+Joan_of_Arcadia.txt	Joan of Arcadia
+Lunchbox.txt	Lunchbox
+The_Game_of_Life.txt	The Game of Life
+Poster.txt	Poster
+Gretchen_Wilson.txt	Gretchen Wilson
+Blue_Balliett.txt	Blue Balliett
+Eyelash.txt	Eyelash
+Prague.txt	Prague
+Wallet.txt	Wallet
+Memory_card.txt	Memory card
+Computer_printer.txt	Computer printer
+Chasing_Vermeer.txt	Chasing Vermeer
+Great_Wall_of_China.txt	Great Wall of China
+Amazon_River.txt	Amazon River
+Pyramid.txt	Pyramid
+Care_Bears.txt	Care Bears
+Bolzano.txt	Bolzano
+Flubber.txt	Flubber
+Mary_Wollstonecraft.txt	Mary Wollstonecraft
+Isle_of_Wight.txt	Isle of Wight
+Socks_disambiguation.txt	Socks (disambiguation)
+Alzheimers_disease.txt	Alzheimer's disease
+Elaine_Paige.txt	Elaine Paige
+Marti_Webb.txt	Marti Webb
+Yahtzee.txt	Yahtzee
+Tim_Rice.txt	Tim Rice
+Evita_musical.txt	Evita (musical)
+March_8.txt	March 8
+Sunset_Boulevard_movie.txt	Sunset Boulevard (movie)
+September_26.txt	September 26
+1785.txt	1785
+Molière.txt	Molière
+Principality_of_Sealand.txt	Principality of Sealand
+Sticky_note.txt	Sticky note
+Becker_TV_series.txt	Becker (TV series)
+Ted_Danson.txt	Ted Danson
+Digital_camera.txt	Digital camera
+Cheers.txt	Cheers
+Jackie_Chan_Adventures.txt	Jackie Chan Adventures
+Stapler.txt	Stapler
+Pixar.txt	Pixar
+Finding_Nemo.txt	Finding Nemo
+Fibonacci.txt	Fibonacci
+Richard_Stallman.txt	Richard Stallman
+National_Hockey_League.txt	National Hockey League
+Isaac_Asimov.txt	Isaac Asimov
+WikipediaStub.txt	Wikipedia:Stub
+November_13.txt	November 13
+1980.txt	1980
+1936.txt	1936
+March_5.txt	March 5
+1963.txt	1963
+April_17.txt	April 17
+April_14.txt	April 14
+1977.txt	1977
+March_24.txt	March 24
+May_12.txt	May 12
+1907.txt	1907
+December_18.txt	December 18
+June_4.txt	June 4
+November_12.txt	November 12
+September_14.txt	September 14
+July_30.txt	July 30
+September_28.txt	September 28
+February_6.txt	February 6
+1911.txt	1911
+March_29.txt	March 29
+January_15.txt	January 15
+May_19.txt	May 19
+February_24.txt	February 24
+1962.txt	1962
+Evolution.txt	Evolution
+December_31.txt	December 31
+December_25.txt	December 25
+1937.txt	1937
+Bedfordshire.txt	Bedfordshire
+March_26.txt	March 26
+March_20.txt	March 20
+October_8.txt	October 8
+October_28.txt	October 28
+WikipediaBabel.txt	Wikipedia:Babel
+American_football.txt	American football
+The_Ugly_Duckling.txt	The Ugly Duckling
+General_relativity.txt	General relativity
+Rutland.txt	Rutland
+1943.txt	1943
+Adlai_Stevenson_I.txt	Adlai Stevenson I
+Toledo_Ohio.txt	Toledo, Ohio
+The_Carpenters.txt	The Carpenters
+Jerry_Reed.txt	Jerry Reed
+1990.txt	1990
+Bee_Gees.txt	Bee Gees
+Improverts.txt	Improverts
+TemplateEngPlacesKey.txt	Template:EngPlacesKey
+Taipei_101.txt	Taipei 101
+September_1.txt	September 1
+1946.txt	1946
+December_11.txt	December 11
+February_4.txt	February 4
+Sergio_Aragonés.txt	Sergio Aragonés
+Lisa_Bonet.txt	Lisa Bonet
+Tobacco.txt	Tobacco
+Jerusalem.txt	Jerusalem
+Rocky_Mountains.txt	Rocky Mountains
+Brooklyn.txt	Brooklyn
+Cornish_language.txt	Cornish language
+Welsh.txt	Welsh
+Watergate_scandal.txt	Watergate scandal
+Cyan.txt	Cyan
+Purple.txt	Purple
+La_Liga_Filipina.txt	La Liga Filipina
+March_31.txt	March 31
+September_29.txt	September 29
+1938.txt	1938
+1865.txt	1865
+Elton_John.txt	Elton John
+The_Who.txt	The Who
+Led_Zeppelin.txt	Led Zeppelin
+Closed_source.txt	Closed source
+USB_flash_drive.txt	USB flash drive
+CategoryCricket.txt	Category:Cricket
+Ostrich.txt	Ostrich
+Shark.txt	Shark
+Vulture.txt	Vulture
+Eagle.txt	Eagle
+Falcon.txt	Falcon
+Islington.txt	Islington
+1976.txt	1976
+Sirindhorn_International_Institute_of_Technology.txt	Sirindhorn International Institute of Technology
+Ainu_people.txt	Ainu people
+Iliad.txt	Iliad
+Drug.txt	Drug
+Bill_Watterson.txt	Bill Watterson
+Centimetre.txt	Centimetre
+July_5.txt	July 5
+Marilyn_Manson_band.txt	Marilyn Manson (band)
+Aubrey_Beardsley.txt	Aubrey Beardsley
+Odyssey.txt	Odyssey
+Mae_West.txt	Mae West
+Lenny_Bruce.txt	Lenny Bruce
+August_8.txt	August 8
+Kimchi.txt	Kimchi
+Robert_Altman.txt	Robert Altman
+Vietnam_Veterans_Memorial.txt	Vietnam Veterans Memorial
+Maya_Lin.txt	Maya Lin
+Manslaughter.txt	Manslaughter
+Bangkok.txt	Bangkok
+1971.txt	1971
+1987.txt	1987
+Silicosis.txt	Silicosis
+Torquay.txt	Torquay
+Andrew_Sachs.txt	Andrew Sachs
+The_Seven_Samurai.txt	The Seven Samurai
+Vacuum_tube.txt	Vacuum tube
+Tupac_Shakur.txt	Tupac Shakur
+Skagerrak.txt	Skagerrak
+Kattegat.txt	Kattegat
+Baltic_Sea.txt	Baltic Sea
+Scandinavia.txt	Scandinavia
+Minerva_automobile.txt	Minerva (automobile)
+April_8.txt	April 8
+1324.txt	1324
+E_B_White.txt	E. B. White
+Raffles_Institution.txt	Raffles Institution
+Archipelago.txt	Archipelago
+Baltic_states.txt	Baltic states
+Topography.txt	Topography
+Bornholm.txt	Bornholm
+Budapest.txt	Budapest
+Santa_Monica_California.txt	Santa Monica, California
+Kuwait.txt	Kuwait
+Tiny_Tim.txt	Tiny Tim
+Kelvin.txt	Kelvin
+Tourism.txt	Tourism
+Berkshire.txt	Berkshire
+Buckinghamshire.txt	Buckinghamshire
+Computer_monitor.txt	Computer monitor
+December_3.txt	December 3
+Diameter.txt	Diameter
+TemplateCopyvio.txt	Template:Copyvio
+1958.txt	1958
+1921.txt	1921
+1892.txt	1892
+1904.txt	1904
+1951.txt	1951
+1642.txt	1642
+1745.txt	1745
+1813.txt	1813
+1838.txt	1838
+1940.txt	1940
+1942.txt	1942
+Dominica.txt	Dominica
+1923.txt	1923
+1926.txt	1926
+1931.txt	1931
+404.txt	404
+1438.txt	1438
+1651.txt	1651
+Playing_card.txt	Playing card
+Emperor.txt	Emperor
+Palmdale_California.txt	Palmdale, California
+Fresno_California.txt	Fresno, California
+1955.txt	1955
+Popeye.txt	Popeye
+Astrophysics.txt	Astrophysics
+Word_order.txt	Word order
+George_H_W_Bush.txt	George H. W. Bush
+Ohio.txt	Ohio
+Greek.txt	Greek
+Relativity.txt	Relativity
+Principle_of_relativity.txt	Principle of relativity
+Special_relativity.txt	Special relativity
+1964.txt	1964
+1894.txt	1894
+September_7.txt	September 7
+1191.txt	1191
+1539.txt	1539
+May_30.txt	May 30
+1431.txt	1431
+1574.txt	1574
+1984.txt	1984
+1985.txt	1985
+1986.txt	1986
+August_12.txt	August 12
+1918.txt	1918
+Wombat.txt	Wombat
+January_10.txt	January 10
+NC_Wyeth.txt	N.C. Wyeth
+Turkey_bird.txt	Turkey (bird)
+Arachnology.txt	Arachnology
+Alabama.txt	Alabama
+Arizona.txt	Arizona
+Bolivia.txt	Bolivia
+Massachusetts.txt	Massachusetts
+Tallahassee_Florida.txt	Tallahassee, Florida
+Tom_Skerritt.txt	Tom Skerritt
+Trossingen.txt	Trossingen
+The_Smurfs.txt	The Smurfs
+Istanbul.txt	Istanbul
+ABBA.txt	ABBA
+Gregg_Allman.txt	Gregg Allman
+Allman_Brothers_Band.txt	Allman Brothers Band
+John_Frost_Bridge.txt	John Frost Bridge
+Vengaboys.txt	Vengaboys
+Pope_Benedict_XVI.txt	Pope Benedict XVI
+Guan_Yu.txt	Guan Yu
+Subsistence_farming.txt	Subsistence farming
+River_Clyde.txt	River Clyde
+Electric_charge.txt	Electric charge
+Argyroxiphium.txt	Argyroxiphium
+Mr_Pacman.txt	Mr. Pacman
+Music_video.txt	Music video
+Hip_hop.txt	Hip hop
+Color_blindness.txt	Color blindness
+Sopron.txt	Sopron
+Sumo.txt	Sumo
+List_of_districts_of_Germany.txt	List of districts of Germany
+Bremen_state.txt	Bremen (state)
+Saxony-Anhalt.txt	Saxony-Anhalt
+Erfurt.txt	Erfurt
+Magdeburg.txt	Magdeburg
+Romance_languages.txt	Romance languages
+Stellar_evolution.txt	Stellar evolution
+Genetics.txt	Genetics
+Church_Square_Park.txt	Church Square Park
+Supply.txt	Supply
+Demand.txt	Demand
+Transaction.txt	Transaction
+Encyclopædia_Britannica.txt	Encyclopædia Britannica
+Pipeline.txt	Pipeline
+Avocado.txt	Avocado
+Ice_hockey.txt	Ice hockey
+1492.txt	1492
+Virtues_of_Harmony.txt	Virtues of Harmony
+Ashford_Kent.txt	Ashford, Kent
+Song.txt	Song
+Magnesium.txt	Magnesium
+Dan_Brown.txt	Dan Brown
+Penzance.txt	Penzance
+The_Tonight_Show.txt	The Tonight Show
+January_17.txt	January 17
+Antoni_Grabowski.txt	Antoni Grabowski
+Vessel.txt	Vessel
+Fire.txt	Fire
+Five_solas.txt	Five solas
+Göran_Persson.txt	Göran Persson
+Jane_Fonda.txt	Jane Fonda
+Physician.txt	Physician
+WikipediaNPOV_disputeArchive_November_2008.txt	Wikipedia:NPOV dispute/Archive November 2008
+Buffy_the_Vampire_Slayer.txt	Buffy the Vampire Slayer
+Vampire.txt	Vampire
+Degree.txt	Degree
+Academic_degree.txt	Academic degree
+High_school.txt	High school
+Public_school.txt	Public school
+Seoul.txt	Seoul
+May_8.txt	May 8
+July_25.txt	July 25
+Welfare_state.txt	Welfare state
+Athlete_band.txt	Athlete (band)
+Organic_chemistry.txt	Organic chemistry
+Proton.txt	Proton
+July_26.txt	July 26
+April_7.txt	April 7
+March_16.txt	March 16
+1774.txt	1774
+Clint_Eastwood.txt	Clint Eastwood
+Spaghetti_Western.txt	Spaghetti Western
+Disneyland.txt	Disneyland
+Boroughs_of_Berlin.txt	Boroughs of Berlin
+Superhuman.txt	Superhuman
+TemplateSuccession_box.txt	Template:Succession box
+Real_Madrid_CF.txt	Real Madrid CF
+1874.txt	1874
+Bigfoot.txt	Bigfoot
+The_Da_Vinci_Code.txt	The Da Vinci Code
+1959.txt	1959
+1957.txt	1957
+1966.txt	1966
+Peugeot.txt	Peugeot
+Milton_Keynes.txt	Milton Keynes
+Calais.txt	Calais
+December_2.txt	December 2
+A_Clockwork_Orange.txt	A Clockwork Orange
+False.txt	False
+Marine_biology.txt	Marine biology
+President_of_Russia.txt	President of Russia
+Silvio_Berlusconi.txt	Silvio Berlusconi
+Burundi.txt	Burundi
+Espoo.txt	Espoo
+Hospital.txt	Hospital
+Nose.txt	Nose
+Love.txt	Love
+Michael_Jackson.txt	Michael Jackson
+Portable.txt	Portable
+History_of_graphic_design.txt	History of graphic design
+Pornography.txt	Pornography
+Nudity.txt	Nudity
+Kingdom.txt	Kingdom
+Protestantism.txt	Protestantism
+Algiers.txt	Algiers
+Arles.txt	Arles
+Certificate.txt	Certificate
+Daily_Mail.txt	Daily Mail
+Rhineland-Palatinate.txt	Rhineland-Palatinate
+Rhine_River.txt	Rhine River
+Robber_baron.txt	Robber baron
+Winery.txt	Winery
+Sugar.txt	Sugar
+Canterbury.txt	Canterbury
+Huddersfield.txt	Huddersfield
+Anti-tank_dog.txt	Anti-tank dog
+October_2.txt	October 2
+January_2.txt	January 2
+January_5.txt	January 5
+January_6.txt	January 6
+January_7.txt	January 7
+Eyeglasses.txt	Eyeglasses
+Goa.txt	Goa
+Second_language.txt	Second language
+Ido.txt	Ido
+Javier_Solana.txt	Javier Solana
+Paragraph.txt	Paragraph
+Lansing_Michigan.txt	Lansing, Michigan
+Parody.txt	Parody
+Fact.txt	Fact
+Victim.txt	Victim
+Shot_put.txt	Shot put
+Magic.txt	Magic
+Hitchhiking.txt	Hitchhiking
+Owl.txt	Owl
+Copyright_infringement.txt	Copyright infringement
+International_Womens_Day.txt	International Women's Day
+May_Day.txt	May Day
+Beirut.txt	Beirut
+Nancy_Ajram.txt	Nancy Ajram
+Fairuz.txt	Fairuz
+Sword.txt	Sword
+Moses.txt	Moses
+Canaan.txt	Canaan
+Prophet.txt	Prophet
+Cotopaxi.txt	Cotopaxi
+Israelites.txt	Israelites
+January_11.txt	January 11
+January_12.txt	January 12
+January_13.txt	January 13
+January_14.txt	January 14
+January_16.txt	January 16
+January_18.txt	January 18
+January_19.txt	January 19
+January_20.txt	January 20
+January_21.txt	January 21
+January_22.txt	January 22
+January_23.txt	January 23
+Bali.txt	Bali
+Flag_of_the_Peoples_Republic_of_China.txt	Flag of the People's Republic of China
+The_Prince.txt	The Prince
+Round.txt	Round
+512.txt	512
+February_9.txt	February 9
+United_Russia.txt	United Russia
+August_5.txt	August 5
+February_17.txt	February 17
+October_30.txt	October 30
+Tiger.txt	Tiger
+1735.txt	1735
+Leopard.txt	Leopard
+Jaguar.txt	Jaguar
+Cheetah.txt	Cheetah
+January_28.txt	January 28
+October_16.txt	October 16
+September_18.txt	September 18
+Quartz.txt	Quartz
+Pink_Floyd.txt	Pink Floyd
+Pope_John_Paul_I.txt	Pope John Paul I
+October_17.txt	October 17
+1912.txt	1912
+Ted_Cassidy.txt	Ted Cassidy
+July_31.txt	July 31
+Aileen_Wuornos.txt	Aileen Wuornos
+May_20.txt	May 20
+June_11.txt	June 11
+April_5.txt	April 5
+January_26.txt	January 26
+January_27.txt	January 27
+February_1.txt	February 1
+February_5.txt	February 5
+February_8.txt	February 8
+February_15.txt	February 15
+February_10.txt	February 10
+February_16.txt	February 16
+February_19.txt	February 19
+February_23.txt	February 23
+February_25.txt	February 25
+February_26.txt	February 26
+February_27.txt	February 27
+February_28.txt	February 28
+Crater.txt	Crater
+1930.txt	1930
+1857.txt	1857
+1887.txt	1887
+March_1.txt	March 1
+March_2.txt	March 2
+March_9.txt	March 9
+March_10.txt	March 10
+March_30.txt	March 30
+March_27.txt	March 27
+March_25.txt	March 25
+March_23.txt	March 23
+March_19.txt	March 19
+March_15.txt	March 15
+March_14.txt	March 14
+March_13.txt	March 13
+March_12.txt	March 12
+March_11.txt	March 11
+April_3.txt	April 3
+April_6.txt	April 6
+April_9.txt	April 9
+April_25.txt	April 25
+April_26.txt	April 26
+April_24.txt	April 24
+April_27.txt	April 27
+April_18.txt	April 18
+April_19.txt	April 19
+April_22.txt	April 22
+April_21.txt	April 21
+April_29.txt	April 29
+April_30.txt	April 30
+April_16.txt	April 16
+April_10.txt	April 10
+April_11.txt	April 11
+April_12.txt	April 12
+April_13.txt	April 13
+May_9.txt	May 9
+May_7.txt	May 7
+May_6.txt	May 6
+May_5.txt	May 5
+May_4.txt	May 4
+May_2.txt	May 2
+May_23.txt	May 23
+May_22.txt	May 22
+May_31.txt	May 31
+May_15.txt	May 15
+May_16.txt	May 16
+May_10.txt	May 10
+May_11.txt	May 11
+May_14.txt	May 14
+May_21.txt	May 21
+May_27.txt	May 27
+May_26.txt	May 26
+May_25.txt	May 25
+May_17.txt	May 17
+July_3.txt	July 3
+July_6.txt	July 6
+July_7.txt	July 7
+July_2.txt	July 2
+July_9.txt	July 9
+July_8.txt	July 8
+June_6.txt	June 6
+June_2.txt	June 2
+June_3.txt	June 3
+June_9.txt	June 9
+June_8.txt	June 8
+June_7.txt	June 7
+November_7.txt	November 7
+November_6.txt	November 6
+November_5.txt	November 5
+November_2.txt	November 2
+November_3.txt	November 3
+November_4.txt	November 4
+December_1.txt	December 1
+December_4.txt	December 4
+December_5.txt	December 5
+December_6.txt	December 6
+December_7.txt	December 7
+December_8.txt	December 8
+December_9.txt	December 9
+November_8.txt	November 8
+November_9.txt	November 9
+May_13.txt	May 13
+October_9.txt	October 9
+October_7.txt	October 7
+October_6.txt	October 6
+October_5.txt	October 5
+October_3.txt	October 3
+October_1.txt	October 1
+September_2.txt	September 2
+September_4.txt	September 4
+September_5.txt	September 5
+September_6.txt	September 6
+September_8.txt	September 8
+August_6.txt	August 6
+August_4.txt	August 4
+August_3.txt	August 3
+August_2.txt	August 2
+August_1.txt	August 1
+August_7.txt	August 7
+August_9.txt	August 9
+Transgender.txt	Transgender
+August_28.txt	August 28
+August_21.txt	August 21
+August_23.txt	August 23
+August_30.txt	August 30
+August_31.txt	August 31
+August_24.txt	August 24
+August_25.txt	August 25
+August_26.txt	August 26
+August_27.txt	August 27
+August_20.txt	August 20
+August_19.txt	August 19
+August_18.txt	August 18
+August_17.txt	August 17
+August_15.txt	August 15
+August_14.txt	August 14
+August_13.txt	August 13
+August_11.txt	August 11
+August_10.txt	August 10
+August_22.txt	August 22
+1485.txt	1485
+24-hour_clock.txt	24-hour clock
+Fifth_Avenue.txt	Fifth Avenue
+Yarm.txt	Yarm
+Ulster_Volunteer_Force.txt	Ulster Volunteer Force
+June_12.txt	June 12
+1473.txt	1473
+1898.txt	1898
+SpanishAmerican_War.txt	Spanish–American War
+Infection.txt	Infection
+Minesweeper_video_game.txt	Minesweeper (video game)
+Fishing.txt	Fishing
+Confederate_States_of_America.txt	Confederate States of America
+A_Tale_of_Two_Cities.txt	A Tale of Two Cities
+Fiji.txt	Fiji
+Fijian_language.txt	Fijian language
+1922.txt	1922
+Legend.txt	Legend
+Fountain_of_Youth.txt	Fountain of Youth
+Ho_Chi_Minh_City.txt	Ho Chi Minh City
+Apricot.txt	Apricot
+Contraction.txt	Contraction
+Tonga.txt	Tonga
+Filippo_Azzaiolo.txt	Filippo Azzaiolo
+June_10.txt	June 10
+June_25.txt	June 25
+June_13.txt	June 13
+June_14.txt	June 14
+June_15.txt	June 15
+June_16.txt	June 16
+June_17.txt	June 17
+June_18.txt	June 18
+June_19.txt	June 19
+June_26.txt	June 26
+June_30.txt	June 30
+June_28.txt	June 28
+June_27.txt	June 27
+June_22.txt	June 22
+June_23.txt	June 23
+June_24.txt	June 24
+June_29.txt	June 29
+July_24.txt	July 24
+July_11.txt	July 11
+July_12.txt	July 12
+July_10.txt	July 10
+July_21.txt	July 21
+July_22.txt	July 22
+July_14.txt	July 14
+July_15.txt	July 15
+July_18.txt	July 18
+July_19.txt	July 19
+July_27.txt	July 27
+July_28.txt	July 28
+July_29.txt	July 29
+July_23.txt	July 23
+September_10.txt	September 10
+September_30.txt	September 30
+September_27.txt	September 27
+September_25.txt	September 25
+September_20.txt	September 20
+September_21.txt	September 21
+September_22.txt	September 22
+September_23.txt	September 23
+September_24.txt	September 24
+September_12.txt	September 12
+September_13.txt	September 13
+September_15.txt	September 15
+September_16.txt	September 16
+September_17.txt	September 17
+October_10.txt	October 10
+October_11.txt	October 11
+October_23.txt	October 23
+October_26.txt	October 26
+October_20.txt	October 20
+October_27.txt	October 27
+October_29.txt	October 29
+October_22.txt	October 22
+October_15.txt	October 15
+October_13.txt	October 13
+October_19.txt	October 19
+October_18.txt	October 18
+November_10.txt	November 10
+November_11.txt	November 11
+November_14.txt	November 14
+November_28.txt	November 28
+November_25.txt	November 25
+November_21.txt	November 21
+November_24.txt	November 24
+November_22.txt	November 22
+November_23.txt	November 23
+November_20.txt	November 20
+November_27.txt	November 27
+November_29.txt	November 29
+November_30.txt	November 30
+November_26.txt	November 26
+November_15.txt	November 15
+November_16.txt	November 16
+November_17.txt	November 17
+November_18.txt	November 18
+November_19.txt	November 19
+December_10.txt	December 10
+December_12.txt	December 12
+December_13.txt	December 13
+December_15.txt	December 15
+December_16.txt	December 16
+December_17.txt	December 17
+December_29.txt	December 29
+December_21.txt	December 21
+December_27.txt	December 27
+December_19.txt	December 19
+December_26.txt	December 26
+December_20.txt	December 20
+December_28.txt	December 28
+1724.txt	1724
+1914.txt	1914
+February_29.txt	February 29
+Torah.txt	Torah
+2010s.txt	2010s
+Tropical_rainforest.txt	Tropical rainforest
+Welsh_language.txt	Welsh language
+Hesse.txt	Hesse
+Schleswig-Holstein.txt	Schleswig-Holstein
+Lower_Saxony.txt	Lower Saxony
+Mecklenburg-Vorpommern.txt	Mecklenburg-Vorpommern
+1536.txt	1536
+Thailand.txt	Thailand
+2005_Hoboken_mayoral_election.txt	2005 Hoboken mayoral election
+1564.txt	1564
+Hoboken_New_Jersey.txt	Hoboken, New Jersey
+1919.txt	1919
+Caffeine.txt	Caffeine
+Chicago.txt	Chicago
+Woodrow_Wilson.txt	Woodrow Wilson
+Brown.txt	Brown
+Yoda.txt	Yoda
+Magenta.txt	Magenta
+The_Monkees.txt	The Monkees
+Abu_Dhabi.txt	Abu Dhabi
+1927.txt	1927
+1944.txt	1944
+The_Rolling_Stones.txt	The Rolling Stones
+Black_Sabbath.txt	Black Sabbath
+Watt.txt	Watt
+Koblenz.txt	Koblenz
+Delta.txt	Delta
+Elbe.txt	Elbe
+Danube.txt	Danube
+Main.txt	Main
+Weser.txt	Weser
+Suicide.txt	Suicide
+Balkans.txt	Balkans
+Bicentennial.txt	Bicentennial
+Shropshire.txt	Shropshire
+Kermit_the_Frog.txt	Kermit the Frog
+Cotton.txt	Cotton
+Windows_10.txt	Windows 1.0
+Hewlett-Packard.txt	Hewlett-Packard
+Eminem.txt	Eminem
+Bratwurst.txt	Bratwurst
+1909.txt	1909
+Guatemala.txt	Guatemala
+Tenochtitlan.txt	Tenochtitlan
+Eurovision_Song_Contest.txt	Eurovision Song Contest
+Malleability.txt	Malleability
+Gay.txt	Gay
+Potsdam.txt	Potsdam
+Bremen.txt	Bremen
+Wiesbaden.txt	Wiesbaden
+Hanover.txt	Hanover
+Düsseldorf.txt	Düsseldorf
+Mainz.txt	Mainz
+Kiel.txt	Kiel
+Frankfurt_disambiguation.txt	Frankfurt (disambiguation)
+Fred_Rogers.txt	Fred Rogers
+Sri_Yukteswar_Giri.txt	Sri Yukteswar Giri
+Aleister_Crowley.txt	Aleister Crowley
+Karlheinz_Stockhausen.txt	Karlheinz Stockhausen
+W_C_Fields.txt	W. C. Fields
+Carl_Jung.txt	Carl Jung
+Edgar_Allan_Poe.txt	Edgar Allan Poe
+Fred_Astaire.txt	Fred Astaire
+Game_Boy_Advance.txt	Game Boy Advance
+Amerie.txt	Amerie
+Ben_Stein.txt	Ben Stein
+Soft_rock.txt	Soft rock
+Angela_Merkel.txt	Angela Merkel
+Chinese_dragon.txt	Chinese dragon
+Robert_Duvall.txt	Robert Duvall
+Stevie_Wonder.txt	Stevie Wonder
+Littleton_Colorado.txt	Littleton, Colorado
+Motown.txt	Motown
+1893.txt	1893
+Mustelid.txt	Mustelid
+Vanilla_Ninja.txt	Vanilla Ninja
+1835.txt	1835
+Haile_Selassie_I.txt	Haile Selassie I
+Ethiopia.txt	Ethiopia
+Utah.txt	Utah
+The_Bahamas.txt	The Bahamas
+Vanuatu.txt	Vanuatu
+WikipediaRequests_for_deletionLog_1.txt	Wikipedia:Requests for deletion/Log 1
+Jack.txt	Jack
+Stuff.txt	Stuff
+Crayola.txt	Crayola
+Ringo_Starr.txt	Ringo Starr
+Oslo.txt	Oslo
+Lincoln_Thompson.txt	Lincoln Thompson
+Tom_Hanks.txt	Tom Hanks
+Hook.txt	Hook
+Sir_Mix-A-Lot.txt	Sir Mix-A-Lot
+Dick_York.txt	Dick York
+James_Earl_Jones.txt	James Earl Jones
+Calvin_and_Hobbes.txt	Calvin and Hobbes
+Tony_Randall.txt	Tony Randall
+Lesbian.txt	Lesbian
+Maine.txt	Maine
+1884.txt	1884
+Samoa.txt	Samoa
+Davy_Jones_musician.txt	Davy Jones (musician)
+Michael_Nesmith.txt	Michael Nesmith
+Peter_Tork.txt	Peter Tork
+Micky_Dolenz.txt	Micky Dolenz
+1797.txt	1797
+1851.txt	1851
+Dominique_de_Villepin.txt	Dominique de Villepin
+Francis_Drake.txt	Francis Drake
+House_of_Commons_of_the_United_Kingdom.txt	House of Commons of the United Kingdom
+Wank.txt	Wank
+1685.txt	1685
+Hank_Aaron.txt	Hank Aaron
+Vishnu.txt	Vishnu
+Money_laundering.txt	Money laundering
+Zeus.txt	Zeus
+Evolutionary_biology.txt	Evolutionary biology
+1488.txt	1488
+1695.txt	1695
+1767.txt	1767
+1848.txt	1848
+222_BC.txt	222 BC
+Mozilla_Firefox.txt	Mozilla Firefox
+Lenny_Kravitz.txt	Lenny Kravitz
+1854.txt	1854
+1900.txt	1900
+Birdbox.txt	Birdbox
+Australian.txt	Australian
+Accent.txt	Accent
+Louis_Braille.txt	Louis Braille
+Marsupial.txt	Marsupial
+B_J_Thomas.txt	B. J. Thomas
+Laws_of_war.txt	Laws of war
+Maharashtra.txt	Maharashtra
+Pete_Best.txt	Pete Best
+Dionne_Quintuplets.txt	Dionne Quintuplets
+Alls_Well_That_Ends_Well.txt	All's Well That Ends Well
+Fag.txt	Fag
+Christ_title.txt	Christ (title)
+Christian_Bale.txt	Christian Bale
+Eric_Clapton.txt	Eric Clapton
+Buenos_Aires.txt	Buenos Aires
+Lyndon_B_Johnson.txt	Lyndon B. Johnson
+Catholic_Church.txt	Catholic Church
+Villeneuve-dAscq.txt	Villeneuve-d'Ascq
+Hillary_Clinton.txt	Hillary Clinton
+Andhra_Pradesh.txt	Andhra Pradesh
+Alberto_Vargas.txt	Alberto Vargas
+George_Lucas.txt	George Lucas
+Telugu.txt	Telugu
+PlayStation_3.txt	PlayStation 3
+PlayStation_2.txt	PlayStation 2
+Sony.txt	Sony
+Xbox_360.txt	Xbox 360
+Xbox_console.txt	Xbox (console)
+GameCube.txt	GameCube
+Fangame.txt	Fangame
+Wrocław.txt	Wrocław
+1906.txt	1906
+Lou_Albano.txt	Lou Albano
+Lip_synching.txt	Lip synching
+Faith_Evans.txt	Faith Evans
+Bacteria.txt	Bacteria
+Grand_Theft_Auto_San_Andreas.txt	Grand Theft Auto: San Andreas
+Barry_Switzer.txt	Barry Switzer
+Poker.txt	Poker
+El_Salvador.txt	El Salvador
+Isabelle_of_Hainaut.txt	Isabelle of Hainaut
+Fragaria.txt	Fragaria
+1859.txt	1859
+Paul_Simon.txt	Paul Simon
+Shirley_Jones.txt	Shirley Jones
+DeForest_Kelley.txt	DeForest Kelley
+Scott_Bakula.txt	Scott Bakula
+Forestry.txt	Forestry
+Orlando_Florida.txt	Orlando, Florida
+List_of_soccer_clubs_in_the_United_States.txt	List of soccer clubs in the United States
+800s_BC.txt	800s BC
+Oregon.txt	Oregon
+Arkansas.txt	Arkansas
+Robert_Englund.txt	Robert Englund
+Henry_IV_of_France.txt	Henry IV of France
+Margaret_of_Valois.txt	Margaret of Valois
+Queen_Margot.txt	Queen Margot
+Henrietta_Maria_of_France.txt	Henrietta Maria of France
+Madonna_disambiguation.txt	Madonna (disambiguation)
+Madonna.txt	Madonna
+Tortilla.txt	Tortilla
+Bit.txt	Bit
+WikipediaRequests_for_permissions.txt	Wikipedia:Requests for permissions
+EastEnders.txt	EastEnders
+Genetic.txt	Genetic
+Philip_II_of_Spain.txt	Philip II of Spain
+William_II_of_England.txt	William II of England
+Mary_I_of_England.txt	Mary I of England
+Edward_VI_of_England.txt	Edward VI of England
+Richard_I_of_England.txt	Richard I of England
+Jane_Seymour.txt	Jane Seymour
+Elizabeth_of_York.txt	Elizabeth of York
+Catherine_of_Aragon.txt	Catherine of Aragon
+Gregory_Peck.txt	Gregory Peck
+Sin_City.txt	Sin City
+Brittany_Murphy.txt	Brittany Murphy
+Copyleft.txt	Copyleft
+Uruguay.txt	Uruguay
+Minnesota.txt	Minnesota
+Colorado.txt	Colorado
+Cairo.txt	Cairo
+Aerospace_engineering.txt	Aerospace engineering
+Karnataka.txt	Karnataka
+Norrland.txt	Norrland
+Calgary.txt	Calgary
+Nova_Scotia.txt	Nova Scotia
+Calgary_disambiguation.txt	Calgary (disambiguation)
+Absolute_zero.txt	Absolute zero
+Cylinder.txt	Cylinder
+Vacuum.txt	Vacuum
+Catherine_Howard.txt	Catherine Howard
+Anne_of_Cleves.txt	Anne of Cleves
+Mary_Tudor_Queen_of_France.txt	Mary Tudor, Queen of France
+Louis_XII.txt	Louis XII
+Louis_XIII.txt	Louis XIII
+Claude_of_France.txt	Claude of France
+Eleanor_Clifford_Countess_of_Cumberland.txt	Eleanor Clifford, Countess of Cumberland
+Frances_Grey_Duchess_of_Suffolk.txt	Frances Grey, Duchess of Suffolk
+Henry_II_of_France.txt	Henry II of France
+Francis_I_of_France.txt	Francis I of France
+Madeleine_of_Valois.txt	Madeleine of Valois
+Holyrood_Abbey.txt	Holyrood Abbey
+The_Muppets.txt	The Muppets
+Catherine_de_Medici.txt	Catherine de' Medici
+Francis_II_of_France.txt	Francis II of France
+Adela_of_Normandy.txt	Adela of Normandy
+Stephen_King_of_England.txt	Stephen, King of England
+Eleanor_of_Aquitaine.txt	Eleanor of Aquitaine
+John_of_England.txt	John of England
+13_number.txt	13 (number)
+Weekend.txt	Weekend
+Alexandria.txt	Alexandria
+1908.txt	1908
+Celtic_League.txt	Celtic League
+Oprah_Winfrey.txt	Oprah Winfrey
+Colognian.txt	Colognian
+Kölsch.txt	Kölsch
+Past_tense.txt	Past tense
+Freeview.txt	Freeview
+Mark_Addy.txt	Mark Addy
+Tuba.txt	Tuba
+Garden_gnome.txt	Garden gnome
+Kentucky.txt	Kentucky
+Gary_Busey.txt	Gary Busey
+Montana.txt	Montana
+List_of_seas.txt	List of seas
+Wool.txt	Wool
+Saw.txt	Saw
+Tennessee.txt	Tennessee
+Connecticut.txt	Connecticut
+Wyoming.txt	Wyoming
+Mississippi.txt	Mississippi
+Delaware.txt	Delaware
+Idaho.txt	Idaho
+Manila.txt	Manila
+DiC.txt	DiC
+The_Hobbit.txt	The Hobbit
+The_Lord_of_the_Rings.txt	The Lord of the Rings
+Extinction.txt	Extinction
+Minehead.txt	Minehead
+Hank_Azaria.txt	Hank Azaria
+Mexico_City.txt	Mexico City
+1821.txt	1821
+John_Hinckley_Jr.txt	John Hinckley Jr.
+Tampico_Illinois.txt	Tampico, Illinois
+Surface_area.txt	Surface area
+Al_Hirschfeld.txt	Al Hirschfeld
+Mobile_Army_Surgical_Hospital.txt	Mobile Army Surgical Hospital
+Illinois.txt	Illinois
+Seattle.txt	Seattle
+Kiefer_Sutherland.txt	Kiefer Sutherland
+Stirling.txt	Stirling
+Tuvaluan_language.txt	Tuvaluan language
+Tokelau.txt	Tokelau
+Communist_state.txt	Communist state
+1792.txt	1792
+1873.txt	1873
+1849.txt	1849
+Solitaire_card_game.txt	Solitaire (card game)
+Optics.txt	Optics
+Václav_Klaus.txt	Václav Klaus
+Barbra_Streisand.txt	Barbra Streisand
+Jamaica.txt	Jamaica
+Denver.txt	Denver
+Carl_Lewis.txt	Carl Lewis
+Pink.txt	Pink
+Bleach.txt	Bleach
+Polygon.txt	Polygon
+Kazakhstan.txt	Kazakhstan
+Sign.txt	Sign
+Barley.txt	Barley
+Mount_Vesuvius.txt	Mount Vesuvius
+1853.txt	1853
+1891.txt	1891
+Mineralogy.txt	Mineralogy
+Supermarket.txt	Supermarket
+Ecuador.txt	Ecuador
+Orlando_disambiguation.txt	Orlando (disambiguation)
+Glossary.txt	Glossary
+1527.txt	1527
+1373.txt	1373
+Comedian.txt	Comedian
+Turin.txt	Turin
+Hobart.txt	Hobart
+New_Testament.txt	New Testament
+Gospel.txt	Gospel
+Palestine_region.txt	Palestine (region)
+Paul_the_Apostle.txt	Paul the Apostle
+Old_Testament.txt	Old Testament
+Painting.txt	Painting
+Horse.txt	Horse
+Afterlife.txt	Afterlife
+Prayer.txt	Prayer
+Book_of_Genesis.txt	Book of Genesis
+Joseph_Hebrew_Bible.txt	Joseph (Hebrew Bible)
+Mary_Magdalene.txt	Mary Magdalene
+Witness.txt	Witness
+Corinthians.txt	Corinthians
+Corinth.txt	Corinth
+Peloponnese.txt	Peloponnese
+Isthmus_of_Corinth.txt	Isthmus of Corinth
+Tripoli.txt	Tripoli
+Argos.txt	Argos
+Sparta.txt	Sparta
+Olympia.txt	Olympia
+Pyrgos.txt	Pyrgos
+Thessaloniki.txt	Thessaloniki
+Florina.txt	Florina
+Pella.txt	Pella
+Attica.txt	Attica
+Kastoria.txt	Kastoria
+Kozani.txt	Kozani
+Chalkidiki.txt	Chalkidiki
+Euboea.txt	Euboea
+Grevena.txt	Grevena
+Arta.txt	Arta
+Trikala.txt	Trikala
+Lesbos.txt	Lesbos
+Samos.txt	Samos
+Evros.txt	Evros
+Cyclades.txt	Cyclades
+Serres.txt	Serres
+Kilkis.txt	Kilkis
+Chania.txt	Chania
+Xanthi_regional_unit.txt	Xanthi (regional unit)
+Biltine_prefecture.txt	Biltine (prefecture)
+Bourkou-Ennedi-Tibesti.txt	Bourkou-Ennedi-Tibesti
+Faya-Largeau.txt	Faya-Largeau
+Chari-Baguirmi_prefecture.txt	Chari-Baguirmi (prefecture)
+Kanem_prefecture.txt	Kanem (prefecture)
+Ron_Howard.txt	Ron Howard
+Playboy.txt	Playboy
+1845.txt	1845
+1817.txt	1817
+Larry_David.txt	Larry David
+Joint_Base_Pearl_HarborHickam.txt	Joint Base Pearl Harbor–Hickam
+Amsterdam.txt	Amsterdam
+Paraguay.txt	Paraguay
+Loch_Ness.txt	Loch Ness
+Gary_Burghoff.txt	Gary Burghoff
+1847.txt	1847
+Fred_Gwynne.txt	Fred Gwynne
+Cannabis.txt	Cannabis
+CategoryCornwall.txt	Category:Cornwall
+Nevada.txt	Nevada
+Comoros.txt	Comoros
+Oat.txt	Oat
+Kapingamarangi.txt	Kapingamarangi
+Kiribati.txt	Kiribati
+Bisexuality.txt	Bisexuality
+Barbados.txt	Barbados
+Annie.txt	Annie
+James_Taylor.txt	James Taylor
+Truro.txt	Truro
+San_Francisco.txt	San Francisco
+Pelops.txt	Pelops
+Job.txt	Job
+Crop.txt	Crop
+Proletariat.txt	Proletariat
+Ohio_River.txt	Ohio River
+Croatia.txt	Croatia
+El_Alamein.txt	El Alamein
+Otis_Redding.txt	Otis Redding
+Black_Forest.txt	Black Forest
+Frankie_Avalon.txt	Frankie Avalon
+Celebrity_chef.txt	Celebrity chef
+Huntz_Hall.txt	Huntz Hall
+Robert_Peel.txt	Robert Peel
+Herodotus.txt	Herodotus
+Chinook.txt	Chinook
+Etoumbi.txt	Etoumbi
+Chad.txt	Chad
+Anal_sex.txt	Anal sex
+Honor_Blackman.txt	Honor Blackman
+Hamlet.txt	Hamlet
+Director.txt	Director
+Bias.txt	Bias
+1701.txt	1701
+Harpsichord.txt	Harpsichord
+The_Kingston_Trio.txt	The Kingston Trio
+The_Passion_of_the_Christ.txt	The Passion of the Christ
+Depression.txt	Depression
+Cavalry.txt	Cavalry
+Zachary_Taylor.txt	Zachary Taylor
+Gianni_Rodari.txt	Gianni Rodari
+Montgomery_Alabama.txt	Montgomery, Alabama
+Omaha_Nebraska.txt	Omaha, Nebraska
+Toledo_Spain.txt	Toledo, Spain
+Tommy_Tutone.txt	Tommy Tutone
+Judas_Priest.txt	Judas Priest
+Palo_Alto_California.txt	Palo Alto, California
+Everly_Brothers.txt	Everly Brothers
+1896.txt	1896
+42.txt	42
+Willie_Nelson.txt	Willie Nelson
+Africa-Eurasia.txt	Africa-Eurasia
+1916.txt	1916
+Cemetery.txt	Cemetery
+Linda_Blair.txt	Linda Blair
+David_Crosby.txt	David Crosby
+Paul_Harvey.txt	Paul Harvey
+Carbon_dioxide.txt	Carbon dioxide
+Intermission.txt	Intermission
+David_Duchovny.txt	David Duchovny
+Laramie_Wyoming.txt	Laramie, Wyoming
+Black_Death.txt	Black Death
+Liverpool.txt	Liverpool
+1166.txt	1166
+Serfdom.txt	Serfdom
+Refrigerator.txt	Refrigerator
+Janis_Ian.txt	Janis Ian
+Vilnius.txt	Vilnius
+1524.txt	1524
+Fungus.txt	Fungus
+Guernsey.txt	Guernsey
+Pottery.txt	Pottery
+Screenwriter.txt	Screenwriter
+Sacramento_California.txt	Sacramento, California
+Alexander_Scriabin.txt	Alexander Scriabin
+Robert_Mugabe.txt	Robert Mugabe
+Guyana.txt	Guyana
+Sen_no_Rikyu.txt	Sen no Rikyu
+Oscar_Wilde.txt	Oscar Wilde
+U2.txt	U2
+Bono.txt	Bono
+Adam_Clayton.txt	Adam Clayton
+The_Edge.txt	The Edge
+Larry_Mullen_Jr.txt	Larry Mullen Jr.
+Mariah_Carey.txt	Mariah Carey
+Andrology.txt	Andrology
+1503.txt	1503
+Herbert_Hoover.txt	Herbert Hoover
+James_A_Garfield.txt	James A. Garfield
+Robert_Reed.txt	Robert Reed
+Dishwasher.txt	Dishwasher
+John_Quincy_Adams.txt	John Quincy Adams
+Peter_Fonda.txt	Peter Fonda
+Dennis_Hopper.txt	Dennis Hopper
+Todd_Rundgren.txt	Todd Rundgren
+1066.txt	1066
+1497.txt	1497
+1559.txt	1559
+1581.txt	1581
+1509.txt	1509
+1521.txt	1521
+Al-Qaeda.txt	Al-Qaeda
+1863.txt	1863
+1905.txt	1905
+1917.txt	1917
+1915.txt	1915
+Tallinn.txt	Tallinn
+Lombardy.txt	Lombardy
+Regions_of_Italy.txt	Regions of Italy
+MediaWikiConfirmemail_text.txt	MediaWiki:Confirmemail text
+1886.txt	1886
+Vladimir_Nabokov.txt	Vladimir Nabokov
+Abingdon_Oxfordshire.txt	Abingdon, Oxfordshire
+Yeadon.txt	Yeadon
+George_Washington_Carver.txt	George Washington Carver
+Julian_calendar.txt	Julian calendar
+Gregorian_calendar.txt	Gregorian calendar
+Southern_hemisphere.txt	Southern hemisphere
+TemplateUser_page.txt	Template:User page
+Sufism.txt	Sufism
+Dove.txt	Dove
+Antonio_Prohias.txt	Antonio Prohias
+TemplateCaribbean.txt	Template:Caribbean
+Chancellor.txt	Chancellor
+MUD.txt	MUD
+Ulysses_S_Grant.txt	Ulysses S. Grant
+Grenada.txt	Grenada
+Accrington.txt	Accrington
+Yateley.txt	Yateley
+Stratford-upon-Avon.txt	Stratford-upon-Avon
+Pune.txt	Pune
+Beer_Devon.txt	Beer, Devon
+Fly.txt	Fly
+Dhikr.txt	Dhikr
+Jockey.txt	Jockey
+George_Lazenby.txt	George Lazenby
+Cone.txt	Cone
+Ice_cream.txt	Ice cream
+Grace_Coolidge.txt	Grace Coolidge
+List_of_US_state_flowers.txt	List of U.S. state flowers
+Blacksmith.txt	Blacksmith
+Caracas.txt	Caracas
+Homestar_Runner.txt	Homestar Runner
+Horst_Köhler.txt	Horst Köhler
+2012.txt	2012
+John_Williams.txt	John Williams
+Superman.txt	Superman
+Camellia.txt	Camellia
+Magnolia.txt	Magnolia
+TemplateCaricom.txt	Template:Caricom
+Exponentiation.txt	Exponentiation
+Sega.txt	Sega
+Primary_school.txt	Primary school
+Restaurant.txt	Restaurant
+Skimmed_milk.txt	Skimmed milk
+Chocolate.txt	Chocolate
+1828.txt	1828
+Northumberland.txt	Northumberland
+Violin.txt	Violin
+Train_station.txt	Train station
+Railway_track.txt	Railway track
+Rail_transport.txt	Rail transport
+Waterway.txt	Waterway
+Terminus.txt	Terminus
+Junction.txt	Junction
+Station.txt	Station
+1816.txt	1816
+James_Brown.txt	James Brown
+Aldous_Huxley.txt	Aldous Huxley
+Dylan_Thomas.txt	Dylan Thomas
+Leo_Gorcey.txt	Leo Gorcey
+1750.txt	1750
+Indiana.txt	Indiana
+Marun_Field.txt	Marun Field
+Wolf.txt	Wolf
+Frank_Lampard.txt	Frank Lampard
+Eswatini.txt	Eswatini
+Liberia.txt	Liberia
+Central_African_Republic.txt	Central African Republic
+Kim_Jong-nam.txt	Kim Jong-nam
+Western_Sahara.txt	Western Sahara
+Tunis.txt	Tunis
+Mozambique.txt	Mozambique
+Dian_Fossey.txt	Dian Fossey
+Maryland.txt	Maryland
+Billy_Paul.txt	Billy Paul
+Rita_Coolidge.txt	Rita Coolidge
+Carole_Bayer_Sager.txt	Carole Bayer Sager
+Elvis_Costello.txt	Elvis Costello
+The_Cure.txt	The Cure
+Crawley.txt	Crawley
+Blue_Öyster_Cult.txt	Blue Öyster Cult
+Steppenwolf.txt	Steppenwolf
+Creedence_Clearwater_Revival.txt	Creedence Clearwater Revival
+Ferret.txt	Ferret
+Three_Dog_Night.txt	Three Dog Night
+Grand_Funk_Railroad.txt	Grand Funk Railroad
+The_Sweet.txt	The Sweet
+Prince_musician.txt	Prince (musician)
+Duane_Eddy.txt	Duane Eddy
+Nurse.txt	Nurse
+Violent_Femmes.txt	Violent Femmes
+Ozzy_Osbourne.txt	Ozzy Osbourne
+Dinah_Shore.txt	Dinah Shore
+Bryan_Adams.txt	Bryan Adams
+Roy_Orbison.txt	Roy Orbison
+Millet.txt	Millet
+Taylor_Dayne.txt	Taylor Dayne
+Stephen_Stills.txt	Stephen Stills
+SpongeBob_SquarePants.txt	SpongeBob SquarePants
+Paul__Paula.txt	Paul & Paula
+Seafood.txt	Seafood
+Peer_review.txt	Peer review
+Puerto_Rico.txt	Puerto Rico
+Pilgrimage.txt	Pilgrimage
+1703.txt	1703
+Watermelon.txt	Watermelon
+TemplateCountries_of_Africa.txt	Template:Countries of Africa
+Monrovia.txt	Monrovia
+Paul_Anka.txt	Paul Anka
+Neil_Young.txt	Neil Young
+The_Hitchhikers_Guide_to_the_Galaxy.txt	The Hitchhiker's Guide to the Galaxy
+Cookbook.txt	Cookbook
+Somalia.txt	Somalia
+Mel_Blanc.txt	Mel Blanc
+Conagra_Brands.txt	Conagra Brands
+IPod.txt	IPod
+Costa_Rica.txt	Costa Rica
+Wisconsin.txt	Wisconsin
+Odia_Coates.txt	Odia Coates
+Amy_Grant.txt	Amy Grant
+Dalida.txt	Dalida
+The_Bangles.txt	The Bangles
+Britcom.txt	Britcom
+Kris_Kristofferson.txt	Kris Kristofferson
+Mathematical_constant.txt	Mathematical constant
+Leaning_Tower_of_Pisa.txt	Leaning Tower of Pisa
+Tower.txt	Tower
+Tel_Aviv.txt	Tel Aviv
+Trigonometry.txt	Trigonometry
+Monotheism.txt	Monotheism
+Polytheism.txt	Polytheism
+Nelvana.txt	Nelvana
+Jeb_Bush.txt	Jeb Bush
+Auckland.txt	Auckland
+Capitalism.txt	Capitalism
+Ghana.txt	Ghana
+Strawberry_Shortcake.txt	Strawberry Shortcake
+Christina_Aguilera.txt	Christina Aguilera
+TemplateNorth_America.txt	Template:North America
+TemplateSouth_America.txt	Template:South America
+Chicken.txt	Chicken
+Floppy_disk.txt	Floppy disk
+Nat_King_Cole.txt	Nat King Cole
+Voice_of_America.txt	Voice of America
+George_Gershwin.txt	George Gershwin
+Aaron_Copland.txt	Aaron Copland
+Diphthong.txt	Diphthong
+The_Price_is_Right.txt	The Price is Right
+Monophthong.txt	Monophthong
+Kalua.txt	Kalua
+Ultraviolet.txt	Ultraviolet
+Ornithology.txt	Ornithology
+Rod_Stewart.txt	Rod Stewart
+Sean_Connery.txt	Sean Connery
+1867.txt	1867
+The_Specials.txt	The Specials
+KC_and_the_Sunshine_Band.txt	KC and the Sunshine Band
+Roberta_Flack.txt	Roberta Flack
+Arad_Romania.txt	Arad, Romania
+Transsexual.txt	Transsexual
+Pianist.txt	Pianist
+Telephone_book.txt	Telephone book
+French_dip_sandwich.txt	French dip sandwich
+Coventry.txt	Coventry
+Billy_Preston.txt	Billy Preston
+Popular_music.txt	Popular music
+Pop.txt	Pop
+Computer_virus.txt	Computer virus
+Mac.txt	Mac
+Tom_Jones.txt	Tom Jones
+Hades.txt	Hades
+Superlative.txt	Superlative
+Learning_disability.txt	Learning disability
+Wheelbarrow.txt	Wheelbarrow
+Cold.txt	Cold
+Electrical_conductivity.txt	Electrical conductivity
+Pierre_Omidyar.txt	Pierre Omidyar
+Caribert_of_Laon.txt	Caribert of Laon
+First_Lady_of_the_United_States.txt	First Lady of the United States
+Star_Wars.txt	Star Wars
+Korean_language.txt	Korean language
+Kansas.txt	Kansas
+James_Buchanan.txt	James Buchanan
+Hand.txt	Hand
+Rule.txt	Rule
+1910s.txt	1910s
+Bahrain.txt	Bahrain
+William_Christopher.txt	William Christopher
+Boxer_shorts.txt	Boxer shorts
+CD_player.txt	CD player
+Fluid_dynamics.txt	Fluid dynamics
+Ernest_Hemingway.txt	Ernest Hemingway
+MSN.txt	MSN
+Reed_instrument.txt	Reed (instrument)
+1790.txt	1790
+Nuuk.txt	Nuuk
+Lumberjack.txt	Lumberjack
+Muhammad.txt	Muhammad
+Ford_Mustang.txt	Ford Mustang
+Red_Hat_Linux.txt	Red Hat Linux
+Sacavém.txt	Sacavém
+Shooter_game.txt	Shooter game
+Sushi.txt	Sushi
+The_Thinker.txt	The Thinker
+Nazko_Cone.txt	Nazko Cone
+Anahim_Volcanic_Belt.txt	Anahim Volcanic Belt
+Chilcotin_Group.txt	Chilcotin Group
+Garibaldi_Volcanic_Belt.txt	Garibaldi Volcanic Belt
+Mount_Garibaldi.txt	Mount Garibaldi
+Mount_Meager.txt	Mount Meager
+Metaphysics.txt	Metaphysics
+Washington_state.txt	Washington (state)
+Clematis.txt	Clematis
+Rational_number.txt	Rational number
+Saint_Patricks_Day.txt	Saint Patrick's Day
+Edgar_Cayce.txt	Edgar Cayce
+Hibiscus_syriacus.txt	Hibiscus syriacus
+Hibiscus.txt	Hibiscus
+WikipediaHelp_with_media_files.txt	Wikipedia:Help with media files
+Maceió.txt	Maceió
+Alagoas.txt	Alagoas
+René_Descartes.txt	René Descartes
+TemplateEurope.txt	Template:Europe
+Tanzania.txt	Tanzania
+Governor.txt	Governor
+Kingdom_of_Great_Britain.txt	Kingdom of Great Britain
+Ford_Model_T.txt	Ford Model T
+Volkswagen.txt	Volkswagen
+Toyota.txt	Toyota
+Interpreter.txt	Interpreter
+Horseshoe.txt	Horseshoe
+Carlos_Menem.txt	Carlos Menem
+Buenos_Aires_Province.txt	Buenos Aires Province
+TemplateProvinces_of_Argentina.txt	Template:Provinces of Argentina
+Canadian_Broadcasting_Corporation.txt	Canadian Broadcasting Corporation
+Romeo_and_Juliet.txt	Romeo and Juliet
+Baz_Luhrmann.txt	Baz Luhrmann
+Rock_and_roll.txt	Rock and roll
+Thomas_Edison.txt	Thomas Edison
+Diabetes_mellitus.txt	Diabetes mellitus
+Diabetes.txt	Diabetes
+18th_century.txt	18th century
+17th_century.txt	17th century
+Victor_Hugo.txt	Victor Hugo
+FIFA_World_Cup.txt	FIFA World Cup
+1643.txt	1643
+Jakarta.txt	Jakarta
+Comedy_Central.txt	Comedy Central
+Apron.txt	Apron
+Pearl_Jam.txt	Pearl Jam
+Social_Distortion.txt	Social Distortion
+Andy_Gibb.txt	Andy Gibb
+INXS.txt	INXS
+Chicago_band.txt	Chicago (band)
+The_Turtles.txt	The Turtles
+Strawberry_Alarm_Clock.txt	Strawberry Alarm Clock
+Psychedelic_pop.txt	Psychedelic pop
+Donovan.txt	Donovan
+Frisian_languages.txt	Frisian languages
+Smashing_Pumpkins.txt	Smashing Pumpkins
+Tool_band.txt	Tool (band)
+Death_band.txt	Death (band)
+Mötley_Crüe.txt	Mötley Crüe
+Radio_control.txt	Radio control
+Tucumán_Province.txt	Tucumán Province
+Duran_Duran.txt	Duran Duran
+Peter_Tosh.txt	Peter Tosh
+Billy_Joel.txt	Billy Joel
+Lake_Constance.txt	Lake Constance
+Samurai.txt	Samurai
+The_Republic.txt	The Republic
+Aesthetics.txt	Aesthetics
+Wes_Craven.txt	Wes Craven
+Earth_Wind__Fire.txt	Earth, Wind & Fire
+Fifth_Dimension.txt	Fifth Dimension
+The_Kinks.txt	The Kinks
+Diesel_engine.txt	Diesel engine
+Megabyte.txt	Megabyte
+Waffle.txt	Waffle
+Stargard.txt	Stargard
+Disney_disambiguation.txt	Disney (disambiguation)
+Ruby_slippers.txt	Ruby slippers
+TemplateMicrosoft_Windows_family.txt	Template:Microsoft Windows family
+Pope_John_XXIII.txt	Pope John XXIII
+Beauty.txt	Beauty
+2020s.txt	2020s
+Guitar.txt	Guitar
+List_of_guitarists.txt	List of guitarists
+British_Sea_Power.txt	British Sea Power
+Jimmy_Eat_World.txt	Jimmy Eat World
+Phish.txt	Phish
+Green_Day.txt	Green Day
+Marvin_Gaye.txt	Marvin Gaye
+Masturbation.txt	Masturbation
+TemplateAsia.txt	Template:Asia
+TemplateEuropean_Union.txt	Template:European Union
+Animation.txt	Animation
+Confucius.txt	Confucius
+Consciousness.txt	Consciousness
+Architect.txt	Architect
+La_Jolla.txt	La Jolla
+Arch.txt	Arch
+Vagina.txt	Vagina
+Breast.txt	Breast
+Pregnancy.txt	Pregnancy
+Forest.txt	Forest
+Barber.txt	Barber
+Carpenter.txt	Carpenter
+Electrician.txt	Electrician
+Roof.txt	Roof
+Brick.txt	Brick
+San_Diego.txt	San Diego
+Oriole.txt	Oriole
+Feather.txt	Feather
+Mary-Kate_and_Ashley_Olsen.txt	Mary-Kate and Ashley Olsen
+The_Walt_Disney_Company.txt	The Walt Disney Company
+Hypercholesterolemia.txt	Hypercholesterolemia
+Cholesterol.txt	Cholesterol
+Iowa.txt	Iowa
+Gender_identity.txt	Gender identity
+Americas_Army.txt	America's Army
+Heterosexuality.txt	Heterosexuality
+Hate_crime.txt	Hate crime
+Gay_bashing.txt	Gay bashing
+Emergency_medicine.txt	Emergency medicine
+Berkeley_California.txt	Berkeley, California
+Medical_specialty.txt	Medical specialty
+Pediatrics.txt	Pediatrics
+Jenna_Bush_Hager.txt	Jenna Bush Hager
+Uncyclopedia.txt	Uncyclopedia
+Esperanto.txt	Esperanto
+Barbara_Bush.txt	Barbara Bush
+Kadis-kot.txt	Kadis-kot
+Kenny_Rogers.txt	Kenny Rogers
+Moundou.txt	Moundou
+Andrew_Aagesen.txt	Andrew Aagesen
+Heart_band.txt	Heart (band)
+Golden_Earring.txt	Golden Earring
+Rick_Springfield.txt	Rick Springfield
+Anus.txt	Anus
+Orgasm.txt	Orgasm
+Poop.txt	Poop
+Prostate.txt	Prostate
+Fossil.txt	Fossil
+Nine_Inch_Nails.txt	Nine Inch Nails
+Remixing.txt	Remixing
+H_P_Lovecraft.txt	H. P. Lovecraft
+Hormone.txt	Hormone
+Testosterone.txt	Testosterone
+Cholera.txt	Cholera
+Mandriva_Linux.txt	Mandriva Linux
+Action_theory.txt	Action theory
+Xiangqi.txt	Xiangqi
+Republican_Party_United_States.txt	Republican Party (United States)
+Democratic_Party_United_States.txt	Democratic Party (United States)
+Taste.txt	Taste
+Touch.txt	Touch
+Classical_mechanics.txt	Classical mechanics
+Moai.txt	Moai
+Diogenes_of_Sinope.txt	Diogenes of Sinope
+Vaccination.txt	Vaccination
+Vice_President_of_the_United_States.txt	Vice President of the United States
+Dick_Cheney.txt	Dick Cheney
+Toad_the_Wet_Sprocket.txt	Toad the Wet Sprocket
+Boyz_II_Men.txt	Boyz II Men
+Johnny_Nash.txt	Johnny Nash
+Linda_Ronstadt.txt	Linda Ronstadt
+Heart.txt	Heart
+Heart_disease.txt	Heart disease
+North_Dakota.txt	North Dakota
+LGBT.txt	LGBT
+Rainbow_flag.txt	Rainbow flag
+Dualism.txt	Dualism
+Vomit.txt	Vomit
+Ancient_Greece.txt	Ancient Greece
+Malaria.txt	Malaria
+Blood_vessel.txt	Blood vessel
+Jana_Gana_Mana.txt	Jana Gana Mana
+Circulatory_system.txt	Circulatory system
+Pink_triangle.txt	Pink triangle
+Chat_room.txt	Chat room
+Alan_Wake.txt	Alan Wake
+Devil_May_Cry_4.txt	Devil May Cry 4
+50_Cent.txt	50 Cent
+Subject_school.txt	Subject (school)
+Learning_English.txt	Learning English
+Ethical_tradition.txt	Ethical tradition
+Dildo.txt	Dildo
+Bioinformatics.txt	Bioinformatics
+Economy_of_India.txt	Economy of India
+Testicle.txt	Testicle
+The_Screwtape_Letters.txt	The Screwtape Letters
+WikipediaSimple_talkArchive_1.txt	Wikipedia:Simple talk/Archive 1
+Multiplayer_video_game.txt	Multiplayer video game
+Weird_Al_Yankovic.txt	"Weird Al" Yankovic
+Supertramp.txt	Supertramp
+Tissue_disambiguation.txt	Tissue (disambiguation)
+TemplateReproductive_system.txt	Template:Reproductive system
+TemplateEndocrine_system.txt	Template:Endocrine system
+New_Mexico.txt	New Mexico
+1471.txt	1471
+Sting.txt	Sting
+Starbucks.txt	Starbucks
+Frasier.txt	Frasier
+Spin-off.txt	Spin-off
+Pedophilia.txt	Pedophilia
+Igneous_rock.txt	Igneous rock
+Bauxite.txt	Bauxite
+Chalcopyrite.txt	Chalcopyrite
+Hematite.txt	Hematite
+Galena.txt	Galena
+Bob_Dole.txt	Bob Dole
+Lionel_Richie.txt	Lionel Richie
+Walt_Disney_Pictures.txt	Walt Disney Pictures
+Scrotum.txt	Scrotum
+Ministry_band.txt	Ministry (band)
+Indo-European.txt	Indo-European
+Ingot.txt	Ingot
+Westlife.txt	Westlife
+Ulcer.txt	Ulcer
+CategoryUser_languages.txt	Category:User languages
+Peptic_ulcer.txt	Peptic ulcer
+Symptom.txt	Symptom
+Medical_diagnosis.txt	Medical diagnosis
+True_Jesus_Church.txt	True Jesus Church
+Pokémon_video_game_series.txt	Pokémon (video game series)
+Homer_Simpson.txt	Homer Simpson
+Calcium.txt	Calcium
+A_Series_of_Unfortunate_Events.txt	A Series of Unfortunate Events
+Membrane.txt	Membrane
+Voltaire.txt	Voltaire
+Missouri.txt	Missouri
+South_Dakota.txt	South Dakota
+Wimbledon_London.txt	Wimbledon, London
+Mersey_Beat.txt	Mersey Beat
+1078.txt	1078
+1766.txt	1766
+The_Adventures_of_Pete_and_Pete.txt	The Adventures of Pete and Pete
+427_BC.txt	427 BC
+Motorcycle.txt	Motorcycle
+1585.txt	1585
+Guinea_pig.txt	Guinea pig
+Philip_Glass.txt	Philip Glass
+Audioslave.txt	Audioslave
+Environment.txt	Environment
+Tooth.txt	Tooth
+Petula_Clark.txt	Petula Clark
+Tom_Jones_singer.txt	Tom Jones (singer)
+Slade.txt	Slade
+1776.txt	1776
+Deep_Purple.txt	Deep Purple
+Yogurt.txt	Yogurt
+Marlon_Brando.txt	Marlon Brando
+Galician_language.txt	Galician language
+Ibn_Khaldun.txt	Ibn Khaldun
+Swabian_Jura.txt	Swabian Jura
+Nerve.txt	Nerve
+Vaccine.txt	Vaccine
+Injury.txt	Injury
+Mercedes-Benz.txt	Mercedes-Benz
+Record_label.txt	Record label
+Pipette.txt	Pipette
+Muscle.txt	Muscle
+Game_Boy.txt	Game Boy
+Stomach.txt	Stomach
+Pain.txt	Pain
+Super_Mario_64.txt	Super Mario 64
+MP3.txt	MP3
+King_Crimson.txt	King Crimson
+Fleetwood_Mac.txt	Fleetwood Mac
+The_Yardbirds.txt	The Yardbirds
+Grateful_Dead.txt	Grateful Dead
+Johnny_Winter.txt	Johnny Winter
+Edgar_Winter.txt	Edgar Winter
+Albinism.txt	Albinism
+Paco_de_Lucía.txt	Paco de Lucía
+Hearing.txt	Hearing
+Bhutan.txt	Bhutan
+Caucasian_race.txt	Caucasian race
+Voice.txt	Voice
+James_Madison.txt	James Madison
+James_Monroe.txt	James Monroe
+Martin_Van_Buren.txt	Martin Van Buren
+South_Holland.txt	South Holland
+Grand_Theft_Auto.txt	Grand Theft Auto
+Black_Eyed_Peas.txt	Black Eyed Peas
+PlayStation_Portable.txt	PlayStation Portable
+Abortion.txt	Abortion
+Clock.txt	Clock
+Sexual_orientation.txt	Sexual orientation
+Smiley.txt	Smiley
+Flamenco.txt	Flamenco
+Cream_band.txt	Cream (band)
+Blind_Faith.txt	Blind Faith
+TemplateNo_sources.txt	Template:No sources
+The_Guess_Who.txt	The Guess Who
+WikipediaHow_to_copy-edit.txt	Wikipedia:How to copy-edit
+TemplateWikify.txt	Template:Wikify
+WikipediaGuide_to_layout.txt	Wikipedia:Guide to layout
+Bruce_Springsteen.txt	Bruce Springsteen
+WikipediaVerifiability.txt	Wikipedia:Verifiability
+Intersex.txt	Intersex
+TemplateGastrointestinal_system.txt	Template:Gastrointestinal system
+Human_digestive_system.txt	Human digestive system
+Mouth.txt	Mouth
+Deacon.txt	Deacon
+Friedrich_Engels.txt	Friedrich Engels
+Dinner.txt	Dinner
+Rosa_Luxemburg.txt	Rosa Luxemburg
+Liver.txt	Liver
+Neck_disambiguation.txt	Neck (disambiguation)
+Coachella_Valley.txt	Coachella Valley
+Derivative_work.txt	Derivative work
+Rugby_football.txt	Rugby football
+TemplateUrinary_system.txt	Template:Urinary system
+Kidney.txt	Kidney
+Prefix.txt	Prefix
+UNESCO.txt	UNESCO
+Human_rights.txt	Human rights
+Nationality.txt	Nationality
+Race.txt	Race
+Medical_ethics.txt	Medical ethics
+Sperm.txt	Sperm
+Semen.txt	Semen
+Bilbao.txt	Bilbao
+Middle_school.txt	Middle school
+List_of_Disney_animated_movies.txt	List of Disney animated movies
+List_of_Disney_movies.txt	List of Disney movies
+Ku_Klux_Klan.txt	Ku Klux Klan
+Brown_v_Board_of_Education.txt	Brown v. Board of Education
+Well.txt	Well
+Honey.txt	Honey
+Cracker.txt	Cracker
+Surgery.txt	Surgery
+Pizza.txt	Pizza
+Pepperoni.txt	Pepperoni
+Abdomen.txt	Abdomen
+Heaven.txt	Heaven
+Button.txt	Button
+Multiprocessing.txt	Multiprocessing
+Computer_multitasking.txt	Computer multitasking
+Multithreading.txt	Multithreading
+Fertilization.txt	Fertilization
+Decision.txt	Decision
+Whiteboard.txt	Whiteboard
+Chemist.txt	Chemist
+Biologist.txt	Biologist
+Testicular_cancer.txt	Testicular cancer
+Future.txt	Future
+Fetus.txt	Fetus
+Past.txt	Past
+Particle.txt	Particle
+Ellen_DeGeneres.txt	Ellen DeGeneres
+Rosie_ODonnell.txt	Rosie O'Donnell
+Ass.txt	Ass
+Tissue.txt	Tissue
+Shit.txt	Shit
+Cunt.txt	Cunt
+Dick.txt	Dick
+Nut.txt	Nut
+Bitch.txt	Bitch
+Ball_and_chain.txt	Ball and chain
+Faggot_food.txt	Faggot (food)
+Llanfairpwllgwyngyll.txt	Llanfairpwllgwyngyll
+Pneumoconiosis.txt	Pneumoconiosis
+Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoro.txt	Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu
+Something_Awful.txt	Something Awful
+Farkcom.txt	Fark.com
+Menstruation.txt	Menstruation
+Period.txt	Period
+Nightclub.txt	Nightclub
+Freezing.txt	Freezing
+Precious_metal.txt	Precious metal
+Jewellery.txt	Jewellery
+Potassium.txt	Potassium
+The_Simpsons.txt	The Simpsons
+Teresa_Heinz.txt	Teresa Heinz
+Museum.txt	Museum
+Camera.txt	Camera
+News.txt	News
+Export.txt	Export
+Observatory.txt	Observatory
+Epidemic.txt	Epidemic
+George_of_the_Jungle.txt	George of the Jungle
+Westminster_Abbey.txt	Westminster Abbey
+Eagles_band.txt	Eagles (band)
+Himalayas.txt	Himalayas
+Brihanmumbai_Electric_Supply_and_Transport.txt	Brihanmumbai Electric Supply and Transport
+Gelderland.txt	Gelderland
+Canvas.txt	Canvas
+Large_format_lens.txt	Large format lens
+Ramones.txt	Ramones
+Olivia_Newton-John.txt	Olivia Newton-John
+Kansas_band.txt	Kansas (band)
+Styx_band.txt	Styx (band)
+Jethro_Tull_band.txt	Jethro Tull (band)
+Turtle.txt	Turtle
+Rage_Against_the_Machine.txt	Rage Against the Machine
+Product_mathematics.txt	Product (mathematics)
+Universal_Declaration_of_Human_Rights.txt	Universal Declaration of Human Rights
+Dolphin.txt	Dolphin
+Guinea.txt	Guinea
+Pig.txt	Pig
+Wheat.txt	Wheat
+Taliban.txt	Taliban
+Screw.txt	Screw
+Tajikistan.txt	Tajikistan
+Fear.txt	Fear
+Tongue.txt	Tongue
+Titanium.txt	Titanium
+Hebrew_language.txt	Hebrew language
+Joan_of_Arc.txt	Joan of Arc
+James_Kopp.txt	James Kopp
+Sonic_the_Hedgehog_character.txt	Sonic the Hedgehog (character)
+Hedgehog.txt	Hedgehog
+Final_Fantasy.txt	Final Fantasy
+Georges_Brassens.txt	Georges Brassens
+Display_resolution.txt	Display resolution
+Cervix.txt	Cervix
+Bullet.txt	Bullet
+Frankfort_Kentucky.txt	Frankfort, Kentucky
+Shah_Rukh_Khan.txt	Shah Rukh Khan
+Masashi_Tashiro.txt	Masashi Tashiro
+New_Orleans.txt	New Orleans
+Mamluk.txt	Mamluk
+Laurent_Clerc.txt	Laurent Clerc
+Ivory.txt	Ivory
+Political_subdivisions_of_Brazil.txt	Political subdivisions of Brazil
+Vice_president.txt	Vice president
+Triple_jump.txt	Triple jump
+Texas_hold_em.txt	Texas hold 'em
+Creationism.txt	Creationism
+Flute.txt	Flute
+Staind.txt	Staind
+Ocarina.txt	Ocarina
+Clarinet.txt	Clarinet
+16th_century.txt	16th century
+Lute.txt	Lute
+Independence_Day_United_States.txt	Independence Day (United States)
+Microsoft_Office.txt	Microsoft Office
+Afrikaans.txt	Afrikaans
+Leonard_Bernstein.txt	Leonard Bernstein
+Afrikaans_Language_Monument.txt	Afrikaans Language Monument
+DC_Comics.txt	DC Comics
+Wonder_Woman.txt	Wonder Woman
+Bob_Saget.txt	Bob Saget
+Wilmington.txt	Wilmington
+Phil_Collins.txt	Phil Collins
+Badfinger.txt	Badfinger
+United_Nations_Security_Council.txt	United Nations Security Council
+High_jump.txt	High jump
+Manhattan.txt	Manhattan
+The_Bronx.txt	The Bronx
+Bob_Denver.txt	Bob Denver
+1100.txt	1100
+Monk.txt	Monk
+Dream_Theater.txt	Dream Theater
+Triangle.txt	Triangle
+Feminism.txt	Feminism
+Eivør_Pálsdóttir.txt	Eivør Pálsdóttir
+Hippopotamus.txt	Hippopotamus
+Prefecture.txt	Prefecture
+2010.txt	2010
+Eris_dwarf_planet.txt	Eris (dwarf planet)
+Operation_Overlord.txt	Operation Overlord
+Mike_Tyson.txt	Mike Tyson
+Cleveland.txt	Cleveland
+Lexus.txt	Lexus
+Against.txt	Against
+Dentition.txt	Dentition
+Plectrum.txt	Plectrum
+Danny_Barker.txt	Danny Barker
+Charlie_Christian.txt	Charlie Christian
+Franco_Cerri.txt	Franco Cerri
+Eddie_Condon.txt	Eddie Condon
+Al_Di_Meola.txt	Al Di Meola
+White_House.txt	White House
+George_Carlin.txt	George Carlin
+Portuguese_language.txt	Portuguese language
+Hurricane_Katrina.txt	Hurricane Katrina
+Carlos_Fuentes.txt	Carlos Fuentes
+Bass_guitar.txt	Bass guitar
+Saint_Anna.txt	Saint Anna
+Nepal.txt	Nepal
+Zagreb.txt	Zagreb
+Swedish.txt	Swedish
+Swedish_krona.txt	Swedish krona
+Giant.txt	Giant
+Piedmont.txt	Piedmont
+Terry_Fox.txt	Terry Fox
+Rick_Hansen.txt	Rick Hansen
+Fin.txt	Fin
+Method.txt	Method
+Region.txt	Region
+1514.txt	1514
+Toothache.txt	Toothache
+Icing_food.txt	Icing (food)
+Romford.txt	Romford
+Maltose.txt	Maltose
+Toolbox.txt	Toolbox
+Stone.txt	Stone
+Hotspot_computers.txt	Hotspot (computers)
+Winnipeg.txt	Winnipeg
+Kilobyte.txt	Kilobyte
+Byte.txt	Byte
+Subatomic_particle.txt	Subatomic particle
+Screen.txt	Screen
+Breathing.txt	Breathing
+Laura_Bush.txt	Laura Bush
+Dijon.txt	Dijon
+Simon_Rodia.txt	Simon Rodia
+Terry_Southern.txt	Terry Southern
+Emeril_Lagasse.txt	Emeril Lagasse
+Hurricane_Rita.txt	Hurricane Rita
+Boeing_767.txt	Boeing 767
+Stephen_King.txt	Stephen King
+Baby.txt	Baby
+Cactus.txt	Cactus
+Desert.txt	Desert
+Dessert.txt	Dessert
+William_Henry_Harrison.txt	William Henry Harrison
+Viacom.txt	Viacom
+Uniform_Resource_Locator.txt	Uniform Resource Locator
+Cuckoo_clock.txt	Cuckoo clock
+Labrador_Retriever.txt	Labrador Retriever
+Margaret_Thatcher.txt	Margaret Thatcher
+Firefighter.txt	Firefighter
+Random.txt	Random
+Political_status_of_Taiwan.txt	Political status of Taiwan
+Cellular_respiration.txt	Cellular respiration
+Lesotho.txt	Lesotho
+Alexander_Hamilton.txt	Alexander Hamilton
+Köbes.txt	Köbes
+Stop-motion.txt	Stop-motion
+DC_United.txt	D.C. United
+Wendy_Carlos.txt	Wendy Carlos
+Boolean_algebra.txt	Boolean algebra
+Harry_Potter_and_the_Philosophers_Stone.txt	Harry Potter and the Philosopher's Stone
+Justin_Timberlake.txt	Justin Timberlake
+Aramaic_language.txt	Aramaic language
+Libya.txt	Libya
+Population_density.txt	Population density
+Joey.txt	Joey
+Saturday_Night_Fever.txt	Saturday Night Fever
+Greyhound.txt	Greyhound
+Grand_unification_theory.txt	Grand unification theory
+Factory.txt	Factory
+United_States_Declaration_of_Independence.txt	United States Declaration of Independence
+Jordan.txt	Jordan
+Prejudice.txt	Prejudice
+Inflation.txt	Inflation
+Obsessivecompulsive_disorder.txt	Obsessive–compulsive disorder
+Industrial_Revolution.txt	Industrial Revolution
+Botswana.txt	Botswana
+Ferry.txt	Ferry
+Rapa.txt	Rapa
+Jo_Whiley.txt	Jo Whiley
+Windows_Vista.txt	Windows Vista
+The_Gambia.txt	The Gambia
+Derry.txt	Derry
+Point.txt	Point
+Federal_Reserve.txt	Federal Reserve
+Trent_Reznor.txt	Trent Reznor
+Oklahoma.txt	Oklahoma
+Terry_Jacks.txt	Terry Jacks
+Sark.txt	Sark
+Robert_Crumb.txt	Robert Crumb
+Renée_Zellweger.txt	Renée Zellweger
+Meryl_Streep.txt	Meryl Streep
+Bench.txt	Bench
+List_of_national_anthems.txt	List of national anthems
+Celsius.txt	Celsius
+Fahrenheit.txt	Fahrenheit
+Agent.txt	Agent
+Anthrax.txt	Anthrax
+Napoleon.txt	Napoleon
+Wetzlar.txt	Wetzlar
+Andy_Warhol.txt	Andy Warhol
+Romulus_and_Remus.txt	Romulus and Remus
+Confucianism.txt	Confucianism
+Lead.txt	Lead
+Bell.txt	Bell
+Transformers_toy_line.txt	Transformers (toy line)
+Simplicity.txt	Simplicity
+Mathematician.txt	Mathematician
+West_Virginia.txt	West Virginia
+Virginia.txt	Virginia
+Vermont.txt	Vermont
+South_Carolina.txt	South Carolina
+Rhode_Island.txt	Rhode Island
+North_Carolina.txt	North Carolina
+New_Jersey.txt	New Jersey
+New_Hampshire.txt	New Hampshire
+Watch_glass.txt	Watch glass
+Funnel.txt	Funnel
+Constantinople.txt	Constantinople
+Mormonism.txt	Mormonism
+Mohammad_Khatami.txt	Mohammad Khatami
+Cider.txt	Cider
+1499.txt	1499
+Bison.txt	Bison
+Baseball_cap.txt	Baseball cap
+Windows_95.txt	Windows 95
+Otto_von_Bismarck.txt	Otto von Bismarck
+Differential_calculus.txt	Differential calculus
+Socialist_country.txt	Socialist country
+Hamster.txt	Hamster
+Watch.txt	Watch
+Ed_Gein.txt	Ed Gein
+Easter.txt	Easter
+Agnosticism.txt	Agnosticism
+Universal_Media_Disc.txt	Universal Media Disc
+Georgia_country.txt	Georgia (country)
+First-person_shooter.txt	First-person shooter
+Random-access_memory.txt	Random-access memory
+Read-only_memory.txt	Read-only memory
+Integrated_circuit.txt	Integrated circuit
+Moss.txt	Moss
+Function_mathematics.txt	Function (mathematics)
+Miami.txt	Miami
+Grunge_music.txt	Grunge music
+Carly_Simon.txt	Carly Simon
+Toto_band.txt	Toto (band)
+Jim_Jones.txt	Jim Jones
+Saludemos_la_Patria_orgullosos.txt	Saludemos la Patria orgullosos
+Eritrea.txt	Eritrea
+Sanford_Dole.txt	Sanford Dole
+Ancient_Egypt.txt	Ancient Egypt
+Alexander_the_Great.txt	Alexander the Great
+Brisbane.txt	Brisbane
+Hawaiian_language.txt	Hawaiian language
+Skinhead.txt	Skinhead
+Anime.txt	Anime
+Sudan.txt	Sudan
+OpenBSD.txt	OpenBSD
+1170.txt	1170
+1883.txt	1883
+1741.txt	1741
+Civil_war.txt	Civil war
+1175.txt	1175
+Crocodile.txt	Crocodile
+ZZT.txt	ZZT
+Centre.txt	Centre
+Pyotr_Ilyich_Tchaikovsky.txt	Pyotr Ilyich Tchaikovsky
+BBC_Radio_1.txt	BBC Radio 1
+1910.txt	1910
+1443.txt	1443
+Sea_level.txt	Sea level
+Fear_Factory.txt	Fear Factory
+Sublime.txt	Sublime
+Crass.txt	Crass
+Black_Flag.txt	Black Flag
+Crazy_Frog.txt	Crazy Frog
+Surrey.txt	Surrey
+USB.txt	USB
+Punk_rock.txt	Punk rock
+Edip_Yuksel.txt	Edip Yuksel
+Epididymitis.txt	Epididymitis
+Perth_Western_Australia.txt	Perth, Western Australia
+Osama_bin_Laden.txt	Osama bin Laden
+Mayflower_ship.txt	Mayflower (ship)
+Reykjavík.txt	Reykjavík
+Uniform.txt	Uniform
+Battle_of_Trafalgar.txt	Battle of Trafalgar
+Peter_Frampton.txt	Peter Frampton
+Nairobi.txt	Nairobi
+Derek_and_the_Dominos.txt	Derek and the Dominos
+Carl_Radle.txt	Carl Radle
+Nineteen_Eighty-Four.txt	Nineteen Eighty-Four
+Grover_Cleveland.txt	Grover Cleveland
+Bassist.txt	Bassist
+President_of_the_United_States_of_America_disambiguation.txt	President of the United States of America (disambiguation)
+Fascism.txt	Fascism
+Erection.txt	Erection
+Methamphetamine.txt	Methamphetamine
+Mother.txt	Mother
+Democrat.txt	Democrat
+Caribbean.txt	Caribbean
+Caribbean_Sea.txt	Caribbean Sea
+Gibraltar.txt	Gibraltar
+Windows_2000.txt	Windows 2000
+Junior_Certificate.txt	Junior Certificate
+Leaving_Certificate.txt	Leaving Certificate
+Empire.txt	Empire
+Writer.txt	Writer
+Inventor.txt	Inventor
+Bear.txt	Bear
+Meteorology.txt	Meteorology
+Technology.txt	Technology
+Wonders_of_the_World.txt	Wonders of the World
+Daughter.txt	Daughter
+1516.txt	1516
+Oliver_Stone.txt	Oliver Stone
+Whale_shark.txt	Whale shark
+Qatar.txt	Qatar
+Salt_water.txt	Salt water
+Oceanography.txt	Oceanography
+Diamanto_Manolakou.txt	Diamanto Manolakou
+Arthur_C_Clarke.txt	Arthur C. Clarke
+Anthony_Burgess.txt	Anthony Burgess
+Rape.txt	Rape
+Emmet_D_Boyle.txt	Emmet D. Boyle
+Carp.txt	Carp
+Christopher_Walken.txt	Christopher Walken
+Gene_Hackman.txt	Gene Hackman
+Cod.txt	Cod
+US_1st_Infantry_Division.txt	U.S. 1st Infantry Division
+Charles_Manson.txt	Charles Manson
+Herring.txt	Herring
+Ray.txt	Ray
+Tuna.txt	Tuna
+Fishing_hook.txt	Fishing hook
+Fishing_rod.txt	Fishing rod
+Mammalia_taxonomy.txt	Mammalia (taxonomy)
+Nottuln.txt	Nottuln
+Coesfeld.txt	Coesfeld
+St-Pius-Gymnasium.txt	St.-Pius-Gymnasium
+Cell_membrane.txt	Cell membrane
+Morocco.txt	Morocco
+Andrew_Johnson.txt	Andrew Johnson
+1808.txt	1808
+Starfish.txt	Starfish
+1582.txt	1582
+Jellyfish.txt	Jellyfish
+Tilapia.txt	Tilapia
+Sardine.txt	Sardine
+Bone.txt	Bone
+Anteater.txt	Anteater
+Sorghum.txt	Sorghum
+Polar_bear.txt	Polar bear
+The_Blues_Image.txt	The Blues Image
+Drummer.txt	Drummer
+Singer.txt	Singer
+Keyboardist.txt	Keyboardist
+Mao_Zedong.txt	Mao Zedong
+Opus_Dei.txt	Opus Dei
+Superhero.txt	Superhero
+Paul_Karrer.txt	Paul Karrer
+Smush_Parker.txt	Smush Parker
+Half-Life_video_game.txt	Half-Life (video game)
+1681.txt	1681
+Anonymity.txt	Anonymity
+Spectroscopy.txt	Spectroscopy
+Equestrianism.txt	Equestrianism
+United_States_Virgin_Islands.txt	United States Virgin Islands
+Chester_A_Arthur.txt	Chester A. Arthur
+Wizardry.txt	Wizardry
+United_States_Army.txt	United States Army
+Charlemagne.txt	Charlemagne
+Marlow_Buckinghamshire.txt	Marlow, Buckinghamshire
+Italian_unification.txt	Italian unification
+Meditation.txt	Meditation
+List_of_Nobel_Peace_Prize_winners.txt	List of Nobel Peace Prize winners
+Celtic_Park.txt	Celtic Park
+Romanian_language.txt	Romanian language
+Ealing.txt	Ealing
+Roma.txt	Roma
+Ear.txt	Ear
+Czech_language.txt	Czech language
+William_Howard_Taft.txt	William Howard Taft
+Underwear.txt	Underwear
+Monica_Lewinsky.txt	Monica Lewinsky
+1190.txt	1190
+William_S_Burroughs.txt	William S. Burroughs
+1773.txt	1773
+Uganda.txt	Uganda
+Mike_Judge.txt	Mike Judge
+Missing_Persons.txt	Missing Persons
+Blackpool.txt	Blackpool
+Francisco_Franco.txt	Francisco Franco
+Police_officer.txt	Police officer
+Account.txt	Account
+Dutch_people.txt	Dutch people
+Liquid_Paper.txt	Liquid Paper
+Doris_Day.txt	Doris Day
+Jack_the_Ripper.txt	Jack the Ripper
+Johnny_Rivers.txt	Johnny Rivers
+Dr_John.txt	Dr. John
+Death_metal.txt	Death metal
+Suffolk.txt	Suffolk
+Etymology.txt	Etymology
+Mule.txt	Mule
+Dead_Sea.txt	Dead Sea
+Grizzly_bear.txt	Grizzly bear
+American_black_bear.txt	American black bear
+Fur.txt	Fur
+Jackson_Pollock.txt	Jackson Pollock
+Otto_Struve.txt	Otto Struve
+Tamerlane.txt	Tamerlane
+Augustus.txt	Augustus
+Camel.txt	Camel
+15th_century.txt	15th century
+14th_century.txt	14th century
+13th_century.txt	13th century
+12th_century.txt	12th century
+Mammalogy.txt	Mammalogy
+Antibiotics.txt	Antibiotics
+Sexism.txt	Sexism
+Go_board_game.txt	Go (board game)
+Gulf_War.txt	Gulf War
+Point_of_view.txt	Point of view
+Sicily.txt	Sicily
+Donkey.txt	Donkey
+Harry_Potter_and_the_Half-Blood_Prince.txt	Harry Potter and the Half-Blood Prince
+Persian_language.txt	Persian language
+Copenhagen.txt	Copenhagen
+Nepali_language.txt	Nepali language
+Kathmandu.txt	Kathmandu
+Nepali.txt	Nepali
+11th_century.txt	11th century
+10th_century.txt	10th century
+9th_century.txt	9th century
+8th_century.txt	8th century
+7th_century.txt	7th century
+6th_century.txt	6th century
+5th_century.txt	5th century
+4th_century.txt	4th century
+Zambia.txt	Zambia
+Benin.txt	Benin
+Dominican_Republic.txt	Dominican Republic
+1856.txt	1856
+Navassa_Island.txt	Navassa Island
+1648.txt	1648
+Blink-182.txt	Blink-182
+Doctor_Who.txt	Doctor Who
+Concentration_camp.txt	Concentration camp
+Ribosome.txt	Ribosome
+William_Hartnell.txt	William Hartnell
+Patrick_Troughton.txt	Patrick Troughton
+Jon_Pertwee.txt	Jon Pertwee
+Tom_Baker.txt	Tom Baker
+Nazi_Germany.txt	Nazi Germany
+Jim_Reeves.txt	Jim Reeves
+Dusty_Springfield.txt	Dusty Springfield
+The_Offspring.txt	The Offspring
+Aretha_Franklin.txt	Aretha Franklin
+Tomato.txt	Tomato
+Pineapple.txt	Pineapple
+Pear.txt	Pear
+Melon.txt	Melon
+Raspberry.txt	Raspberry
+Plum.txt	Plum
+Peach.txt	Peach
+Fig.txt	Fig
+Grapefruit.txt	Grapefruit
+Grape.txt	Grape
+Blackberry.txt	Blackberry
+Lychee.txt	Lychee
+Cherry.txt	Cherry
+Blackcurrant.txt	Blackcurrant
+Date.txt	Date
+Date_palm.txt	Date palm
+Cherimoya.txt	Cherimoya
+Blueberry.txt	Blueberry
+Momentum.txt	Momentum
+Malmö.txt	Malmö
+Skull.txt	Skull
+Mark_Hoppus.txt	Mark Hoppus
+Sandstone.txt	Sandstone
+Pseudonym.txt	Pseudonym
+Pen_name.txt	Pen name
+Stage_name.txt	Stage name
