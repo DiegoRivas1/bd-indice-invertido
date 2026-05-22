@@ -330,6 +330,7 @@ abdel   1918.txt, 1950s.txt, 1960s.txt, 1970.txt, 1981.txt, 20th_century.txt, Ap
 
 Buscar:
 ```bash
+#Recuperamos solo si la sesion es nueva, el titles.txt se genera una sola vez localmente para evitar 4999 llamadas individuales a S3 en cada busqueda.
 aws s3 cp s3://lab03-indice-invertido/scripts/titles.txt .
 python3 search_wiki.py united states president
 python3 search_wiki.py science technology
