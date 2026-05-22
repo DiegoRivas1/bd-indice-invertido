@@ -116,6 +116,19 @@ aws s3 cp ~/ s3://lab03-indice-invertido/scripts/ --exclude "*" --include "*.py"
 
 ---
 
+## Nota importante sobre los jobs
+
+Los jobs MapReduce se ejecutan una sola vez por dataset. Los índices generados
+quedan guardados permanentemente en S3 y no es necesario relanzarlos a menos que:
+- Se borre accidentalmente el output de S3
+- Se cambien los documentos de entrada
+- Se modifiquen mapper.py o reducer.py
+
+Los outputs ya generados son:
+- `output/`            → índice Gutenberg
+- `output2/`           → índice docs temáticos  
+- `output_wiki_final/` → índice Wikipedia (tardó ~2h 15min)
+
 ## Prueba 1 — Documentos tematicos (replica ejemplo del lab)
 
 Crear documentos:
